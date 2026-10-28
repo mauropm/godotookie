@@ -33,14 +33,28 @@ unfolds with an uplifting localised message.
 
 ```bash
 # Verified environment: Ubuntu 26.04.1, x86_64, Godot 4.7.2
+make env          # environment check
+make run          # launch the game from source
+make test         # content validation + headless integration suite
+make build        # debug Linux executable
+make release      # tests, release export, content verification, ZIP
+make clean        # remove build outputs and Godot import cache
+```
+
+Run `make help` for all targets and options. You can override Godot or launch
+arguments:
+
+```bash
+make GODOT=/path/to/godot run
+make run ARGS="--position 40,40"
+```
+
+The underlying scripts remain available directly:
+
+```bash
 ./scripts/check-dev-env.sh
 ./scripts/run-game.sh
-
-# Headless checks
 ./scripts/test.sh
-python3 tools/validate_fortunes.py
-
-# Linux export
 ./scripts/export-linux.sh
 ./builds/linux/FortuneCookie.x86_64
 ```
@@ -93,6 +107,7 @@ flagged for editorial review, **zero validation failures**.
 
 ```text
 project.godot
+Makefile                   clean/build/run/release developer commands
 scenes/
   main.tscn
   cookie/fortune_cookie.tscn

@@ -12,6 +12,16 @@
 
 ## Linux x86_64 — built and tested here
 
+The convenience command is:
+
+```bash
+make release
+```
+
+It runs content validation and the headless test suite, exports the release binary,
+verifies all packaged content, and creates
+`builds/release/FortuneCookie-1.0.0-linux-x86_64.zip` plus `SHA256SUMS.txt`.
+
 Matching export templates are installed at:
 
 ```text
