@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Fortune Cookie: A Little Luck contributors
+
 extends Node
 ## Coordinates shell pieces and one-shot effects. No nodes are created per crack.
 

@@ -223,12 +223,40 @@ prerequisites; they were not built here. iOS requires macOS and Xcode. See
 - Sound files and playback paths are verified, but no listening test with a calibrated
   audio device was performed.
 
-## Credits and licenses
+## License
 
-See [docs/ASSET_LICENSES.md](docs/ASSET_LICENSES.md) and [LICENSE](LICENSE).
+**MIT License** — see [LICENSE](LICENSE).
 
-- Engine: Godot 4.7.2 (MIT).
-- Fonts: Noto family (SIL Open Font License 1.1), embedded.
+Copyright (c) 2026 Fortune Cookie: A Little Luck contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this
+software and associated documentation files (the "Software"), to deal in the Software
+without restriction, including without limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of the Software, subject to the
+conditions in the [LICENSE](LICENSE) file.
+
+This MIT license applies to:
+
+- the GDScript game and UI code,
+- Python validation and content tooling,
+- shell developer scripts,
+- Godot tests and test scenes,
+- original SVG artwork, original WAV audio and the original game content.
+
+All GDScript, Python and shell source files, plus the Makefile, carry an
+`SPDX-License-Identifier: MIT` header.
+
+Third-party components retain their own licenses:
+
+- **Godot Engine 4.7.2:** MIT. Its copyright notice is included at
+  [docs/GODOT_COPYRIGHT.txt](docs/GODOT_COPYRIGHT.txt).
+- **Noto fonts:** SIL Open Font License 1.1, retained at
+  [assets/fonts/LICENSE-NOTO.txt](assets/fonts/LICENSE-NOTO.txt).
+- Build-time translation models and services are noted in
+  [docs/ASSET_LICENSES.md](docs/ASSET_LICENSES.md); they are not runtime dependencies.
+
+## Credits
+
+- Engine: Godot 4.7.2.
+- Fonts: the Noto family, embedded for offline multilingual support.
 - Artwork, audio, game code and original content: made for this project.
-- Build-time translation models/services are documented; they are not runtime
-  dependencies.

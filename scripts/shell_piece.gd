@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Fortune Cookie: A Little Luck contributors
+
 extends Sprite2D
 ## One independently animated half of the fortune cookie shell.
 

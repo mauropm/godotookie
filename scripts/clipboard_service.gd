@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Fortune Cookie: A Little Luck contributors
+
 class_name ClipboardService
 extends RefCounted
 ## Thin, testable wrapper around the platform clipboard.

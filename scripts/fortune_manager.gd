@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Fortune Cookie: A Little Luck contributors
+
 extends Node
 ## Offline fortune library and bounded no-repeat selection.
 

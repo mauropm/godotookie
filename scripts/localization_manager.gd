@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Fortune Cookie: A Little Luck contributors
+
 extends Node
 ## Locale metadata, runtime interface translations, RTL handling and fonts.
 

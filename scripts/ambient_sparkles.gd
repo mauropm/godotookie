@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Fortune Cookie: A Little Luck contributors
+
 extends Node2D
 ## Small deterministic ambient sparkles. Node count is fixed.
 

@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Fortune Cookie: A Little Luck contributors
+
 extends Node2D
 ## The flying cookie, its explicit state machine and orchestrated crack sequence.
 

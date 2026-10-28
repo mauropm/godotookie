@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Fortune Cookie: A Little Luck contributors
+
 """Build-time NLLB-200 translation of the 150-sentence phrase banks.
 
 This tool is not used by the shipped game and is not a runtime dependency. It

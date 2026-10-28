@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Fortune Cookie: A Little Luck contributors
+
 """Build alternate fortune libraries from translated 150-sentence phrase banks.
 
 This is a resilience fallback for locales whose full-library machine-translation

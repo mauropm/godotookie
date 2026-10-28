@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Fortune Cookie: A Little Luck contributors
+
 # Verify the essentials for developing/running/exporting Fortune Cookie on Ubuntu.
 set -u
 

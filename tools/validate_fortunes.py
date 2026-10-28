@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Fortune Cookie: A Little Luck contributors
+
 """Validate the 30-language fortune library and interface catalogue.
 
 Checks structure, UTF-8/Unicode integrity, counts, duplicates, near-duplicates,

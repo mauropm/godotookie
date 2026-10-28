@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Fortune Cookie: A Little Luck contributors
+
 extends Control
 ## Animated parchment fortune slip with locale-aware typography and RTL support.
 

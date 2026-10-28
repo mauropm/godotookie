@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Fortune Cookie: A Little Luck contributors
+
 """Build the offline fortune library and localised interface strings.
 
 The English source is composed locally from a large, category-aware phrase
