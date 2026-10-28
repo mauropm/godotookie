@@ -175,6 +175,8 @@ Latest results:
 
 The headless suite intentionally exercises malformed JSON and corrupt settings, so its
 log contains expected error/warning lines from those negative tests. The process exits 0.
+Godot also prints a benign shutdown notice about two ObjectDB instances and one resource
+when the test runner quits; the normal game and exported binary exit without that notice.
 
 ## Content pipeline and review
 

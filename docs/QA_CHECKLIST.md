@@ -17,6 +17,8 @@ Status legend: `[x]` verified, `[ ]` manual/device work still required. Nothing 
 - [x] Graphical performance probe completed on the real display/GPU.
 - [x] Clipboard success round-trip on Wayland.
 - [x] WAV files are valid 44.1 kHz/16-bit mono PCM and non-silent.
+- [x] Normal game/export exits cleanly; a benign test-only Godot shutdown notice about
+  two ObjectDB instances and one resource is documented in the README.
 
 Commands:
 
