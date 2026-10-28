@@ -1,0 +1,752 @@
+[
+  {
+    "id": "bank-001",
+    "category": "luck",
+    "text": "Fursa ya bahati iko njiani kwako."
+  },
+  {
+    "id": "bank-002",
+    "category": "luck",
+    "text": "Kutokana na jambo fulani litakalokusaidia, siku yako itakuwa bora zaidi."
+  },
+  {
+    "id": "bank-003",
+    "category": "luck",
+    "text": "Mlango ambao umekuwa ukiutazama unaanza kufunguliwa."
+  },
+  {
+    "id": "bank-004",
+    "category": "luck",
+    "text": "Wakati unaofaa utakutana nawe mahali pasipotazamiwa."
+  },
+  {
+    "id": "bank-005",
+    "category": "luck",
+    "text": "Jambo la kustaajabisha lenye kufurahisha linakusubiri karibu."
+  },
+  {
+    "id": "bank-006",
+    "category": "luck",
+    "text": "Mkutano wa kirafiki utaleta mabadiliko mazuri."
+  },
+  {
+    "id": "bank-007",
+    "category": "luck",
+    "text": "Furaha kidogo itafanya siku yako iwe rahisi zaidi."
+  },
+  {
+    "id": "bank-008",
+    "category": "luck",
+    "text": "Karibuni tutapata mwaliko wenye kuthawabisha."
+  },
+  {
+    "id": "bank-009",
+    "category": "luck",
+    "text": "Njia mpya inafunguliwa wakati unaofaa."
+  },
+  {
+    "id": "bank-010",
+    "category": "luck",
+    "text": "Aksidenti yenye furaha itasababisha jambo zuri."
+  },
+  {
+    "id": "bank-011",
+    "category": "luck",
+    "text": "Uwezekano mzuri uko karibu kuliko unavyofikiri."
+  },
+  {
+    "id": "bank-012",
+    "category": "luck",
+    "text": "Kusudi la aina fulani linafanya kazi kwa faida yako."
+  },
+  {
+    "id": "bank-013",
+    "category": "luck",
+    "text": "Mwanzo mzuri unaanza."
+  },
+  {
+    "id": "bank-014",
+    "category": "hope",
+    "text": "Mwanzo mpya uko karibu kuliko inavyoonekana."
+  },
+  {
+    "id": "bank-015",
+    "category": "hope",
+    "text": "Tayari kesho bora inaanza kuonekana."
+  },
+  {
+    "id": "bank-016",
+    "category": "hope",
+    "text": "Mwanzo mpya unakusubiri."
+  },
+  {
+    "id": "bank-017",
+    "category": "hope",
+    "text": "Sababu ya kutumaini kukupata hivi karibuni."
+  },
+  {
+    "id": "bank-018",
+    "category": "hope",
+    "text": "Asubuhi iliyo wazi italeta upya mwembamba."
+  },
+  {
+    "id": "bank-019",
+    "category": "hope",
+    "text": "Msimu mpya wa uwezekano unaanza."
+  },
+  {
+    "id": "bank-020",
+    "category": "hope",
+    "text": "Nuru inaonekana njiani."
+  },
+  {
+    "id": "bank-021",
+    "category": "hope",
+    "text": "Mbegu ya mabadiliko inakua kwa utulivu."
+  },
+  {
+    "id": "bank-022",
+    "category": "hope",
+    "text": "Ukurasa safi uko tayari kwa sura yako inayofuata."
+  },
+  {
+    "id": "bank-023",
+    "category": "hope",
+    "text": "Mshangao wenye tumaini utainua roho yako."
+  },
+  {
+    "id": "bank-024",
+    "category": "hope",
+    "text": "Nafasi ya pili iko njiani."
+  },
+  {
+    "id": "bank-025",
+    "category": "hope",
+    "text": "Maisha yako yanaanza upya kwa upole."
+  },
+  {
+    "id": "bank-026",
+    "category": "hope",
+    "text": "Ndoto mpya iko tayari kukaribishwa."
+  },
+  {
+    "id": "bank-027",
+    "category": "love",
+    "text": "Una uhusiano wa karibu sana pamoja na wengine."
+  },
+  {
+    "id": "bank-028",
+    "category": "love",
+    "text": "Urafiki wa kudumu utakuletea shangwe."
+  },
+  {
+    "id": "bank-029",
+    "category": "love",
+    "text": "Roho ya jamaa iko karibu zaidi kuliko unavyofikiria."
+  },
+  {
+    "id": "bank-030",
+    "category": "love",
+    "text": "Mazungumzo ya unyoofu yataimarisha uhusiano."
+  },
+  {
+    "id": "bank-031",
+    "category": "love",
+    "text": "Moyo mkarimu utakutana na wako."
+  },
+  {
+    "id": "bank-032",
+    "category": "love",
+    "text": "Rafiki unayemwamini atasimama kando yako."
+  },
+  {
+    "id": "bank-033",
+    "category": "love",
+    "text": "Karibuni tutakuwa na mkutano wenye shangwe."
+  },
+  {
+    "id": "bank-034",
+    "category": "love",
+    "text": "Kucheka pamoja kutakuchochea juma."
+  },
+  {
+    "id": "bank-035",
+    "category": "love",
+    "text": "Mwito wa upendo utakufikia."
+  },
+  {
+    "id": "bank-036",
+    "category": "love",
+    "text": "Rafiki mpya ataleta mtazamo mpya."
+  },
+  {
+    "id": "bank-037",
+    "category": "love",
+    "text": "Pindi ya uchangamfu itafanya moyo wako uhisi ukiwa nyumbani."
+  },
+  {
+    "id": "bank-038",
+    "category": "love",
+    "text": "Ujumbe wa kutoka moyoni utakuja unapohitaji."
+  },
+  {
+    "id": "bank-039",
+    "category": "love",
+    "text": "Mahali ambapo unastahili ni kusubiri."
+  },
+  {
+    "id": "bank-040",
+    "category": "growth",
+    "text": "Ustadi mpya utafungua mlango mzuri."
+  },
+  {
+    "id": "bank-041",
+    "category": "growth",
+    "text": "Ujasiri unaongezeka ndani yako."
+  },
+  {
+    "id": "bank-042",
+    "category": "growth",
+    "text": "Kusudi lililo wazi zaidi linaanza kuonekana."
+  },
+  {
+    "id": "bank-043",
+    "category": "growth",
+    "text": "Maoni mapya yatafanya changamoto iwe rahisi zaidi."
+  },
+  {
+    "id": "bank-044",
+    "category": "growth",
+    "text": "Mazoea yenye afya yatakusaidia kufanya maendeleo."
+  },
+  {
+    "id": "bank-045",
+    "category": "growth",
+    "text": "Uelewaji mpya utakuletea amani."
+  },
+  {
+    "id": "bank-046",
+    "category": "growth",
+    "text": "Sauti yenye nguvu zaidi iko tayari kusikiwa."
+  },
+  {
+    "id": "bank-047",
+    "category": "growth",
+    "text": "Mazoezi ya subira yatakuthawabisha."
+  },
+  {
+    "id": "bank-048",
+    "category": "growth",
+    "text": "Mwenge wa ubunifu utaongoza hatua yako inayofuata."
+  },
+  {
+    "id": "bank-049",
+    "category": "growth",
+    "text": "Somo muhimu linakaribia."
+  },
+  {
+    "id": "bank-050",
+    "category": "growth",
+    "text": "Kuona mambo kwa njia pana kutakusaidia uchague kwa hekima."
+  },
+  {
+    "id": "bank-051",
+    "category": "growth",
+    "text": "Swali la ujasiri litasababisha jibu lenye kutumika."
+  },
+  {
+    "id": "bank-052",
+    "category": "growth",
+    "text": "Wimbo mpya utafanya siku zako ziwe rahisi zaidi."
+  },
+  {
+    "id": "bank-053",
+    "category": "prosperity",
+    "text": "Jitihada zenye matokeo zinaanza kuonyesha matokeo."
+  },
+  {
+    "id": "bank-054",
+    "category": "prosperity",
+    "text": "Mradi wenye kuahidi utapata msaada."
+  },
+  {
+    "id": "bank-055",
+    "category": "prosperity",
+    "text": "Kutumia wakati kwa hekima kutakuletea matokeo yenye kuridhisha."
+  },
+  {
+    "id": "bank-056",
+    "category": "prosperity",
+    "text": "Kuna uwezekano mkubwa zaidi wa kufanya hivyo."
+  },
+  {
+    "id": "bank-057",
+    "category": "prosperity",
+    "text": "Utapata thawabu iliyo thabiti."
+  },
+  {
+    "id": "bank-058",
+    "category": "prosperity",
+    "text": "Msimu wenye matokeo unaanza."
+  },
+  {
+    "id": "bank-059",
+    "category": "prosperity",
+    "text": "Wazo lenye hekima litatatua tatizo dogo."
+  },
+  {
+    "id": "bank-060",
+    "category": "prosperity",
+    "text": "Uhusiano wenye kutumika utaonekana wakati unaofaa."
+  },
+  {
+    "id": "bank-061",
+    "category": "prosperity",
+    "text": "Mpango wenye kufikiria utapata msingi."
+  },
+  {
+    "id": "bank-062",
+    "category": "prosperity",
+    "text": "Wakati wa wingi utakupa nafasi ya kupumua."
+  },
+  {
+    "id": "bank-063",
+    "category": "prosperity",
+    "text": "Uamuzi mzuri utaleta fursa mpya."
+  },
+  {
+    "id": "bank-064",
+    "category": "prosperity",
+    "text": "Kazi yako ya subira italeta mavuno mengi."
+  },
+  {
+    "id": "bank-065",
+    "category": "prosperity",
+    "text": "Ni mradi wenye kuthawabisha unaoanza."
+  },
+  {
+    "id": "bank-066",
+    "category": "wisdom",
+    "text": "Utakuwa na ufahamu wazi unapohitaji."
+  },
+  {
+    "id": "bank-067",
+    "category": "wisdom",
+    "text": "Uamuzi wenye hekima utakupa utulivu."
+  },
+  {
+    "id": "bank-068",
+    "category": "wisdom",
+    "text": "Ukweli rahisi utafanya kila kitu kiwe wazi zaidi."
+  },
+  {
+    "id": "bank-069",
+    "category": "wisdom",
+    "text": "Jibu lenye amani linakusubiri ndani yako."
+  },
+  {
+    "id": "bank-070",
+    "category": "wisdom",
+    "text": "Swali la wakati unaofaa litafungua njia mpya."
+  },
+  {
+    "id": "bank-071",
+    "category": "wisdom",
+    "text": "Uchaguzi mzuri utalinda amani yako."
+  },
+  {
+    "id": "bank-072",
+    "category": "wisdom",
+    "text": "Uelewaji wenye kina zaidi utachukua mahali pa mahangaiko ya zamani."
+  },
+  {
+    "id": "bank-073",
+    "category": "wisdom",
+    "text": "Ufafanuzi wenye utulivu utaongoza hatua yako inayofuata."
+  },
+  {
+    "id": "bank-074",
+    "category": "wisdom",
+    "text": "Somo muhimu litakuja kwa wakati unaofaa."
+  },
+  {
+    "id": "bank-075",
+    "category": "wisdom",
+    "text": "Kujua jambo hilo kwa utulivu kutakusaidia ujiamini."
+  },
+  {
+    "id": "bank-076",
+    "category": "wisdom",
+    "text": "Wazo zuri litakuja wakati wa utulivu."
+  },
+  {
+    "id": "bank-077",
+    "category": "wisdom",
+    "text": "Kupumzika kwa hekima kutakusaidia kuona njia."
+  },
+  {
+    "id": "bank-078",
+    "category": "wisdom",
+    "text": "Na baada ya subira kidogo itaonekana njia iliyo wazi."
+  },
+  {
+    "id": "bank-079",
+    "category": "courage",
+    "text": "Hatua ya ujasiri itakusaidia kusonga mbele."
+  },
+  {
+    "id": "bank-080",
+    "category": "courage",
+    "text": "Nguvu ya utulivu inakua ndani yako."
+  },
+  {
+    "id": "bank-081",
+    "category": "courage",
+    "text": "Mwanzo thabiti utaleta mabadiliko yenye kupendeza."
+  },
+  {
+    "id": "bank-082",
+    "category": "courage",
+    "text": "Sauti yenye kujiamini iko tayari kusema."
+  },
+  {
+    "id": "bank-083",
+    "category": "courage",
+    "text": "Moyo thabiti utakubeba."
+  },
+  {
+    "id": "bank-084",
+    "category": "courage",
+    "text": "Kuchagua kwa ujasiri kutasababisha ukuzi."
+  },
+  {
+    "id": "bank-085",
+    "category": "courage",
+    "text": "Hisia mpya ya azimio inaanza kuchukua mizizi."
+  },
+  {
+    "id": "bank-086",
+    "category": "courage",
+    "text": "Swali lisilo na hofu litaleta jibu la unyoofu."
+  },
+  {
+    "id": "bank-087",
+    "category": "courage",
+    "text": "Dakika moja ya ujasiri itabadili siku yako."
+  },
+  {
+    "id": "bank-088",
+    "category": "courage",
+    "text": "Hatua ya kwanza yenye nguvu itafungua njia."
+  },
+  {
+    "id": "bank-089",
+    "category": "courage",
+    "text": "Roho thabiti itakusaidia kuinuka."
+  },
+  {
+    "id": "bank-090",
+    "category": "courage",
+    "text": "Ndoto yenye ujasiri iko tayari kuchunguzwa."
+  },
+  {
+    "id": "bank-091",
+    "category": "courage",
+    "text": "Azimio lenye utulivu litakuwezesha kufanikiwa."
+  },
+  {
+    "id": "bank-092",
+    "category": "happiness",
+    "text": "Shangwe ya kila siku inangojea kutambuliwa."
+  },
+  {
+    "id": "bank-093",
+    "category": "happiness",
+    "text": "Kipindi kizuri kitakufanya useme."
+  },
+  {
+    "id": "bank-094",
+    "category": "happiness",
+    "text": "Kucheka kwa uchangamfu kutainua chumba."
+  },
+  {
+    "id": "bank-095",
+    "category": "happiness",
+    "text": "Leo utapata furaha kidogo."
+  },
+  {
+    "id": "bank-096",
+    "category": "happiness",
+    "text": "Mshangao mchangamfu uko njiani."
+  },
+  {
+    "id": "bank-097",
+    "category": "happiness",
+    "text": "Kupumzika kwa kuridhika kutakurudishia nguvu."
+  },
+  {
+    "id": "bank-098",
+    "category": "happiness",
+    "text": "Ukumbusho wenye furaha utakufariji."
+  },
+  {
+    "id": "bank-099",
+    "category": "happiness",
+    "text": "Moyo mwepesi utafanya siku yako iwe rahisi zaidi."
+  },
+  {
+    "id": "bank-100",
+    "category": "happiness",
+    "text": "Sababu ya tabasamu iko karibu kuliko unavyofikiri."
+  },
+  {
+    "id": "bank-101",
+    "category": "happiness",
+    "text": "Mkutano wenye shangwe utakuleta karibu zaidi na wengine."
+  },
+  {
+    "id": "bank-102",
+    "category": "happiness",
+    "text": "Ugunduzi wenye kufurahisha utafanya maisha yako yawe mazuri zaidi."
+  },
+  {
+    "id": "bank-103",
+    "category": "happiness",
+    "text": "Wazo la kucheza litaongeza raha kidogo."
+  },
+  {
+    "id": "bank-104",
+    "category": "happiness",
+    "text": "Wakati unaostahili kufurahia unakusubiri."
+  },
+  {
+    "id": "bank-105",
+    "category": "resilience",
+    "text": "Nguvu mpya inakua ndani yako."
+  },
+  {
+    "id": "bank-106",
+    "category": "resilience",
+    "text": "Upepo wa pili utakusaidia kuendelea."
+  },
+  {
+    "id": "bank-107",
+    "category": "resilience",
+    "text": "Tumaini jipya linapatikana."
+  },
+  {
+    "id": "bank-108",
+    "category": "resilience",
+    "text": "Kurudi kwa utulivu kunaanza."
+  },
+  {
+    "id": "bank-109",
+    "category": "resilience",
+    "text": "Moyo thabiti utakuongoza mbele."
+  },
+  {
+    "id": "bank-110",
+    "category": "resilience",
+    "text": "Njia mpya ya kusonga mbele inaanza."
+  },
+  {
+    "id": "bank-111",
+    "category": "resilience",
+    "text": "Hali ya kiroho inapona polepole."
+  },
+  {
+    "id": "bank-112",
+    "category": "resilience",
+    "text": "Msingi wenye nguvu unajengwa."
+  },
+  {
+    "id": "bank-113",
+    "category": "resilience",
+    "text": "Utulivu baada ya kujitahidi utakurudisha."
+  },
+  {
+    "id": "bank-114",
+    "category": "resilience",
+    "text": "Kurudi kwa ujasiri kutaleta ujasiri mpya."
+  },
+  {
+    "id": "bank-115",
+    "category": "resilience",
+    "text": "Kuanzisha upya kutakusaidia kuondoa mawazo yako."
+  },
+  {
+    "id": "bank-116",
+    "category": "resilience",
+    "text": "Kujenga upya mgonjwa kutasababisha jambo la kudumu."
+  },
+  {
+    "id": "bank-117",
+    "category": "resilience",
+    "text": "Mahali pa kupumzika penye laini kutakusaidia kuanza tena."
+  },
+  {
+    "id": "bank-118",
+    "category": "adventure",
+    "text": "Safari yenye kushangaza inaanza."
+  },
+  {
+    "id": "bank-119",
+    "category": "adventure",
+    "text": "Njia mpya inangojea kuchunguzwa."
+  },
+  {
+    "id": "bank-120",
+    "category": "adventure",
+    "text": "Upeo mpya utapanua ulimwengu wako."
+  },
+  {
+    "id": "bank-121",
+    "category": "adventure",
+    "text": "Kupitia njia isiyo ya kawaida kutakuletea ugunduzi wenye kufurahisha."
+  },
+  {
+    "id": "bank-122",
+    "category": "adventure",
+    "text": "Mkutano wenye kukumbukwa utafanya juma lenu liwe lenye ufanisi zaidi."
+  },
+  {
+    "id": "bank-123",
+    "category": "adventure",
+    "text": "Kuchunguza kwa ujasiri kutakupa thawabu kwa ajili ya udadisi wako."
+  },
+  {
+    "id": "bank-124",
+    "category": "adventure",
+    "text": "Mwaliko usiotarajiwa utaongoza mahali pazuri."
+  },
+  {
+    "id": "bank-125",
+    "category": "adventure",
+    "text": "Mtu asiyejulikana mzuri yuko tayari kukutana."
+  },
+  {
+    "id": "bank-126",
+    "category": "adventure",
+    "text": "Hadithi inayostahili kuelezwa inachukua sura."
+  },
+  {
+    "id": "bank-127",
+    "category": "adventure",
+    "text": "Eneo jipya litaleta mtazamo mpya."
+  },
+  {
+    "id": "bank-128",
+    "category": "adventure",
+    "text": "Changamoto ya kucheza itakufundisha jambo muhimu."
+  },
+  {
+    "id": "bank-129",
+    "category": "adventure",
+    "text": "Barabara yenye mandhari inakusubiri."
+  },
+  {
+    "id": "bank-130",
+    "category": "adventure",
+    "text": "Kipindi cha mshangao kitakupata hivi karibuni."
+  },
+  {
+    "id": "bank-131",
+    "category": "generosity",
+    "text": "Utakuwa na ishara ya ukarimu."
+  },
+  {
+    "id": "bank-132",
+    "category": "generosity",
+    "text": "Mzunguko wa utunzaji unakua karibu nawe."
+  },
+  {
+    "id": "bank-133",
+    "category": "generosity",
+    "text": "Baraka ya kushiriki itafanya siku yako iwe bora zaidi."
+  },
+  {
+    "id": "bank-134",
+    "category": "generosity",
+    "text": "Kurudi kwa fadhili kunakuja."
+  },
+  {
+    "id": "bank-135",
+    "category": "generosity",
+    "text": "Ukikaribishwa kwa uchangamfu, utahisi ukiwa nyumbani."
+  },
+  {
+    "id": "bank-136",
+    "category": "generosity",
+    "text": "Mkono wa kusaidia utaonekana unapohitaji mmoja."
+  },
+  {
+    "id": "bank-137",
+    "category": "generosity",
+    "text": "Zawadi yenye maana itafika kwa wakati unaofaa."
+  },
+  {
+    "id": "bank-138",
+    "category": "generosity",
+    "text": "Wakati wa kutoa utakuletea shangwe."
+  },
+  {
+    "id": "bank-139",
+    "category": "generosity",
+    "text": "Jumuiya yenye nguvu inaanza kubuniwa."
+  },
+  {
+    "id": "bank-140",
+    "category": "generosity",
+    "text": "Mchango wenye kufikiria utafanya tofauti."
+  },
+  {
+    "id": "bank-141",
+    "category": "generosity",
+    "text": "Mwangaza wa fadhili utafikia mtu mpya."
+  },
+  {
+    "id": "bank-142",
+    "category": "generosity",
+    "text": "Uhusiano wenye kujali utakukumbusha kwamba una maana."
+  },
+  {
+    "id": "bank-143",
+    "category": "generosity",
+    "text": "Zawadi ya wakati itamaanisha mengi kuliko unavyotarajia."
+  },
+  {
+    "id": "bank-144",
+    "category": "peace",
+    "text": "Kituo cha utulivu kiko ndani yako."
+  },
+  {
+    "id": "bank-145",
+    "category": "peace",
+    "text": "Kupumzika kwa upole kutakurudishia usawaziko."
+  },
+  {
+    "id": "bank-146",
+    "category": "peace",
+    "text": "Akili yenye utulivu itafanya siku iwe nyepesi zaidi."
+  },
+  {
+    "id": "bank-147",
+    "category": "peace",
+    "text": "Kipindi cha amani kitakupata hivi karibuni."
+  },
+  {
+    "id": "bank-148",
+    "category": "peace",
+    "text": "Kufanya hivyo kwa upole kutakusaidia kutambua jambo muhimu."
+  },
+  {
+    "id": "bank-149",
+    "category": "peace",
+    "text": "Jioni ya kupumzika itakufariji."
+  },
+  {
+    "id": "bank-150",
+    "category": "peace",
+    "text": "Kupumua vizuri kutaimarisha moyo wako."
+  }
+]

@@ -1,0 +1,752 @@
+[
+  {
+    "id": "bank-001",
+    "category": "luck",
+    "text": "Sebuah kesempatan beruntung sedang menuju ke arahmu."
+  },
+  {
+    "id": "bank-002",
+    "category": "luck",
+    "text": "Kebetulan yang bermanfaat akan mencerahkan hari Anda."
+  },
+  {
+    "id": "bank-003",
+    "category": "luck",
+    "text": "Pintu yang kau lihat mulai terbuka."
+  },
+  {
+    "id": "bank-004",
+    "category": "luck",
+    "text": "Waktu yang tepat akan bertemu denganmu di tempat yang tak terduga."
+  },
+  {
+    "id": "bank-005",
+    "category": "luck",
+    "text": "Sebuah kejutan menyenangkan menunggu di dekatnya."
+  },
+  {
+    "id": "bank-006",
+    "category": "luck",
+    "text": "Pertemuan yang ramah akan membawa perubahan yang baik."
+  },
+  {
+    "id": "bank-007",
+    "category": "luck",
+    "text": "Sedikit keberuntungan akan membuat hari Anda lebih mudah."
+  },
+  {
+    "id": "bank-008",
+    "category": "luck",
+    "text": "Undangan yang menjanjikan akan segera tiba."
+  },
+  {
+    "id": "bank-009",
+    "category": "luck",
+    "text": "Jalan baru terbuka pada saat yang tepat."
+  },
+  {
+    "id": "bank-010",
+    "category": "luck",
+    "text": "Kecelakaan bahagia akan mengarah pada sesuatu yang baik."
+  },
+  {
+    "id": "bank-011",
+    "category": "luck",
+    "text": "Kesempatan yang cerah lebih dekat dari yang Anda pikirkan."
+  },
+  {
+    "id": "bank-012",
+    "category": "luck",
+    "text": "Sebuah putaran nasib yang baik bekerja untukmu."
+  },
+  {
+    "id": "bank-013",
+    "category": "luck",
+    "text": "Sebuah awal yang beruntung mulai terbentuk."
+  },
+  {
+    "id": "bank-014",
+    "category": "hope",
+    "text": "Awal baru lebih dekat dari yang terlihat."
+  },
+  {
+    "id": "bank-015",
+    "category": "hope",
+    "text": "Besok yang lebih cerah sudah mulai terbentuk."
+  },
+  {
+    "id": "bank-016",
+    "category": "hope",
+    "text": "Awal baru menunggumu."
+  },
+  {
+    "id": "bank-017",
+    "category": "hope",
+    "text": "Sebuah alasan untuk berharap akan menemukan Anda segera."
+  },
+  {
+    "id": "bank-018",
+    "category": "hope",
+    "text": "Pagi yang cerah akan membawa pembaruan yang lembut."
+  },
+  {
+    "id": "bank-019",
+    "category": "hope",
+    "text": "Musim baru kemungkinan mulai."
+  },
+  {
+    "id": "bank-020",
+    "category": "hope",
+    "text": "Sebuah cahaya muncul di jalan di depan."
+  },
+  {
+    "id": "bank-021",
+    "category": "hope",
+    "text": "Benih perubahan tumbuh diam-diam."
+  },
+  {
+    "id": "bank-022",
+    "category": "hope",
+    "text": "Sebuah halaman bersih siap untuk bab berikutnya."
+  },
+  {
+    "id": "bank-023",
+    "category": "hope",
+    "text": "Sebuah kejutan yang penuh harapan akan mengangkat semangatmu."
+  },
+  {
+    "id": "bank-024",
+    "category": "hope",
+    "text": "Kesempatan kedua sedang dalam perjalanan."
+  },
+  {
+    "id": "bank-025",
+    "category": "hope",
+    "text": "Renovasi yang lembut dimulai dalam hidupmu."
+  },
+  {
+    "id": "bank-026",
+    "category": "hope",
+    "text": "Sebuah mimpi baru siap untuk disambut."
+  },
+  {
+    "id": "bank-027",
+    "category": "love",
+    "text": "Hubungan hangat tumbuh di sekitarmu."
+  },
+  {
+    "id": "bank-028",
+    "category": "love",
+    "text": "Persahabatan yang abadi akan membawa kebahagiaan."
+  },
+  {
+    "id": "bank-029",
+    "category": "love",
+    "text": "Roh kerabat lebih dekat dari yang kau pikirkan."
+  },
+  {
+    "id": "bank-030",
+    "category": "love",
+    "text": "Percakapan yang jujur akan memperdalam ikatan."
+  },
+  {
+    "id": "bank-031",
+    "category": "love",
+    "text": "Hati yang murah hati akan bertemu denganmu."
+  },
+  {
+    "id": "bank-032",
+    "category": "love",
+    "text": "Teman yang bisa dipercaya akan berdiri di sampingmu."
+  },
+  {
+    "id": "bank-033",
+    "category": "love",
+    "text": "Sebuah reuni yang menyenangkan akan segera datang."
+  },
+  {
+    "id": "bank-034",
+    "category": "love",
+    "text": "Tertawa bersama akan memanaskan minggu Anda."
+  },
+  {
+    "id": "bank-035",
+    "category": "love",
+    "text": "Sebuah gerakan cinta akan menemukan jalannya untuk Anda."
+  },
+  {
+    "id": "bank-036",
+    "category": "love",
+    "text": "Teman baru akan membawa perspektif baru."
+  },
+  {
+    "id": "bank-037",
+    "category": "love",
+    "text": "Saat yang lembut akan membuat hatimu merasa seperti di rumah."
+  },
+  {
+    "id": "bank-038",
+    "category": "love",
+    "text": "Pesan yang tulus akan datang ketika Anda membutuhkannya."
+  },
+  {
+    "id": "bank-039",
+    "category": "love",
+    "text": "Tempat tempatmu menunggu."
+  },
+  {
+    "id": "bank-040",
+    "category": "growth",
+    "text": "Keterampilan baru akan membuka pintu yang berguna."
+  },
+  {
+    "id": "bank-041",
+    "category": "growth",
+    "text": "Keyakinan yang lebih dalam tumbuh di dalam Anda."
+  },
+  {
+    "id": "bank-042",
+    "category": "growth",
+    "text": "Tujuan yang lebih jelas mulai bersinar."
+  },
+  {
+    "id": "bank-043",
+    "category": "growth",
+    "text": "Perspektif baru akan membuat tantangan lebih mudah."
+  },
+  {
+    "id": "bank-044",
+    "category": "growth",
+    "text": "Kebiasaan yang lebih sehat akan mendukung kemajuanmu."
+  },
+  {
+    "id": "bank-045",
+    "category": "growth",
+    "text": "Pengertian baru akan membawa Anda perdamaian."
+  },
+  {
+    "id": "bank-046",
+    "category": "growth",
+    "text": "Suara yang lebih kuat siap didengar."
+  },
+  {
+    "id": "bank-047",
+    "category": "growth",
+    "text": "Latihan sabar akan memberi Anda hadiah."
+  },
+  {
+    "id": "bank-048",
+    "category": "growth",
+    "text": "Sebuah percikan kreatif akan membimbing langkah Anda berikutnya."
+  },
+  {
+    "id": "bank-049",
+    "category": "growth",
+    "text": "Pelajaran yang berarti sudah dekat."
+  },
+  {
+    "id": "bank-050",
+    "category": "growth",
+    "text": "Pandangan yang lebih luas akan membantu Anda memilih dengan baik."
+  },
+  {
+    "id": "bank-051",
+    "category": "growth",
+    "text": "Pertanyaan berani akan mengarah pada jawaban yang berguna."
+  },
+  {
+    "id": "bank-052",
+    "category": "growth",
+    "text": "Ritme baru akan membuat hari Anda merasa lebih ringan."
+  },
+  {
+    "id": "bank-053",
+    "category": "prosperity",
+    "text": "Upaya yang berbuah mulai menunjukkan hasil."
+  },
+  {
+    "id": "bank-054",
+    "category": "prosperity",
+    "text": "Proyek yang menjanjikan akan mendapatkan dukungan."
+  },
+  {
+    "id": "bank-055",
+    "category": "prosperity",
+    "text": "Penggunaan waktu dengan bijaksana akan menghasilkan hasil yang memuaskan."
+  },
+  {
+    "id": "bank-056",
+    "category": "prosperity",
+    "text": "Peluang yang berkembang berada di dekat jangkauan."
+  },
+  {
+    "id": "bank-057",
+    "category": "prosperity",
+    "text": "Hadiah yang layak akan datang kepadamu."
+  },
+  {
+    "id": "bank-058",
+    "category": "prosperity",
+    "text": "Musim produktif dimulai."
+  },
+  {
+    "id": "bank-059",
+    "category": "prosperity",
+    "text": "Sebuah ide yang cerdas akan memecahkan masalah kecil."
+  },
+  {
+    "id": "bank-060",
+    "category": "prosperity",
+    "text": "Hubungan berguna akan muncul pada waktu yang tepat."
+  },
+  {
+    "id": "bank-061",
+    "category": "prosperity",
+    "text": "Rencana yang bijaksana akan menemukan dasar."
+  },
+  {
+    "id": "bank-062",
+    "category": "prosperity",
+    "text": "Saat banyak akan memberi Anda ruang untuk bernapas."
+  },
+  {
+    "id": "bank-063",
+    "category": "prosperity",
+    "text": "Keputusan yang tepat akan menciptakan kesempatan baru."
+  },
+  {
+    "id": "bank-064",
+    "category": "prosperity",
+    "text": "Panen yang murah hati akan mengikuti kerja kerasmu yang sabar."
+  },
+  {
+    "id": "bank-065",
+    "category": "prosperity",
+    "text": "Sebuah usaha yang bermanfaat mulai terbentuk."
+  },
+  {
+    "id": "bank-066",
+    "category": "wisdom",
+    "text": "Sebuah wawasan yang jelas akan datang ketika Anda membutuhkannya."
+  },
+  {
+    "id": "bank-067",
+    "category": "wisdom",
+    "text": "Keputusan yang bijaksana akan membuatmu tenang."
+  },
+  {
+    "id": "bank-068",
+    "category": "wisdom",
+    "text": "Kebenaran sederhana akan membuat segalanya lebih jelas."
+  },
+  {
+    "id": "bank-069",
+    "category": "wisdom",
+    "text": "Sebuah jawaban damai menunggu di dalam Anda."
+  },
+  {
+    "id": "bank-070",
+    "category": "wisdom",
+    "text": "Pertanyaan tepat waktu akan membuka jalan baru."
+  },
+  {
+    "id": "bank-071",
+    "category": "wisdom",
+    "text": "Pilihan yang bijaksana akan melindungi perdamaian Anda."
+  },
+  {
+    "id": "bank-072",
+    "category": "wisdom",
+    "text": "Pengertian yang lebih dalam akan menggantikan kekhawatiran lama."
+  },
+  {
+    "id": "bank-073",
+    "category": "wisdom",
+    "text": "Kejelasan yang tenang akan membimbing langkah Anda berikutnya."
+  },
+  {
+    "id": "bank-074",
+    "category": "wisdom",
+    "text": "Pelajaran berguna akan datang pada waktu yang tepat."
+  },
+  {
+    "id": "bank-075",
+    "category": "wisdom",
+    "text": "Mengetahui dengan tenang akan membantu Anda mempercayai diri sendiri."
+  },
+  {
+    "id": "bank-076",
+    "category": "wisdom",
+    "text": "Sebuah ide yang cerah akan datang selama saat yang tenang."
+  },
+  {
+    "id": "bank-077",
+    "category": "wisdom",
+    "text": "Perhentian yang bijaksana akan membantu Anda melihat jalan."
+  },
+  {
+    "id": "bank-078",
+    "category": "wisdom",
+    "text": "Setelah sedikit kesabaran, jalan yang jelas akan muncul."
+  },
+  {
+    "id": "bank-079",
+    "category": "courage",
+    "text": "Langkah berani akan memajukanmu ke depan."
+  },
+  {
+    "id": "bank-080",
+    "category": "courage",
+    "text": "Kekuatan yang tenang tumbuh di dalammu."
+  },
+  {
+    "id": "bank-081",
+    "category": "courage",
+    "text": "Awal yang berani akan membawa perubahan yang baik."
+  },
+  {
+    "id": "bank-082",
+    "category": "courage",
+    "text": "Suara yang percaya diri siap untuk berbicara."
+  },
+  {
+    "id": "bank-083",
+    "category": "courage",
+    "text": "Sebuah hati yang stabil akan membawa Anda melalui."
+  },
+  {
+    "id": "bank-084",
+    "category": "courage",
+    "text": "Pilihan yang berani akan mengarah pada pertumbuhan."
+  },
+  {
+    "id": "bank-085",
+    "category": "courage",
+    "text": "Rasa tekad baru mulai berakar."
+  },
+  {
+    "id": "bank-086",
+    "category": "courage",
+    "text": "Pertanyaan yang berani akan membawa jawaban yang jujur."
+  },
+  {
+    "id": "bank-087",
+    "category": "courage",
+    "text": "Satu saat keberanian akan mengubah hari Anda."
+  },
+  {
+    "id": "bank-088",
+    "category": "courage",
+    "text": "Langkah pertama yang kuat akan membuka jalan."
+  },
+  {
+    "id": "bank-089",
+    "category": "courage",
+    "text": "Roh ketahanan akan membantu Anda bangkit."
+  },
+  {
+    "id": "bank-090",
+    "category": "courage",
+    "text": "Sebuah mimpi berani siap untuk dijelajahi."
+  },
+  {
+    "id": "bank-091",
+    "category": "courage",
+    "text": "Ketegasan yang tenang akan membantumu melewati."
+  },
+  {
+    "id": "bank-092",
+    "category": "happiness",
+    "text": "Kebahagiaan sehari-hari menunggu untuk diperhatikan."
+  },
+  {
+    "id": "bank-093",
+    "category": "happiness",
+    "text": "Saat yang cerah akan membuatmu tersenyum."
+  },
+  {
+    "id": "bank-094",
+    "category": "happiness",
+    "text": "Sebuah tawa hangat akan mengangkat ruangan."
+  },
+  {
+    "id": "bank-095",
+    "category": "happiness",
+    "text": "Sebuah kesenangan kecil akan menemukan Anda hari ini."
+  },
+  {
+    "id": "bank-096",
+    "category": "happiness",
+    "text": "Sebuah kejutan gembira sedang dalam perjalanan."
+  },
+  {
+    "id": "bank-097",
+    "category": "happiness",
+    "text": "Berhenti puas akan mengembalikan energi Anda."
+  },
+  {
+    "id": "bank-098",
+    "category": "happiness",
+    "text": "Sebuah kenangan bahagia akan membawa Anda kenyamanan."
+  },
+  {
+    "id": "bank-099",
+    "category": "happiness",
+    "text": "Hati ringan akan membuat hari Anda lebih mudah."
+  },
+  {
+    "id": "bank-100",
+    "category": "happiness",
+    "text": "Alasan untuk tersenyum lebih dekat dari yang Anda pikirkan."
+  },
+  {
+    "id": "bank-101",
+    "category": "happiness",
+    "text": "Perayaan yang menyenangkan akan membuat Anda lebih dekat dengan orang lain."
+  },
+  {
+    "id": "bank-102",
+    "category": "happiness",
+    "text": "Penemuan yang menyenangkan akan mencerahkan rutinitas Anda."
+  },
+  {
+    "id": "bank-103",
+    "category": "happiness",
+    "text": "Sebuah ide yang menyenangkan akan menambah sedikit kesenangan."
+  },
+  {
+    "id": "bank-104",
+    "category": "happiness",
+    "text": "Saat yang layak dinikmati menunggumu."
+  },
+  {
+    "id": "bank-105",
+    "category": "resilience",
+    "text": "Kekuatan baru tumbuh di dalammu."
+  },
+  {
+    "id": "bank-106",
+    "category": "resilience",
+    "text": "Angin kedua akan membantu Anda melanjutkan."
+  },
+  {
+    "id": "bank-107",
+    "category": "resilience",
+    "text": "Ada cadangan harapan yang baru."
+  },
+  {
+    "id": "bank-108",
+    "category": "resilience",
+    "text": "Kembali yang tenang sudah dimulai."
+  },
+  {
+    "id": "bank-109",
+    "category": "resilience",
+    "text": "Hati yang tangguh akan membawa Anda ke depan."
+  },
+  {
+    "id": "bank-110",
+    "category": "resilience",
+    "text": "Sebuah jalan baru ke depan terbuka."
+  },
+  {
+    "id": "bank-111",
+    "category": "resilience",
+    "text": "Sebuah pemulihan lembut dari semangat sedang berlangsung."
+  },
+  {
+    "id": "bank-112",
+    "category": "resilience",
+    "text": "Yayasan yang lebih kuat sedang dibangun."
+  },
+  {
+    "id": "bank-113",
+    "category": "resilience",
+    "text": "Sebuah ketenangan setelah usaha akan mengembalikanmu."
+  },
+  {
+    "id": "bank-114",
+    "category": "resilience",
+    "text": "Kembali yang berani akan membawa keyakinan baru."
+  },
+  {
+    "id": "bank-115",
+    "category": "resilience",
+    "text": "Reset yang berguna akan membersihkan pikiranmu."
+  },
+  {
+    "id": "bank-116",
+    "category": "resilience",
+    "text": "Membangun kembali pasien akan mengarah pada sesuatu yang abadi."
+  },
+  {
+    "id": "bank-117",
+    "category": "resilience",
+    "text": "Tempat yang lembut untuk beristirahat akan membantu Anda memulai kembali."
+  },
+  {
+    "id": "bank-118",
+    "category": "adventure",
+    "text": "Perjalanan yang mengejutkan dimulai."
+  },
+  {
+    "id": "bank-119",
+    "category": "adventure",
+    "text": "Sebuah jalur baru menunggu untuk dijelajahi."
+  },
+  {
+    "id": "bank-120",
+    "category": "adventure",
+    "text": "Sebuah cakrawala baru akan memperluas dunia Anda."
+  },
+  {
+    "id": "bank-121",
+    "category": "adventure",
+    "text": "Perjalanan aneh akan membawa penemuan yang menyenangkan."
+  },
+  {
+    "id": "bank-122",
+    "category": "adventure",
+    "text": "Pertemuan yang tak terlupakan akan memperkaya minggu Anda."
+  },
+  {
+    "id": "bank-123",
+    "category": "adventure",
+    "text": "Sebuah eksplorasi berani akan menghargai rasa ingin tahu Anda."
+  },
+  {
+    "id": "bank-124",
+    "category": "adventure",
+    "text": "Undangan yang tak terduga akan mengarah ke tempat yang baik."
+  },
+  {
+    "id": "bank-125",
+    "category": "adventure",
+    "text": "Seorang yang tak dikenal yang cerah siap bertemu."
+  },
+  {
+    "id": "bank-126",
+    "category": "adventure",
+    "text": "Sebuah kisah yang layak diceritakan sedang terbentuk."
+  },
+  {
+    "id": "bank-127",
+    "category": "adventure",
+    "text": "Tempat baru akan membawa perspektif baru."
+  },
+  {
+    "id": "bank-128",
+    "category": "adventure",
+    "text": "Tantangan yang menyenangkan akan mengajarkan sesuatu yang berguna."
+  },
+  {
+    "id": "bank-129",
+    "category": "adventure",
+    "text": "Sebuah jalan dengan pemandangan menunggumu."
+  },
+  {
+    "id": "bank-130",
+    "category": "adventure",
+    "text": "Sebuah saat keajaiban akan segera menemukanmu."
+  },
+  {
+    "id": "bank-131",
+    "category": "generosity",
+    "text": "Sebuah gerakan murah hati akan kembali kepada Anda."
+  },
+  {
+    "id": "bank-132",
+    "category": "generosity",
+    "text": "Sebuah lingkaran perawatan tumbuh di sekitar Anda."
+  },
+  {
+    "id": "bank-133",
+    "category": "generosity",
+    "text": "Berkah bersama akan membuat hari Anda lebih cerah."
+  },
+  {
+    "id": "bank-134",
+    "category": "generosity",
+    "text": "Kembali yang baik akan datang."
+  },
+  {
+    "id": "bank-135",
+    "category": "generosity",
+    "text": "Sebuah sambutan hangat akan membuat Anda merasa seperti di rumah."
+  },
+  {
+    "id": "bank-136",
+    "category": "generosity",
+    "text": "Tangan yang membantu akan muncul ketika Anda membutuhkannya."
+  },
+  {
+    "id": "bank-137",
+    "category": "generosity",
+    "text": "Hadiah yang berarti akan tiba pada waktu yang tepat."
+  },
+  {
+    "id": "bank-138",
+    "category": "generosity",
+    "text": "Saat memberi akan membuatmu bahagia."
+  },
+  {
+    "id": "bank-139",
+    "category": "generosity",
+    "text": "Komunitas yang lebih kuat mulai terbentuk."
+  },
+  {
+    "id": "bank-140",
+    "category": "generosity",
+    "text": "Kontribusi yang bijaksana akan membuat perbedaan."
+  },
+  {
+    "id": "bank-141",
+    "category": "generosity",
+    "text": "Gelombang kebaikan akan mencapai seseorang yang baru."
+  },
+  {
+    "id": "bank-142",
+    "category": "generosity",
+    "text": "Hubungan yang peduli akan mengingatkanmu bahwa kau penting."
+  },
+  {
+    "id": "bank-143",
+    "category": "generosity",
+    "text": "Hadiah waktu akan berarti lebih dari yang Anda harapkan."
+  },
+  {
+    "id": "bank-144",
+    "category": "peace",
+    "text": "Pusat yang tenang menunggu di dalammu."
+  },
+  {
+    "id": "bank-145",
+    "category": "peace",
+    "text": "Perhentian yang lembut akan mengembalikan keseimbanganmu."
+  },
+  {
+    "id": "bank-146",
+    "category": "peace",
+    "text": "Pikiran yang tenang akan membuat hari terasa lebih ringan."
+  },
+  {
+    "id": "bank-147",
+    "category": "peace",
+    "text": "Saat damai akan segera menemukanmu."
+  },
+  {
+    "id": "bank-148",
+    "category": "peace",
+    "text": "Kecepatan yang lebih lembut akan membantu Anda melihat apa yang penting."
+  },
+  {
+    "id": "bank-149",
+    "category": "peace",
+    "text": "Malam yang tenang akan membawa Anda kenyamanan."
+  },
+  {
+    "id": "bank-150",
+    "category": "peace",
+    "text": "Pernafasan yang jernih akan menegakkan hatimu."
+  }
+]

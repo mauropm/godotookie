@@ -1,0 +1,752 @@
+[
+  {
+    "id": "bank-001",
+    "category": "luck",
+    "text": "Wata dama mai sa'a tana zuwa gare ka."
+  },
+  {
+    "id": "bank-002",
+    "category": "luck",
+    "text": "Wani abu mai kyau zai sa ka yi farin ciki sosai."
+  },
+  {
+    "id": "bank-003",
+    "category": "luck",
+    "text": "Wata ƙofa da kake kallo ta fara buɗewa."
+  },
+  {
+    "id": "bank-004",
+    "category": "luck",
+    "text": "Lokaci mai kyau zai haɗu da kai a wani wuri da ba zato ba tsammani."
+  },
+  {
+    "id": "bank-005",
+    "category": "luck",
+    "text": "Abin mamaki mai ban sha'awa yana jiranmu a kusa."
+  },
+  {
+    "id": "bank-006",
+    "category": "luck",
+    "text": "Taron abokantaka zai kawo canji mai kyau."
+  },
+  {
+    "id": "bank-007",
+    "category": "luck",
+    "text": "Ƙananan sa'a zai sauƙaƙa maka rana."
+  },
+  {
+    "id": "bank-008",
+    "category": "luck",
+    "text": "Ba da daɗewa ba, za mu samu gayyata mai ban al'ajabi."
+  },
+  {
+    "id": "bank-009",
+    "category": "luck",
+    "text": "Sabuwar hanya tana buɗewa a lokacin da ya dace."
+  },
+  {
+    "id": "bank-010",
+    "category": "luck",
+    "text": "Wani haɗari mai farin ciki zai haifar da wani abu mai kyau."
+  },
+  {
+    "id": "bank-011",
+    "category": "luck",
+    "text": "Wata dama mai kyau ta kusa fiye da yadda kake tsammani."
+  },
+  {
+    "id": "bank-012",
+    "category": "luck",
+    "text": "Al'amarin da ya faru a nan yana taimaka maka."
+  },
+  {
+    "id": "bank-013",
+    "category": "luck",
+    "text": "Farawa mai sa'a tana somawa."
+  },
+  {
+    "id": "bank-014",
+    "category": "hope",
+    "text": "Sabuwar farawa ta kusa fiye da yadda take gani."
+  },
+  {
+    "id": "bank-015",
+    "category": "hope",
+    "text": "Wata gobe mai haske ta riga ta soma."
+  },
+  {
+    "id": "bank-016",
+    "category": "hope",
+    "text": "Wani sabon farawa yana jiranka."
+  },
+  {
+    "id": "bank-017",
+    "category": "hope",
+    "text": "Ba da daɗewa ba za ka sami dalilin da zai sa ka kasance da bege."
+  },
+  {
+    "id": "bank-018",
+    "category": "hope",
+    "text": "Safiya mai tsabta za ta zo da sabuntawa."
+  },
+  {
+    "id": "bank-019",
+    "category": "hope",
+    "text": "Wani sabon yanayi na yiwuwar yana farawa."
+  },
+  {
+    "id": "bank-020",
+    "category": "hope",
+    "text": "Haske yana bayyana a kan hanya a gaba."
+  },
+  {
+    "id": "bank-021",
+    "category": "hope",
+    "text": "Ɗauki na canji yana girma a hankali."
+  },
+  {
+    "id": "bank-022",
+    "category": "hope",
+    "text": "Shafi mai tsabta ya shirya don babi na gaba."
+  },
+  {
+    "id": "bank-023",
+    "category": "hope",
+    "text": "Abin mamaki mai ban al'ajabi zai ƙarfafa zuciyarka."
+  },
+  {
+    "id": "bank-024",
+    "category": "hope",
+    "text": "Akwai wata dama ta biyu a kan hanya."
+  },
+  {
+    "id": "bank-025",
+    "category": "hope",
+    "text": "Rayuwarka ta soma sabuntawa a hankali."
+  },
+  {
+    "id": "bank-026",
+    "category": "hope",
+    "text": "Wani sabon mafarki yana shirye a yi masa maraba."
+  },
+  {
+    "id": "bank-027",
+    "category": "love",
+    "text": "Kana da dangantaka mai kyau da Jehobah."
+  },
+  {
+    "id": "bank-028",
+    "category": "love",
+    "text": "Abokai na dindindin za su sa ka farin ciki."
+  },
+  {
+    "id": "bank-029",
+    "category": "love",
+    "text": "Wani irin ruhu yana kusa da kai fiye da yadda kake tsammani."
+  },
+  {
+    "id": "bank-030",
+    "category": "love",
+    "text": "Tattaunawar gaskiya za ta ƙarfafa dangantakarsu."
+  },
+  {
+    "id": "bank-031",
+    "category": "love",
+    "text": "Zuciya mai karimci za ta haɗu da zuciyarka."
+  },
+  {
+    "id": "bank-032",
+    "category": "love",
+    "text": "Wani amintaccen abokin tarayya zai tsaya kusa da kai."
+  },
+  {
+    "id": "bank-033",
+    "category": "love",
+    "text": "Ba da daɗewa ba za mu sake haɗuwa."
+  },
+  {
+    "id": "bank-034",
+    "category": "love",
+    "text": "Murmushi da za ku yi zai sa ku yi farin ciki a mako."
+  },
+  {
+    "id": "bank-035",
+    "category": "love",
+    "text": "Ƙaunar da kake nunawa za ta taimake ka."
+  },
+  {
+    "id": "bank-036",
+    "category": "love",
+    "text": "Sabon aboki zai kawo sabon ra'ayi."
+  },
+  {
+    "id": "bank-037",
+    "category": "love",
+    "text": "Wani lokaci mai daɗi zai sa zuciyarka ta ji kamar kana gida."
+  },
+  {
+    "id": "bank-038",
+    "category": "love",
+    "text": "Za ka samu saƙo daga zuciyarka a lokacin da kake bukatarsa."
+  },
+  {
+    "id": "bank-039",
+    "category": "love",
+    "text": "Wurin da kake zama yana jiranka."
+  },
+  {
+    "id": "bank-040",
+    "category": "growth",
+    "text": "Wani sabon ƙwarewa zai buɗe ƙofa mai amfani."
+  },
+  {
+    "id": "bank-041",
+    "category": "growth",
+    "text": "Kana da tabbaci sosai a cikinka."
+  },
+  {
+    "id": "bank-042",
+    "category": "growth",
+    "text": "Wani maƙasudi mai kyau ya soma bayyana."
+  },
+  {
+    "id": "bank-043",
+    "category": "growth",
+    "text": "Sabon ra'ayi zai sauƙaƙa ƙalubale."
+  },
+  {
+    "id": "bank-044",
+    "category": "growth",
+    "text": "Kasancewa da halaye masu kyau zai taimaka maka ka samu ci gaba."
+  },
+  {
+    "id": "bank-045",
+    "category": "growth",
+    "text": "Sabon fahimtar zai kawo maka salama."
+  },
+  {
+    "id": "bank-046",
+    "category": "growth",
+    "text": "Za a ji murya mai ƙarfi."
+  },
+  {
+    "id": "bank-047",
+    "category": "growth",
+    "text": "Yin haƙuri zai albarkace ka."
+  },
+  {
+    "id": "bank-048",
+    "category": "growth",
+    "text": "Ƙarƙashin ƙira zai yi maka ja-gora a mataki na gaba."
+  },
+  {
+    "id": "bank-049",
+    "category": "growth",
+    "text": "Wani darasi mai muhimmanci yana nan tafe."
+  },
+  {
+    "id": "bank-050",
+    "category": "growth",
+    "text": "Idan kana da ra'ayi mai zurfi, hakan zai taimaka maka ka yi zaɓi mai kyau."
+  },
+  {
+    "id": "bank-051",
+    "category": "growth",
+    "text": "Tambaya mai ƙarfin hali za ta kai ga amsar da ta dace."
+  },
+  {
+    "id": "bank-052",
+    "category": "growth",
+    "text": "Wani sabon sautin zai sa rayuwarka ta zama mai sauƙi."
+  },
+  {
+    "id": "bank-053",
+    "category": "prosperity",
+    "text": "Ƙoƙarce-ƙoƙarcen da aka yi ya fara ba da sakamako."
+  },
+  {
+    "id": "bank-054",
+    "category": "prosperity",
+    "text": "Wani shiri mai ban al'ajabi zai sami goyon baya."
+  },
+  {
+    "id": "bank-055",
+    "category": "prosperity",
+    "text": "Yin amfani da lokaci cikin hikima zai kawo sakamako mai gamsarwa."
+  },
+  {
+    "id": "bank-056",
+    "category": "prosperity",
+    "text": "Za mu iya samun damar yin hakan."
+  },
+  {
+    "id": "bank-057",
+    "category": "prosperity",
+    "text": "Albarka mai kyau tana zuwa gare ka."
+  },
+  {
+    "id": "bank-058",
+    "category": "prosperity",
+    "text": "Lokaci mai kyau ya soma."
+  },
+  {
+    "id": "bank-059",
+    "category": "prosperity",
+    "text": "Wani ra'ayi mai kyau zai warware karamin matsala."
+  },
+  {
+    "id": "bank-060",
+    "category": "prosperity",
+    "text": "Za a yi amfani da shi sosai a lokacin da ya dace."
+  },
+  {
+    "id": "bank-061",
+    "category": "prosperity",
+    "text": "Shirye-shiryen da aka yi da kyau zai sa ya kasance da kyau."
+  },
+  {
+    "id": "bank-062",
+    "category": "prosperity",
+    "text": "Lokaci na yalwa zai ba ka damar numfashi."
+  },
+  {
+    "id": "bank-063",
+    "category": "prosperity",
+    "text": "Yanke shawara mai kyau zai haifar da sabuwar dama."
+  },
+  {
+    "id": "bank-064",
+    "category": "prosperity",
+    "text": "Za ka yi farin ciki sosai idan ka yi haƙuri."
+  },
+  {
+    "id": "bank-065",
+    "category": "prosperity",
+    "text": "Wani shiri mai kyau yana soma."
+  },
+  {
+    "id": "bank-066",
+    "category": "wisdom",
+    "text": "Za ka sami ƙarin bayani a lokacin da kake bukata."
+  },
+  {
+    "id": "bank-067",
+    "category": "wisdom",
+    "text": "Za ka sami kwanciyar hankali idan ka tsai da shawara mai kyau."
+  },
+  {
+    "id": "bank-068",
+    "category": "wisdom",
+    "text": "Gaskiya mai sauƙi za ta bayyana kome."
+  },
+  {
+    "id": "bank-069",
+    "category": "wisdom",
+    "text": "Amsa mai kyau tana jiranka a cikinka."
+  },
+  {
+    "id": "bank-070",
+    "category": "wisdom",
+    "text": "Tambaya a kan kari za ta buɗe sabuwar hanya."
+  },
+  {
+    "id": "bank-071",
+    "category": "wisdom",
+    "text": "Zaɓin da ka yi zai kāre zaman lafiyarka."
+  },
+  {
+    "id": "bank-072",
+    "category": "wisdom",
+    "text": "Ƙarin fahimi zai maye gurbin tsohon damuwa."
+  },
+  {
+    "id": "bank-073",
+    "category": "wisdom",
+    "text": "Idan ka kasance da natsuwa, za ka iya yin mataki na gaba."
+  },
+  {
+    "id": "bank-074",
+    "category": "wisdom",
+    "text": "Wani darasi mai amfani zai zo a lokacin da ya dace."
+  },
+  {
+    "id": "bank-075",
+    "category": "wisdom",
+    "text": "Sanin hakan zai taimaka maka ka amince da kanka."
+  },
+  {
+    "id": "bank-076",
+    "category": "wisdom",
+    "text": "Tunani mai haske zai zo a lokacin da aka yi shiru."
+  },
+  {
+    "id": "bank-077",
+    "category": "wisdom",
+    "text": "Yin hutu da kyau zai taimake ka ka ga hanyar."
+  },
+  {
+    "id": "bank-078",
+    "category": "wisdom",
+    "text": "Sa'an nan wata hanya bayyananna za ta bayyana a bãyan ɗan haƙuri."
+  },
+  {
+    "id": "bank-079",
+    "category": "courage",
+    "text": "Mataki mai ƙarfin hali zai motsa ka zuwa gaba."
+  },
+  {
+    "id": "bank-080",
+    "category": "courage",
+    "text": "Ƙarfin natsuwa yana girma a cikinka."
+  },
+  {
+    "id": "bank-081",
+    "category": "courage",
+    "text": "Farawa da gaba gaɗi zai kawo canji mai kyau."
+  },
+  {
+    "id": "bank-082",
+    "category": "courage",
+    "text": "Muryar da take da gaba gaɗi a shirye take ta yi magana."
+  },
+  {
+    "id": "bank-083",
+    "category": "courage",
+    "text": "Zuciya mai ƙarfi za ta taimake ka."
+  },
+  {
+    "id": "bank-084",
+    "category": "courage",
+    "text": "Zaɓin da muke yi da gaba gaɗi zai sa mu yi girma."
+  },
+  {
+    "id": "bank-085",
+    "category": "courage",
+    "text": "Wani sabon ra'ayi na ƙuduri yana ɗauke da tushe."
+  },
+  {
+    "id": "bank-086",
+    "category": "courage",
+    "text": "Tambaya marar tsoro za ta kawo amsar gaskiya."
+  },
+  {
+    "id": "bank-087",
+    "category": "courage",
+    "text": "Lokaci na gaba gaɗi zai canja ranarka."
+  },
+  {
+    "id": "bank-088",
+    "category": "courage",
+    "text": "Mataki na farko mai ƙarfi zai buɗe hanya."
+  },
+  {
+    "id": "bank-089",
+    "category": "courage",
+    "text": "Idan kana da ƙarfin hali, hakan zai taimaka maka ka tashi."
+  },
+  {
+    "id": "bank-090",
+    "category": "courage",
+    "text": "Wani mafarki mai ban tsoro yana shirye a bincika shi."
+  },
+  {
+    "id": "bank-091",
+    "category": "courage",
+    "text": "Idan ka kasance da kwanciyar hankali, za ka yi nasara."
+  },
+  {
+    "id": "bank-092",
+    "category": "happiness",
+    "text": "Abin farin ciki na yau da kullum yana jiran a lura da shi."
+  },
+  {
+    "id": "bank-093",
+    "category": "happiness",
+    "text": "Lokaci mai haske zai sa ka yi murmushi."
+  },
+  {
+    "id": "bank-094",
+    "category": "happiness",
+    "text": "Murmushi mai dumi zai tayar da ɗakin."
+  },
+  {
+    "id": "bank-095",
+    "category": "happiness",
+    "text": "Wani ɗan farin ciki zai same ka a yau."
+  },
+  {
+    "id": "bank-096",
+    "category": "happiness",
+    "text": "Abin mamaki mai ban sha'awa yana zuwa."
+  },
+  {
+    "id": "bank-097",
+    "category": "happiness",
+    "text": "Idan ka yi hutu da kyau, za ka sake samun ƙarfinka."
+  },
+  {
+    "id": "bank-098",
+    "category": "happiness",
+    "text": "Abin farin ciki zai kawo maka ta'aziyya."
+  },
+  {
+    "id": "bank-099",
+    "category": "happiness",
+    "text": "Zuciya mai sauƙi za ta sauƙaƙa rayuwarka."
+  },
+  {
+    "id": "bank-100",
+    "category": "happiness",
+    "text": "Dalilin murmushi ya fi kusa da yadda kake tsammani."
+  },
+  {
+    "id": "bank-101",
+    "category": "happiness",
+    "text": "Taron farin ciki zai sa ka kusaci mutane."
+  },
+  {
+    "id": "bank-102",
+    "category": "happiness",
+    "text": "Wani abu mai ban sha'awa zai sa rayuwarka ta kasance da kyau."
+  },
+  {
+    "id": "bank-103",
+    "category": "happiness",
+    "text": "Tunanin wasa zai ƙara ɗan nishaɗi."
+  },
+  {
+    "id": "bank-104",
+    "category": "happiness",
+    "text": "Wani lokaci da ya cancanci jin daɗinsa yana jiranka."
+  },
+  {
+    "id": "bank-105",
+    "category": "resilience",
+    "text": "Ƙarfi yana ƙaruwa a cikinka."
+  },
+  {
+    "id": "bank-106",
+    "category": "resilience",
+    "text": "Iska ta biyu za ta taimake ka ka ci gaba."
+  },
+  {
+    "id": "bank-107",
+    "category": "resilience",
+    "text": "Muna da sabon bege."
+  },
+  {
+    "id": "bank-108",
+    "category": "resilience",
+    "text": "Komawa cikin kwanciyar hankali ya fara."
+  },
+  {
+    "id": "bank-109",
+    "category": "resilience",
+    "text": "Zuciya mai ƙarfi za ta ɗauke ka gaba."
+  },
+  {
+    "id": "bank-110",
+    "category": "resilience",
+    "text": "Sabuwar hanyar ci gaba tana buɗewa."
+  },
+  {
+    "id": "bank-111",
+    "category": "resilience",
+    "text": "An soma warkar da ruhunmu."
+  },
+  {
+    "id": "bank-112",
+    "category": "resilience",
+    "text": "Ana gina tushe mai ƙarfi."
+  },
+  {
+    "id": "bank-113",
+    "category": "resilience",
+    "text": "Jimrewa bayan ƙoƙari zai dawo da kai."
+  },
+  {
+    "id": "bank-114",
+    "category": "resilience",
+    "text": "Komawa da gaba gaɗi zai kawo sabon amincewa."
+  },
+  {
+    "id": "bank-115",
+    "category": "resilience",
+    "text": "Sake saitawa mai taimako zai tsabtace hankalinka."
+  },
+  {
+    "id": "bank-116",
+    "category": "resilience",
+    "text": "Mai haƙuri ya sake gina shi zai kawo wani abu mai dawwama."
+  },
+  {
+    "id": "bank-117",
+    "category": "resilience",
+    "text": "Wani wuri mai taushi da za ka huta zai taimake ka ka soma sake."
+  },
+  {
+    "id": "bank-118",
+    "category": "adventure",
+    "text": "An soma tafiya mai ban mamaki."
+  },
+  {
+    "id": "bank-119",
+    "category": "adventure",
+    "text": "Sabuwar hanya tana jiran a bincika ta."
+  },
+  {
+    "id": "bank-120",
+    "category": "adventure",
+    "text": "Wani sabon sarari zai faɗaɗa duniyarku."
+  },
+  {
+    "id": "bank-121",
+    "category": "adventure",
+    "text": "Wata hanya mai ban sha'awa za ta kawo wani abu mai ban sha'awa."
+  },
+  {
+    "id": "bank-122",
+    "category": "adventure",
+    "text": "Wata ganawa da ba za a taɓa mantawa da ita ba za ta sa ku yi farin ciki sosai."
+  },
+  {
+    "id": "bank-123",
+    "category": "adventure",
+    "text": "Idan ka yi bincike da gaba gaɗi, za ka sami sakamako mai kyau."
+  },
+  {
+    "id": "bank-124",
+    "category": "adventure",
+    "text": "Gayyatar da ba zato ba tsammani za ta kai ga wani wuri mai kyau."
+  },
+  {
+    "id": "bank-125",
+    "category": "adventure",
+    "text": "Wani baƙo mai haske yana shirye ya sadu da mu."
+  },
+  {
+    "id": "bank-126",
+    "category": "adventure",
+    "text": "Labari da ya cancanci a gaya masa yana samun tsari."
+  },
+  {
+    "id": "bank-127",
+    "category": "adventure",
+    "text": "Wani sabon wuri zai kawo sabon hangen nesa."
+  },
+  {
+    "id": "bank-128",
+    "category": "adventure",
+    "text": "Ƙalubalen da za ka fuskanta zai koya maka wani abu mai amfani."
+  },
+  {
+    "id": "bank-129",
+    "category": "adventure",
+    "text": "Hanya tare da ra'ayi yana jiran ku."
+  },
+  {
+    "id": "bank-130",
+    "category": "adventure",
+    "text": "Lokaci na mamaki zai same ka nan da nan."
+  },
+  {
+    "id": "bank-131",
+    "category": "generosity",
+    "text": "Za ka ji daɗin yin hakan."
+  },
+  {
+    "id": "bank-132",
+    "category": "generosity",
+    "text": "Ƙungiya mai kula da kai tana girma a kusa da kai."
+  },
+  {
+    "id": "bank-133",
+    "category": "generosity",
+    "text": "Albarka da za a raba za ta sa ku yi farin ciki sosai."
+  },
+  {
+    "id": "bank-134",
+    "category": "generosity",
+    "text": "Za a dawo da shi a hanya mai kyau."
+  },
+  {
+    "id": "bank-135",
+    "category": "generosity",
+    "text": "Idan aka gayyace ka, za ka ji kamar kana gida."
+  },
+  {
+    "id": "bank-136",
+    "category": "generosity",
+    "text": "Za ka sami taimako sa'ad da kake bukatar taimako."
+  },
+  {
+    "id": "bank-137",
+    "category": "generosity",
+    "text": "Kyauta mai tamani za ta zo a lokacin da ya dace."
+  },
+  {
+    "id": "bank-138",
+    "category": "generosity",
+    "text": "Ba da kyauta zai sa ka farin ciki."
+  },
+  {
+    "id": "bank-139",
+    "category": "generosity",
+    "text": "Ƙungiyar da ta fi ƙarfi tana samun ƙarfi."
+  },
+  {
+    "id": "bank-140",
+    "category": "generosity",
+    "text": "Taimako mai kyau zai kawo canji."
+  },
+  {
+    "id": "bank-141",
+    "category": "generosity",
+    "text": "Za a nuna alheri ga wani sabon mutum."
+  },
+  {
+    "id": "bank-142",
+    "category": "generosity",
+    "text": "Idan kana da dangantaka mai kyau da mutane, za ka tuna cewa kana da muhimmanci."
+  },
+  {
+    "id": "bank-143",
+    "category": "generosity",
+    "text": "Kyautar lokaci za ta fi abin da kake tsammani."
+  },
+  {
+    "id": "bank-144",
+    "category": "peace",
+    "text": "Wani cibiyar kwanciyar hankali tana jiranka a cikinka."
+  },
+  {
+    "id": "bank-145",
+    "category": "peace",
+    "text": "Idan ka yi hutu a hankali, za ka sami kwanciyar hankali."
+  },
+  {
+    "id": "bank-146",
+    "category": "peace",
+    "text": "Kasancewa da kwanciyar hankali zai sa rana ta kasance da sauƙi."
+  },
+  {
+    "id": "bank-147",
+    "category": "peace",
+    "text": "Lokaci mai zaman lafiya zai same ka ba da daɗewa ba."
+  },
+  {
+    "id": "bank-148",
+    "category": "peace",
+    "text": "Saurin yin hakan zai taimaka maka ka fahimci abin da ya fi muhimmanci."
+  },
+  {
+    "id": "bank-149",
+    "category": "peace",
+    "text": "Wata maraice mai annashuwa za ta kawo maka ta'aziyya."
+  },
+  {
+    "id": "bank-150",
+    "category": "peace",
+    "text": "Shan numfashi mai kyau zai ƙarfafa zuciyarka."
+  }
+]

@@ -1,0 +1,752 @@
+[
+  {
+    "id": "bank-001",
+    "category": "luck",
+    "text": "Szczęśliwa okazja jest w drodze do ciebie."
+  },
+  {
+    "id": "bank-002",
+    "category": "luck",
+    "text": "Pomocny zbieg okoliczności będzie świecić twój dzień."
+  },
+  {
+    "id": "bank-003",
+    "category": "luck",
+    "text": "Drzwi, na które patrzyłeś, zaczynają się otwierać."
+  },
+  {
+    "id": "bank-004",
+    "category": "luck",
+    "text": "W dobrym czasie spotkamy się w nieoczekiwanym miejscu."
+  },
+  {
+    "id": "bank-005",
+    "category": "luck",
+    "text": "Przyjemna niespodzianka czeka w pobliżu."
+  },
+  {
+    "id": "bank-006",
+    "category": "luck",
+    "text": "Przyjazne spotkanie przyniesie dobrą zmianę."
+  },
+  {
+    "id": "bank-007",
+    "category": "luck",
+    "text": "Małe szczęście ułatwi ci dzień."
+  },
+  {
+    "id": "bank-008",
+    "category": "luck",
+    "text": "Wkrótce przyjdzie obiecująca zaproszenie."
+  },
+  {
+    "id": "bank-009",
+    "category": "luck",
+    "text": "Nowa droga otwiera się w odpowiednim momencie."
+  },
+  {
+    "id": "bank-010",
+    "category": "luck",
+    "text": "Szczęśliwy wypadek prowadzi do czegoś dobrego."
+  },
+  {
+    "id": "bank-011",
+    "category": "luck",
+    "text": "Świetna szansa jest bliżej niż myślisz."
+  },
+  {
+    "id": "bank-012",
+    "category": "luck",
+    "text": "Miły zwrot losu działa na twoją korzyść."
+  },
+  {
+    "id": "bank-013",
+    "category": "luck",
+    "text": "Szczęśliwy początek nabiera kształtu."
+  },
+  {
+    "id": "bank-014",
+    "category": "hope",
+    "text": "Nowy początek jest bliżej, niż się wydaje."
+  },
+  {
+    "id": "bank-015",
+    "category": "hope",
+    "text": "Jasniejsze jutro już przybiera kształt."
+  },
+  {
+    "id": "bank-016",
+    "category": "hope",
+    "text": "Nowy początek czeka na ciebie."
+  },
+  {
+    "id": "bank-017",
+    "category": "hope",
+    "text": "Przyczynę do nadziei, że wkrótce cię znajdzie."
+  },
+  {
+    "id": "bank-018",
+    "category": "hope",
+    "text": "Jasne poranek przyniesie delikatne odnowienie."
+  },
+  {
+    "id": "bank-019",
+    "category": "hope",
+    "text": "Zaczyna się nowy sezon możliwości."
+  },
+  {
+    "id": "bank-020",
+    "category": "hope",
+    "text": "Światło pojawia się na drodze."
+  },
+  {
+    "id": "bank-021",
+    "category": "hope",
+    "text": "Ziarno zmian rośnie cicho."
+  },
+  {
+    "id": "bank-022",
+    "category": "hope",
+    "text": "Czysty strona jest gotowa do następnego rozdziału."
+  },
+  {
+    "id": "bank-023",
+    "category": "hope",
+    "text": "Spodziewana niespodzianka podniesie ci ducha."
+  },
+  {
+    "id": "bank-024",
+    "category": "hope",
+    "text": "Druga szansa jest na drodze."
+  },
+  {
+    "id": "bank-025",
+    "category": "hope",
+    "text": "W twoim życiu zaczyna się delikatne odnowienie."
+  },
+  {
+    "id": "bank-026",
+    "category": "hope",
+    "text": "Nowy sen jest gotowy do powitania."
+  },
+  {
+    "id": "bank-027",
+    "category": "love",
+    "text": "Koło ciebie rozwija się ciepłe połączenie."
+  },
+  {
+    "id": "bank-028",
+    "category": "love",
+    "text": "Trwająca przyjaźń przyniesie ci radość."
+  },
+  {
+    "id": "bank-029",
+    "category": "love",
+    "text": "Przyjacielski duch jest bliżej niż myślisz."
+  },
+  {
+    "id": "bank-030",
+    "category": "love",
+    "text": "Szczery rozmowa pogłębi więź."
+  },
+  {
+    "id": "bank-031",
+    "category": "love",
+    "text": "Szczodrze serce spotka twoje."
+  },
+  {
+    "id": "bank-032",
+    "category": "love",
+    "text": "Przy tobie będzie zaufany towarzysz."
+  },
+  {
+    "id": "bank-033",
+    "category": "love",
+    "text": "Wkrótce nadejdzie radosne spotkanie."
+  },
+  {
+    "id": "bank-034",
+    "category": "love",
+    "text": "Wspólny śmiech rozgrze ci tydzień."
+  },
+  {
+    "id": "bank-035",
+    "category": "love",
+    "text": "Miłujący gest znajdzie drogę do ciebie."
+  },
+  {
+    "id": "bank-036",
+    "category": "love",
+    "text": "Nowy przyjaciel przyniesie nowe spojrzenie."
+  },
+  {
+    "id": "bank-037",
+    "category": "love",
+    "text": "Miękka chwila sprawi, że poczujesz się jak w domu."
+  },
+  {
+    "id": "bank-038",
+    "category": "love",
+    "text": "Serdeczna wiadomość przyjdzie, gdy będziesz jej potrzebował."
+  },
+  {
+    "id": "bank-039",
+    "category": "love",
+    "text": "Miejsce, do którego należysz, czeka."
+  },
+  {
+    "id": "bank-040",
+    "category": "growth",
+    "text": "Nowa umiejętność otworzy przydatne drzwi."
+  },
+  {
+    "id": "bank-041",
+    "category": "growth",
+    "text": "W tobie rośnie głębsza pewność siebie."
+  },
+  {
+    "id": "bank-042",
+    "category": "growth",
+    "text": "Jasniejszy cel zaczyna świecić."
+  },
+  {
+    "id": "bank-043",
+    "category": "growth",
+    "text": "Nowa perspektywa ułatwi wyzwanie."
+  },
+  {
+    "id": "bank-044",
+    "category": "growth",
+    "text": "Przyzwyczajenie zdrowsze będzie wspierało twój postęp."
+  },
+  {
+    "id": "bank-045",
+    "category": "growth",
+    "text": "Nowe zrozumienie przyniesie ci pokój."
+  },
+  {
+    "id": "bank-046",
+    "category": "growth",
+    "text": "Silniejszy głos jest gotowy do usłyszania."
+  },
+  {
+    "id": "bank-047",
+    "category": "growth",
+    "text": "Cierpliwa praktyka nagrodzi cię."
+  },
+  {
+    "id": "bank-048",
+    "category": "growth",
+    "text": "Kreatywna iskra poprowadzi cię do następnego kroku."
+  },
+  {
+    "id": "bank-049",
+    "category": "growth",
+    "text": "Wkrótce zobaczymy ważną lekcję."
+  },
+  {
+    "id": "bank-050",
+    "category": "growth",
+    "text": "Szerszy pogląd pomoże ci dokonać dobrego wyboru."
+  },
+  {
+    "id": "bank-051",
+    "category": "growth",
+    "text": "Odważne pytanie prowadzi do przydatnej odpowiedzi."
+  },
+  {
+    "id": "bank-052",
+    "category": "growth",
+    "text": "Nowy rytm sprawi, że twoje dni będą łatwiejsze."
+  },
+  {
+    "id": "bank-053",
+    "category": "prosperity",
+    "text": "Uczynki owocnych wysiłków zaczynają się okazywać."
+  },
+  {
+    "id": "bank-054",
+    "category": "prosperity",
+    "text": "Obiecujący projekt zbierze wsparcie."
+  },
+  {
+    "id": "bank-055",
+    "category": "prosperity",
+    "text": "Mądre wykorzystanie czasu przyniesie satysfakcjonujące wyniki."
+  },
+  {
+    "id": "bank-056",
+    "category": "prosperity",
+    "text": "Dociera do nas coraz większa możliwość."
+  },
+  {
+    "id": "bank-057",
+    "category": "prosperity",
+    "text": "Przyjdzie ci zasłużona nagroda."
+  },
+  {
+    "id": "bank-058",
+    "category": "prosperity",
+    "text": "Zaczyna się produkcyjny sezon."
+  },
+  {
+    "id": "bank-059",
+    "category": "prosperity",
+    "text": "Wymyślny pomysł rozwiąże mały problem."
+  },
+  {
+    "id": "bank-060",
+    "category": "prosperity",
+    "text": "W odpowiednim czasie pojawi się przydatne połączenie."
+  },
+  {
+    "id": "bank-061",
+    "category": "prosperity",
+    "text": "Umyślny plan znajdzie podstawę."
+  },
+  {
+    "id": "bank-062",
+    "category": "prosperity",
+    "text": "Chwila zadowolenia da ci miejsce do oddychania."
+  },
+  {
+    "id": "bank-063",
+    "category": "prosperity",
+    "text": "Zdrowa decyzja stworzy nowe możliwości."
+  },
+  {
+    "id": "bank-064",
+    "category": "prosperity",
+    "text": "Wasza cierpliwa praca spowoduje szczodry zbiór."
+  },
+  {
+    "id": "bank-065",
+    "category": "prosperity",
+    "text": "Kształtuje się satysfakcjonujące przedsięwzięcie."
+  },
+  {
+    "id": "bank-066",
+    "category": "wisdom",
+    "text": "Jasne wgląd przyjdzie, gdy go potrzebujesz."
+  },
+  {
+    "id": "bank-067",
+    "category": "wisdom",
+    "text": "Mądra decyzja przyniesie ci spokój."
+  },
+  {
+    "id": "bank-068",
+    "category": "wisdom",
+    "text": "Prosta prawda wszystko wyjaśni."
+  },
+  {
+    "id": "bank-069",
+    "category": "wisdom",
+    "text": "Spokojna odpowiedź czeka wewnątrz ciebie."
+  },
+  {
+    "id": "bank-070",
+    "category": "wisdom",
+    "text": "Właściwe pytanie otworzy nową drogę."
+  },
+  {
+    "id": "bank-071",
+    "category": "wisdom",
+    "text": "Umyślny wybór będzie chronił twój pokój."
+  },
+  {
+    "id": "bank-072",
+    "category": "wisdom",
+    "text": "Głębsze zrozumienie zastąpi stare obawy."
+  },
+  {
+    "id": "bank-073",
+    "category": "wisdom",
+    "text": "Spokojna jasność poprowadzi cię do następnego kroku."
+  },
+  {
+    "id": "bank-074",
+    "category": "wisdom",
+    "text": "Korzystna lekcja przyjdzie w odpowiednim czasie."
+  },
+  {
+    "id": "bank-075",
+    "category": "wisdom",
+    "text": "Cicha wiedza pomoże ci ufać sobie."
+  },
+  {
+    "id": "bank-076",
+    "category": "wisdom",
+    "text": "W cichym momencie przyjdzie jasny pomysł."
+  },
+  {
+    "id": "bank-077",
+    "category": "wisdom",
+    "text": "Mądra pauza pomoże ci dostrzec drogę."
+  },
+  {
+    "id": "bank-078",
+    "category": "wisdom",
+    "text": "Po odrobinie cierpliwości pojawi się jasna droga."
+  },
+  {
+    "id": "bank-079",
+    "category": "courage",
+    "text": "Odważny krok poprowadzi cię do przodu."
+  },
+  {
+    "id": "bank-080",
+    "category": "courage",
+    "text": "Cicha siła rośnie w tobie."
+  },
+  {
+    "id": "bank-081",
+    "category": "courage",
+    "text": "Odważny początek przyniesie bardzo dobrą zmianę."
+  },
+  {
+    "id": "bank-082",
+    "category": "courage",
+    "text": "Z pewnością głos jest gotowy do mówienia."
+  },
+  {
+    "id": "bank-083",
+    "category": "courage",
+    "text": "Stałe serce przeprowadzi cię przez to."
+  },
+  {
+    "id": "bank-084",
+    "category": "courage",
+    "text": "Odważny wybór prowadzi do wzrostu."
+  },
+  {
+    "id": "bank-085",
+    "category": "courage",
+    "text": "Wkłada się nowe poczucie determinacji."
+  },
+  {
+    "id": "bank-086",
+    "category": "courage",
+    "text": "Bezstraszne pytanie przyniesie uczciwą odpowiedź."
+  },
+  {
+    "id": "bank-087",
+    "category": "courage",
+    "text": "Chwila odwagi zmieni twój dzień."
+  },
+  {
+    "id": "bank-088",
+    "category": "courage",
+    "text": "Silny pierwszy ruch otworzy drogę."
+  },
+  {
+    "id": "bank-089",
+    "category": "courage",
+    "text": "Umiejętny duch pomoże ci wstać."
+  },
+  {
+    "id": "bank-090",
+    "category": "courage",
+    "text": "Odważny sen jest gotowy do odkrycia."
+  },
+  {
+    "id": "bank-091",
+    "category": "courage",
+    "text": "Spokojna determinacja pomoże ci przejść."
+  },
+  {
+    "id": "bank-092",
+    "category": "happiness",
+    "text": "Codzienna radość czeka na zauważenie."
+  },
+  {
+    "id": "bank-093",
+    "category": "happiness",
+    "text": "Świetna chwila sprawi, że się uśmiechasz."
+  },
+  {
+    "id": "bank-094",
+    "category": "happiness",
+    "text": "ciepły śmiech podniesie pokój."
+  },
+  {
+    "id": "bank-095",
+    "category": "happiness",
+    "text": "Niewielka przyjemność znajdziesz dzisiaj."
+  },
+  {
+    "id": "bank-096",
+    "category": "happiness",
+    "text": "Przyjeżdża radosna niespodzianka."
+  },
+  {
+    "id": "bank-097",
+    "category": "happiness",
+    "text": "Zadowolona pauza przywróci ci energię."
+  },
+  {
+    "id": "bank-098",
+    "category": "happiness",
+    "text": "Szczęśliwe wspomnienia przyniosą ci pocieszenie."
+  },
+  {
+    "id": "bank-099",
+    "category": "happiness",
+    "text": "Łatwe serce ułatwi ci dzień."
+  },
+  {
+    "id": "bank-100",
+    "category": "happiness",
+    "text": "Powód do uśmiechu jest bliżej niż myślisz."
+  },
+  {
+    "id": "bank-101",
+    "category": "happiness",
+    "text": "Szczęśliwe spotkanie zbliży cię do innych."
+  },
+  {
+    "id": "bank-102",
+    "category": "happiness",
+    "text": "Przyjemne odkrycie poprawi twoją rutynę."
+  },
+  {
+    "id": "bank-103",
+    "category": "happiness",
+    "text": "Zabawny pomysł doda trochę zabawy."
+  },
+  {
+    "id": "bank-104",
+    "category": "happiness",
+    "text": "Moment wart przyjemności czeka na ciebie."
+  },
+  {
+    "id": "bank-105",
+    "category": "resilience",
+    "text": "Odnowiona siła rośnie w tobie."
+  },
+  {
+    "id": "bank-106",
+    "category": "resilience",
+    "text": "Drugi wiatr pomoże ci kontynuować."
+  },
+  {
+    "id": "bank-107",
+    "category": "resilience",
+    "text": "Dostępna jest nowa rezerwa nadziei."
+  },
+  {
+    "id": "bank-108",
+    "category": "resilience",
+    "text": "Zaczyna się spokojny powrót."
+  },
+  {
+    "id": "bank-109",
+    "category": "resilience",
+    "text": "Z wytrzymałym sercem przejdziesz naprzód."
+  },
+  {
+    "id": "bank-110",
+    "category": "resilience",
+    "text": "Otwiera się nowa droga do przodu."
+  },
+  {
+    "id": "bank-111",
+    "category": "resilience",
+    "text": "Zaczyna się delikatne odzyskanie ducha."
+  },
+  {
+    "id": "bank-112",
+    "category": "resilience",
+    "text": "Budujemy silniejsze fundamenty."
+  },
+  {
+    "id": "bank-113",
+    "category": "resilience",
+    "text": "Pokój po wysiłku przywróci cię."
+  },
+  {
+    "id": "bank-114",
+    "category": "resilience",
+    "text": "Odważny powrót przyniesie nowe zaufanie."
+  },
+  {
+    "id": "bank-115",
+    "category": "resilience",
+    "text": "Pomocny reset oczyści twój umysł."
+  },
+  {
+    "id": "bank-116",
+    "category": "resilience",
+    "text": "Odbudowa pacjenta doprowadzi do czegoś trwałego."
+  },
+  {
+    "id": "bank-117",
+    "category": "resilience",
+    "text": "Miękkie miejsce do odpoczynku pomoże ci zacząć od nowa."
+  },
+  {
+    "id": "bank-118",
+    "category": "adventure",
+    "text": "Zaczyna się zaskakująca podróż."
+  },
+  {
+    "id": "bank-119",
+    "category": "adventure",
+    "text": "Czeka na odkrycie nowej ścieżki."
+  },
+  {
+    "id": "bank-120",
+    "category": "adventure",
+    "text": "Nowy horyzont rozszerzy twój świat."
+  },
+  {
+    "id": "bank-121",
+    "category": "adventure",
+    "text": "Ciekawe odchylenie przyniesie przyjemne odkrycie."
+  },
+  {
+    "id": "bank-122",
+    "category": "adventure",
+    "text": "Niezapomniane spotkanie wzbogaci twój tydzień."
+  },
+  {
+    "id": "bank-123",
+    "category": "adventure",
+    "text": "Odważne odkrycie nagrodzi twoją ciekawość."
+  },
+  {
+    "id": "bank-124",
+    "category": "adventure",
+    "text": "Nieoczekiwane zaproszenie doprowadzi do czegoś dobrego."
+  },
+  {
+    "id": "bank-125",
+    "category": "adventure",
+    "text": "Świetna nieznana jest gotowa do spotkania."
+  },
+  {
+    "id": "bank-126",
+    "category": "adventure",
+    "text": "Warto opowiedzieć historię, która przybiera kształt."
+  },
+  {
+    "id": "bank-127",
+    "category": "adventure",
+    "text": "Nowe miejsce przyniesie świeżą perspektywę."
+  },
+  {
+    "id": "bank-128",
+    "category": "adventure",
+    "text": "Zabawne wyzwanie uczy cię czegoś przydatnego."
+  },
+  {
+    "id": "bank-129",
+    "category": "adventure",
+    "text": "Droga z widokiem czeka na ciebie."
+  },
+  {
+    "id": "bank-130",
+    "category": "adventure",
+    "text": "Wkrótce spotkasz się z chwilą zdziwienia."
+  },
+  {
+    "id": "bank-131",
+    "category": "generosity",
+    "text": "Szczodry gest przyjdzie ci do głowy."
+  },
+  {
+    "id": "bank-132",
+    "category": "generosity",
+    "text": "Wokół ciebie rośnie krąg opieki."
+  },
+  {
+    "id": "bank-133",
+    "category": "generosity",
+    "text": "Dzielenie się błogosławieństwem sprawi, że twój dzień będzie lepszy."
+  },
+  {
+    "id": "bank-134",
+    "category": "generosity",
+    "text": "Dobry powrót jest w drodze."
+  },
+  {
+    "id": "bank-135",
+    "category": "generosity",
+    "text": "Serdeczne powitanie sprawi, że poczujesz się jak w domu."
+  },
+  {
+    "id": "bank-136",
+    "category": "generosity",
+    "text": "Ręka pomocna pojawi się, gdy będziesz jej potrzebował."
+  },
+  {
+    "id": "bank-137",
+    "category": "generosity",
+    "text": "Znaczący dar przyjdzie w odpowiednim czasie."
+  },
+  {
+    "id": "bank-138",
+    "category": "generosity",
+    "text": "Chwila dawania przyniesie ci radość."
+  },
+  {
+    "id": "bank-139",
+    "category": "generosity",
+    "text": "Stała społeczność nabiera kształtu."
+  },
+  {
+    "id": "bank-140",
+    "category": "generosity",
+    "text": "Zrozumiałe wkładki zrobią różnicę."
+  },
+  {
+    "id": "bank-141",
+    "category": "generosity",
+    "text": "Wzgórz życzliwości dotrze do kogoś nowego."
+  },
+  {
+    "id": "bank-142",
+    "category": "generosity",
+    "text": "Przywiązanie, które cię opiekuje, przypomni ci, że jesteś ważny."
+  },
+  {
+    "id": "bank-143",
+    "category": "generosity",
+    "text": "Dar czasu będzie znaczyć więcej, niż się spodziewasz."
+  },
+  {
+    "id": "bank-144",
+    "category": "peace",
+    "text": "Spokojne centrum czeka wewnątrz ciebie."
+  },
+  {
+    "id": "bank-145",
+    "category": "peace",
+    "text": "Łagodna pauza przywróci równowagę."
+  },
+  {
+    "id": "bank-146",
+    "category": "peace",
+    "text": "Cichy umysł sprawi, że dzień będzie łatwiejszy."
+  },
+  {
+    "id": "bank-147",
+    "category": "peace",
+    "text": "Wkrótce spotkasz się z pokojową chwilą."
+  },
+  {
+    "id": "bank-148",
+    "category": "peace",
+    "text": "Łagodniejszy tempo pomoże ci zauważyć, co ma znaczenie."
+  },
+  {
+    "id": "bank-149",
+    "category": "peace",
+    "text": "Spokojny wieczór przyniesie ci pocieszenie."
+  },
+  {
+    "id": "bank-150",
+    "category": "peace",
+    "text": "Jasny oddech utrwal twoje serce."
+  }
+]

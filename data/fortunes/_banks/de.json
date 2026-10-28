@@ -1,0 +1,752 @@
+[
+  {
+    "id": "bank-001",
+    "category": "luck",
+    "text": "Eine glückliche Gelegenheit ist auf dem Weg zu dir."
+  },
+  {
+    "id": "bank-002",
+    "category": "luck",
+    "text": "Ein hilfreicher Zufall wird deinen Tag erleichtern."
+  },
+  {
+    "id": "bank-003",
+    "category": "luck",
+    "text": "Eine Tür, die du beobachtet hast, beginnt sich zu öffnen."
+  },
+  {
+    "id": "bank-004",
+    "category": "luck",
+    "text": "Ein guter Zeitpunkt wird Sie an einem unerwarteten Ort treffen."
+  },
+  {
+    "id": "bank-005",
+    "category": "luck",
+    "text": "Eine angenehme Überraschung wartet in der Nähe."
+  },
+  {
+    "id": "bank-006",
+    "category": "luck",
+    "text": "Ein freundliches Treffen bringt eine willkommene Veränderung."
+  },
+  {
+    "id": "bank-007",
+    "category": "luck",
+    "text": "Ein kleiner Schlag des Glücks wird deinen Tag einfacher machen."
+  },
+  {
+    "id": "bank-008",
+    "category": "luck",
+    "text": "Eine vielversprechende Einladung wird bald kommen."
+  },
+  {
+    "id": "bank-009",
+    "category": "luck",
+    "text": "Ein neuer Weg öffnet sich zum richtigen Zeitpunkt."
+  },
+  {
+    "id": "bank-010",
+    "category": "luck",
+    "text": "Ein glücklicher Unfall führt zu etwas Gutes."
+  },
+  {
+    "id": "bank-011",
+    "category": "luck",
+    "text": "Eine glänzende Chance ist näher als du denkst."
+  },
+  {
+    "id": "bank-012",
+    "category": "luck",
+    "text": "Eine schöne Wendung des Schicksals funktioniert zugunsten Sie."
+  },
+  {
+    "id": "bank-013",
+    "category": "luck",
+    "text": "Ein glücklicher Anfang nimmt Gestalt an."
+  },
+  {
+    "id": "bank-014",
+    "category": "hope",
+    "text": "Ein neuer Anfang ist näher, als es scheint."
+  },
+  {
+    "id": "bank-015",
+    "category": "hope",
+    "text": "Ein hellerer Morgen nimmt bereits Gestalt an."
+  },
+  {
+    "id": "bank-016",
+    "category": "hope",
+    "text": "Ein neuer Anfang wartet auf dich."
+  },
+  {
+    "id": "bank-017",
+    "category": "hope",
+    "text": "Ein Grund zu hoffen, wird Sie bald finden."
+  },
+  {
+    "id": "bank-018",
+    "category": "hope",
+    "text": "Ein klarer Morgen wird eine sanfte Erneuerung bringen."
+  },
+  {
+    "id": "bank-019",
+    "category": "hope",
+    "text": "Eine neue Saison der Möglichkeiten beginnt."
+  },
+  {
+    "id": "bank-020",
+    "category": "hope",
+    "text": "Auf der Straße erscheint ein Licht."
+  },
+  {
+    "id": "bank-021",
+    "category": "hope",
+    "text": "Ein Samen des Wandels wächst leise."
+  },
+  {
+    "id": "bank-022",
+    "category": "hope",
+    "text": "Eine saubere Seite ist bereit für dein nächstes Kapitel."
+  },
+  {
+    "id": "bank-023",
+    "category": "hope",
+    "text": "Eine hoffnungsvolle Überraschung wird Ihre Stimmung heben."
+  },
+  {
+    "id": "bank-024",
+    "category": "hope",
+    "text": "Eine zweite Chance ist unterwegs."
+  },
+  {
+    "id": "bank-025",
+    "category": "hope",
+    "text": "Eine sanfte Erneuerung beginnt in deinem Leben."
+  },
+  {
+    "id": "bank-026",
+    "category": "hope",
+    "text": "Ein neuer Traum ist bereit, begrüßt zu werden."
+  },
+  {
+    "id": "bank-027",
+    "category": "love",
+    "text": "Eine warme Verbindung wächst um dich herum."
+  },
+  {
+    "id": "bank-028",
+    "category": "love",
+    "text": "Eine dauerhafte Freundschaft bringt dir Freude."
+  },
+  {
+    "id": "bank-029",
+    "category": "love",
+    "text": "Ein verwandter Geist ist näher als du denkst."
+  },
+  {
+    "id": "bank-030",
+    "category": "love",
+    "text": "Ein ehrlicher Gespräch wird eine Bindung vertiefen."
+  },
+  {
+    "id": "bank-031",
+    "category": "love",
+    "text": "Ein großzügiges Herz begegnet deinem."
+  },
+  {
+    "id": "bank-032",
+    "category": "love",
+    "text": "Ein vertrauenswürdiger Begleiter wird an Ihrer Seite stehen."
+  },
+  {
+    "id": "bank-033",
+    "category": "love",
+    "text": "Eine freudige Wiedervereinigung kommt bald."
+  },
+  {
+    "id": "bank-034",
+    "category": "love",
+    "text": "Ein gemeinsames Lachen wird Ihre Woche wärmen."
+  },
+  {
+    "id": "bank-035",
+    "category": "love",
+    "text": "Eine liebevolle Geste findet ihren Weg zu dir."
+  },
+  {
+    "id": "bank-036",
+    "category": "love",
+    "text": "Ein neuer Freund bringt eine neue Perspektive."
+  },
+  {
+    "id": "bank-037",
+    "category": "love",
+    "text": "Ein sanfter Moment wird dein Herz wie zu Hause fühlen."
+  },
+  {
+    "id": "bank-038",
+    "category": "love",
+    "text": "Eine aufrichtige Botschaft kommt, wenn du sie brauchst."
+  },
+  {
+    "id": "bank-039",
+    "category": "love",
+    "text": "Ein Ort, wo du hingehörst, wartet."
+  },
+  {
+    "id": "bank-040",
+    "category": "growth",
+    "text": "Eine neue Fähigkeit öffnet eine nützliche Tür."
+  },
+  {
+    "id": "bank-041",
+    "category": "growth",
+    "text": "Ein tieferes Selbstvertrauen wächst in dir."
+  },
+  {
+    "id": "bank-042",
+    "category": "growth",
+    "text": "Ein klarerer Zweck beginnt zu scheinen."
+  },
+  {
+    "id": "bank-043",
+    "category": "growth",
+    "text": "Eine neue Perspektive wird die Herausforderung erleichtern."
+  },
+  {
+    "id": "bank-044",
+    "category": "growth",
+    "text": "Eine gesündere Gewohnheit wird deinen Fortschritt unterstützen."
+  },
+  {
+    "id": "bank-045",
+    "category": "growth",
+    "text": "Ein neues Verständnis wird dir Frieden bringen."
+  },
+  {
+    "id": "bank-046",
+    "category": "growth",
+    "text": "Eine stärkere Stimme ist bereit zu hören."
+  },
+  {
+    "id": "bank-047",
+    "category": "growth",
+    "text": "Eine geduldige Übung wird dich belohnen."
+  },
+  {
+    "id": "bank-048",
+    "category": "growth",
+    "text": "Ein kreativer Funken wird deinen nächsten Schritt leiten."
+  },
+  {
+    "id": "bank-049",
+    "category": "growth",
+    "text": "Eine sinnvolle Lektion steht kurz davor."
+  },
+  {
+    "id": "bank-050",
+    "category": "growth",
+    "text": "Eine breitere Sichtweise hilft dir, eine gute Wahl zu treffen."
+  },
+  {
+    "id": "bank-051",
+    "category": "growth",
+    "text": "Eine mutige Frage führt zu einer nützlichen Antwort."
+  },
+  {
+    "id": "bank-052",
+    "category": "growth",
+    "text": "Ein neuer Rhythmus wird deine Tage leichter machen."
+  },
+  {
+    "id": "bank-053",
+    "category": "prosperity",
+    "text": "Eine fruchtbare Anstrengung zeigt nun Früchte."
+  },
+  {
+    "id": "bank-054",
+    "category": "prosperity",
+    "text": "Ein vielversprechendes Projekt wird Unterstützung gewinnen."
+  },
+  {
+    "id": "bank-055",
+    "category": "prosperity",
+    "text": "Eine kluge Nutzung der Zeit bringt zufriedenstellende Ergebnisse."
+  },
+  {
+    "id": "bank-056",
+    "category": "prosperity",
+    "text": "Eine wachsende Chance steht in Reichweite."
+  },
+  {
+    "id": "bank-057",
+    "category": "prosperity",
+    "text": "Eine wohlverdiente Belohnung kommt auf dich zu."
+  },
+  {
+    "id": "bank-058",
+    "category": "prosperity",
+    "text": "Eine produktive Saison beginnt."
+  },
+  {
+    "id": "bank-059",
+    "category": "prosperity",
+    "text": "Eine einfallsreiche Idee löst ein kleines Problem."
+  },
+  {
+    "id": "bank-060",
+    "category": "prosperity",
+    "text": "Eine nützliche Verbindung wird zur richtigen Zeit erscheinen."
+  },
+  {
+    "id": "bank-061",
+    "category": "prosperity",
+    "text": "Ein durchdachter Plan wird seine Grundlage finden."
+  },
+  {
+    "id": "bank-062",
+    "category": "prosperity",
+    "text": "Ein Augenblick reichlich gibt dir Raum zum Atmen."
+  },
+  {
+    "id": "bank-063",
+    "category": "prosperity",
+    "text": "Eine gute Entscheidung schafft neue Möglichkeiten."
+  },
+  {
+    "id": "bank-064",
+    "category": "prosperity",
+    "text": "Eine großzügige Ernte folgt Ihrer geduldigen Arbeit."
+  },
+  {
+    "id": "bank-065",
+    "category": "prosperity",
+    "text": "Ein lohnendes Unterfangen nimmt Gestalt an."
+  },
+  {
+    "id": "bank-066",
+    "category": "wisdom",
+    "text": "Ein klarer Einblick wird kommen, wenn du ihn brauchst."
+  },
+  {
+    "id": "bank-067",
+    "category": "wisdom",
+    "text": "Eine kluge Entscheidung wird dich beruhigen."
+  },
+  {
+    "id": "bank-068",
+    "category": "wisdom",
+    "text": "Eine einfache Wahrheit wird alles klarer machen."
+  },
+  {
+    "id": "bank-069",
+    "category": "wisdom",
+    "text": "Eine friedliche Antwort wartet in dir."
+  },
+  {
+    "id": "bank-070",
+    "category": "wisdom",
+    "text": "Eine rechtzeitige Frage öffnet einen neuen Weg."
+  },
+  {
+    "id": "bank-071",
+    "category": "wisdom",
+    "text": "Eine durchdachte Entscheidung wird deinen Frieden schützen."
+  },
+  {
+    "id": "bank-072",
+    "category": "wisdom",
+    "text": "Ein tieferes Verständnis wird eine alte Sorge ersetzen."
+  },
+  {
+    "id": "bank-073",
+    "category": "wisdom",
+    "text": "Eine ruhige Klarheit wird Ihren nächsten Schritt leiten."
+  },
+  {
+    "id": "bank-074",
+    "category": "wisdom",
+    "text": "Eine nützliche Lektion wird zur richtigen Zeit kommen."
+  },
+  {
+    "id": "bank-075",
+    "category": "wisdom",
+    "text": "Ein ruhiges Wissen wird dir helfen, dir selbst zu vertrauen."
+  },
+  {
+    "id": "bank-076",
+    "category": "wisdom",
+    "text": "Eine helle Idee kommt in einem ruhigen Moment."
+  },
+  {
+    "id": "bank-077",
+    "category": "wisdom",
+    "text": "Eine kluge Pause hilft dir, den Weg zu erkennen."
+  },
+  {
+    "id": "bank-078",
+    "category": "wisdom",
+    "text": "Nach ein wenig Geduld wird ein klarer Weg erscheinen."
+  },
+  {
+    "id": "bank-079",
+    "category": "courage",
+    "text": "Ein mutiger Schritt wird dich voranbringen."
+  },
+  {
+    "id": "bank-080",
+    "category": "courage",
+    "text": "Die stille Kraft wächst in dir."
+  },
+  {
+    "id": "bank-081",
+    "category": "courage",
+    "text": "Ein kühner Anfang bringt eine willkommene Veränderung."
+  },
+  {
+    "id": "bank-082",
+    "category": "courage",
+    "text": "Eine selbstbewusste Stimme ist bereit zu sprechen."
+  },
+  {
+    "id": "bank-083",
+    "category": "courage",
+    "text": "Ein festes Herz wird dich durchführen."
+  },
+  {
+    "id": "bank-084",
+    "category": "courage",
+    "text": "Eine mutige Wahl führt zum Wachstum."
+  },
+  {
+    "id": "bank-085",
+    "category": "courage",
+    "text": "Ein neues Gefühl der Entschlossenheit nimmt Wurzeln."
+  },
+  {
+    "id": "bank-086",
+    "category": "courage",
+    "text": "Eine furchtlose Frage bringt eine ehrliche Antwort."
+  },
+  {
+    "id": "bank-087",
+    "category": "courage",
+    "text": "Ein Moment Mut wird deinen Tag verändern."
+  },
+  {
+    "id": "bank-088",
+    "category": "courage",
+    "text": "Ein starker Schritt öffnet den Weg."
+  },
+  {
+    "id": "bank-089",
+    "category": "courage",
+    "text": "Ein widerstandsfähiger Geist wird dir helfen, aufzustehen."
+  },
+  {
+    "id": "bank-090",
+    "category": "courage",
+    "text": "Ein waghaltiger Traum ist bereit zu erforschen."
+  },
+  {
+    "id": "bank-091",
+    "category": "courage",
+    "text": "Eine ruhige Entschlossenheit wird dich durchführen."
+  },
+  {
+    "id": "bank-092",
+    "category": "happiness",
+    "text": "Die alltägliche Freude wartet darauf, bemerkt zu werden."
+  },
+  {
+    "id": "bank-093",
+    "category": "happiness",
+    "text": "Ein glänzender Moment wird dich zum Lächeln bringen."
+  },
+  {
+    "id": "bank-094",
+    "category": "happiness",
+    "text": "Ein warmes Lachen wird den Raum heben."
+  },
+  {
+    "id": "bank-095",
+    "category": "happiness",
+    "text": "Ein kleines Vergnügen wird dich heute finden."
+  },
+  {
+    "id": "bank-096",
+    "category": "happiness",
+    "text": "Eine fröhliche Überraschung ist unterwegs."
+  },
+  {
+    "id": "bank-097",
+    "category": "happiness",
+    "text": "Eine zufriedenen Pause wird deine Energie wiederherstellen."
+  },
+  {
+    "id": "bank-098",
+    "category": "happiness",
+    "text": "Eine glückliche Erinnerung wird dich trösten."
+  },
+  {
+    "id": "bank-099",
+    "category": "happiness",
+    "text": "Ein leichtes Herz wird deinen Tag leichter machen."
+  },
+  {
+    "id": "bank-100",
+    "category": "happiness",
+    "text": "Ein Grund zum Lächeln ist näher, als du denkst."
+  },
+  {
+    "id": "bank-101",
+    "category": "happiness",
+    "text": "Eine freudige Versammlung wird dich näher zu anderen bringen."
+  },
+  {
+    "id": "bank-102",
+    "category": "happiness",
+    "text": "Eine angenehme Entdeckung wird deine Routine erleichtern."
+  },
+  {
+    "id": "bank-103",
+    "category": "happiness",
+    "text": "Eine spielerische Idee bringt etwas Spaß."
+  },
+  {
+    "id": "bank-104",
+    "category": "happiness",
+    "text": "Ein Moment, den man genießen kann, wartet auf dich."
+  },
+  {
+    "id": "bank-105",
+    "category": "resilience",
+    "text": "Eine neue Kraft wächst in dir."
+  },
+  {
+    "id": "bank-106",
+    "category": "resilience",
+    "text": "Ein zweiter Wind hilft dir weiterzumachen."
+  },
+  {
+    "id": "bank-107",
+    "category": "resilience",
+    "text": "Eine neue Reserve von Hoffnung steht zur Verfügung."
+  },
+  {
+    "id": "bank-108",
+    "category": "resilience",
+    "text": "Ein ruhiges Comeback beginnt."
+  },
+  {
+    "id": "bank-109",
+    "category": "resilience",
+    "text": "Ein widerstandsfähiges Herz wird dich voranbringen."
+  },
+  {
+    "id": "bank-110",
+    "category": "resilience",
+    "text": "Ein neuer Weg öffnet sich."
+  },
+  {
+    "id": "bank-111",
+    "category": "resilience",
+    "text": "Eine sanfte Erholung des Geistes ist im Gange."
+  },
+  {
+    "id": "bank-112",
+    "category": "resilience",
+    "text": "Ein stärkeres Fundament wird gebaut."
+  },
+  {
+    "id": "bank-113",
+    "category": "resilience",
+    "text": "Eine Ruhe nach dem Bemühen wird dich wiederherstellen."
+  },
+  {
+    "id": "bank-114",
+    "category": "resilience",
+    "text": "Eine mutige Rückkehr bringt ein neues Selbstvertrauen."
+  },
+  {
+    "id": "bank-115",
+    "category": "resilience",
+    "text": "Ein hilfreicher Reset wird deinen Verstand klären."
+  },
+  {
+    "id": "bank-116",
+    "category": "resilience",
+    "text": "Eine Patientenaufbereitung führt zu etwas Dauerhafterem."
+  },
+  {
+    "id": "bank-117",
+    "category": "resilience",
+    "text": "Ein weicher Ort zur Ruhe wird dir helfen, neu zu beginnen."
+  },
+  {
+    "id": "bank-118",
+    "category": "adventure",
+    "text": "Eine überraschende Reise beginnt."
+  },
+  {
+    "id": "bank-119",
+    "category": "adventure",
+    "text": "Ein neuer Weg wartet darauf, erforscht zu werden."
+  },
+  {
+    "id": "bank-120",
+    "category": "adventure",
+    "text": "Ein neuer Horizont wird eure Welt erweitern."
+  },
+  {
+    "id": "bank-121",
+    "category": "adventure",
+    "text": "Ein merkwürdiger Umweg bringt eine angenehme Entdeckung."
+  },
+  {
+    "id": "bank-122",
+    "category": "adventure",
+    "text": "Eine unvergessliche Begegnung wird Ihre Woche bereichern."
+  },
+  {
+    "id": "bank-123",
+    "category": "adventure",
+    "text": "Eine kühne Erforschung wird deine Neugier belohnen."
+  },
+  {
+    "id": "bank-124",
+    "category": "adventure",
+    "text": "Eine unerwartete Einladung führt zu einem guten Ort."
+  },
+  {
+    "id": "bank-125",
+    "category": "adventure",
+    "text": "Ein glänzender Unbekannter ist bereit, getroffen zu werden."
+  },
+  {
+    "id": "bank-126",
+    "category": "adventure",
+    "text": "Eine Geschichte, die sich erzählen lohnt, nimmt Gestalt an."
+  },
+  {
+    "id": "bank-127",
+    "category": "adventure",
+    "text": "Ein neuer Ort wird eine neue Perspektive bringen."
+  },
+  {
+    "id": "bank-128",
+    "category": "adventure",
+    "text": "Eine spielerische Herausforderung wird dir etwas nützliches beibringen."
+  },
+  {
+    "id": "bank-129",
+    "category": "adventure",
+    "text": "Eine Straße mit Aussicht wartet auf dich."
+  },
+  {
+    "id": "bank-130",
+    "category": "adventure",
+    "text": "Ein Moment von Wunder wird dich bald finden."
+  },
+  {
+    "id": "bank-131",
+    "category": "generosity",
+    "text": "Eine großzügige Geste wird dir zurückkommen."
+  },
+  {
+    "id": "bank-132",
+    "category": "generosity",
+    "text": "Ein Kreis der Fürsorge wächst um dich herum."
+  },
+  {
+    "id": "bank-133",
+    "category": "generosity",
+    "text": "Ein gemeinsamer Segen wird deinen Tag heller machen."
+  },
+  {
+    "id": "bank-134",
+    "category": "generosity",
+    "text": "Eine freundliche Rückkehr ist auf dem Weg."
+  },
+  {
+    "id": "bank-135",
+    "category": "generosity",
+    "text": "Eine herzliche Begrüßung wird dich zu Hause fühlen."
+  },
+  {
+    "id": "bank-136",
+    "category": "generosity",
+    "text": "Eine Hilfshand wird erscheinen, wenn du sie brauchst."
+  },
+  {
+    "id": "bank-137",
+    "category": "generosity",
+    "text": "Ein sinnvolles Geschenk wird zur richtigen Zeit kommen."
+  },
+  {
+    "id": "bank-138",
+    "category": "generosity",
+    "text": "Ein Moment Geben bringt Freude."
+  },
+  {
+    "id": "bank-139",
+    "category": "generosity",
+    "text": "Eine stärkere Gemeinschaft nimmt Gestalt an."
+  },
+  {
+    "id": "bank-140",
+    "category": "generosity",
+    "text": "Ein nachdenklicher Beitrag wird einen Unterschied machen."
+  },
+  {
+    "id": "bank-141",
+    "category": "generosity",
+    "text": "Eine Welle der Güte wird zu einem neuen Menschen kommen."
+  },
+  {
+    "id": "bank-142",
+    "category": "generosity",
+    "text": "Eine liebevolle Verbindung wird dich daran erinnern, dass du wichtig bist."
+  },
+  {
+    "id": "bank-143",
+    "category": "generosity",
+    "text": "Ein Geschenk von Zeit wird mehr bedeuten, als du erwartest."
+  },
+  {
+    "id": "bank-144",
+    "category": "peace",
+    "text": "Ein ruhiges Zentrum wartet in dir."
+  },
+  {
+    "id": "bank-145",
+    "category": "peace",
+    "text": "Eine sanfte Pause wird dein Gleichgewicht wiederherstellen."
+  },
+  {
+    "id": "bank-146",
+    "category": "peace",
+    "text": "Ein ruhiger Geist wird den Tag leichter fühlen."
+  },
+  {
+    "id": "bank-147",
+    "category": "peace",
+    "text": "Ein friedlicher Moment wird dich bald finden."
+  },
+  {
+    "id": "bank-148",
+    "category": "peace",
+    "text": "Ein weicheres Tempo wird dir helfen, zu erkennen, was wichtig ist."
+  },
+  {
+    "id": "bank-149",
+    "category": "peace",
+    "text": "Ein ruhiger Abend wird dich trösten."
+  },
+  {
+    "id": "bank-150",
+    "category": "peace",
+    "text": "Ein klarer Atemzug wird dein Herz stabilisieren."
+  }
+]

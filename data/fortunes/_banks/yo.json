@@ -1,0 +1,752 @@
+[
+  {
+    "id": "bank-001",
+    "category": "luck",
+    "text": "Àǹfààní ńlá kan ń bọ̀ wá sọ́dọ̀ rẹ."
+  },
+  {
+    "id": "bank-002",
+    "category": "luck",
+    "text": "Ìṣẹ̀lẹ̀ kan tó lè ràn ẹ́ lọ́wọ́ yóò mú kí ọjọ́ rẹ túbọ̀ dára sí i."
+  },
+  {
+    "id": "bank-003",
+    "category": "luck",
+    "text": "Ó ti bẹ̀rẹ̀ sí í ṣílẹ̀kùn kan tó o ti ń wo."
+  },
+  {
+    "id": "bank-004",
+    "category": "luck",
+    "text": "Àkókò tó dára gan-an ló máa wá pàdé yín níbi tí ẹ kò retí."
+  },
+  {
+    "id": "bank-005",
+    "category": "luck",
+    "text": "Ìyàlẹ́nu àgbàyanu kan ń dúró dè wá nítòsí."
+  },
+  {
+    "id": "bank-006",
+    "category": "luck",
+    "text": "Ìpàdé ọ̀rẹ́ kan yóò mú ìyípadà ńlá wá."
+  },
+  {
+    "id": "bank-007",
+    "category": "luck",
+    "text": "Ìbùkún kékeré kan lè mú kí ọjọ́ rẹ rọrùn."
+  },
+  {
+    "id": "bank-008",
+    "category": "luck",
+    "text": "Láìpẹ́, a máa rí ìkésíni kan tó múni láyọ̀."
+  },
+  {
+    "id": "bank-009",
+    "category": "luck",
+    "text": "Ọ̀nà tuntun kan ń ṣí sílẹ̀ ní àkókò tó tọ́."
+  },
+  {
+    "id": "bank-010",
+    "category": "luck",
+    "text": "Àjálù aláyọ̀ kan yóò yọrí sí ohun rere kan."
+  },
+  {
+    "id": "bank-011",
+    "category": "luck",
+    "text": "Ó ṣeé ṣe kó ti sún mọ́ ọn ju bó o ṣe rò lọ."
+  },
+  {
+    "id": "bank-012",
+    "category": "luck",
+    "text": "Ìrètí kan wà tó ń ràn ẹ́ lọ́wọ́."
+  },
+  {
+    "id": "bank-013",
+    "category": "luck",
+    "text": "Ìbẹ̀rẹ̀ aláyọ̀ kan ń bẹ̀rẹ̀."
+  },
+  {
+    "id": "bank-014",
+    "category": "hope",
+    "text": "Ìbẹ̀rẹ̀ tuntun ti sún mọ́ ọn ju bó ṣe dà lọ."
+  },
+  {
+    "id": "bank-015",
+    "category": "hope",
+    "text": "Ọjọ́ ọ̀la tó mọ́gbọ́n dání ti ń bẹ̀rẹ̀ sí í bọ̀."
+  },
+  {
+    "id": "bank-016",
+    "category": "hope",
+    "text": "Ìbẹ̀rẹ̀ tuntun ń dúró dè ẹ́."
+  },
+  {
+    "id": "bank-017",
+    "category": "hope",
+    "text": "Kò pẹ́ tí wàá fi rí ìdí tó fi yẹ kó o ní ìrètí."
+  },
+  {
+    "id": "bank-018",
+    "category": "hope",
+    "text": "Àárọ̀ tó mọ́ tónítóní yóò mú ìmúratán kan wá."
+  },
+  {
+    "id": "bank-019",
+    "category": "hope",
+    "text": "Àkókò tuntun ti àwọn ohun tó lè ṣẹlẹ̀ ti bẹ̀rẹ̀."
+  },
+  {
+    "id": "bank-020",
+    "category": "hope",
+    "text": "Ìmọ́lẹ̀ kan ń yọ lójú ọ̀nà tó ń bọ̀."
+  },
+  {
+    "id": "bank-021",
+    "category": "hope",
+    "text": "Bí irúgbìn ìyípadà ṣe ń dàgbà ń rọ̀ wálẹ̀."
+  },
+  {
+    "id": "bank-022",
+    "category": "hope",
+    "text": "Ojú ìwé tó mọ́ ti múra sílẹ̀ fún orí tó tẹ̀ lé e."
+  },
+  {
+    "id": "bank-023",
+    "category": "hope",
+    "text": "Ìyàlẹ́nu ńlá kan tó ń múni láyọ̀ yóò mú kí ọkàn yín yá gágá."
+  },
+  {
+    "id": "bank-024",
+    "category": "hope",
+    "text": "Àǹfààní kejì ń bọ̀ wá."
+  },
+  {
+    "id": "bank-025",
+    "category": "hope",
+    "text": "Ó ti bẹ̀rẹ̀ sí í ṣe ìyípadà kan nínú ìgbésí ayé rẹ."
+  },
+  {
+    "id": "bank-026",
+    "category": "hope",
+    "text": "Àlá tuntun kan ti wà ní ìmúratán láti gbà wá."
+  },
+  {
+    "id": "bank-027",
+    "category": "love",
+    "text": "Ìfẹ́ tó jinlẹ̀ ń pọ̀ sí i láyìíká rẹ."
+  },
+  {
+    "id": "bank-028",
+    "category": "love",
+    "text": "Àjọṣe tó máa ń wà pẹ́ títí yóò mú inú rẹ dùn."
+  },
+  {
+    "id": "bank-029",
+    "category": "love",
+    "text": "Ẹ̀mí ìbátan ti sún mọ́ ọn ju bó o ṣe rò lọ."
+  },
+  {
+    "id": "bank-030",
+    "category": "love",
+    "text": "Ìjùmọ̀sọ̀rọ̀ tó ṣeé fọkàn tán yóò mú kí àjọṣe yín sunwọ̀n sí i."
+  },
+  {
+    "id": "bank-031",
+    "category": "love",
+    "text": "Ọkàn tó jẹ́ ọ̀làwọ́ yóò bá ọkàn rẹ pàdé."
+  },
+  {
+    "id": "bank-032",
+    "category": "love",
+    "text": "Alábàákẹ́gbẹ́ kan tó ṣeé fọkàn tán yóò dúró lẹ́gbẹ̀ẹ́ rẹ."
+  },
+  {
+    "id": "bank-033",
+    "category": "love",
+    "text": "Ìpàdé ayọ̀ kan ń bọ̀ láìpẹ́."
+  },
+  {
+    "id": "bank-034",
+    "category": "love",
+    "text": "Ìrìn-ín músẹ́ máa mú kí ọ̀sẹ̀ rẹ yá gágá."
+  },
+  {
+    "id": "bank-035",
+    "category": "love",
+    "text": "Ìfẹ́ tó o fi ń ṣe nǹkan máa ràn ẹ́ lọ́wọ́."
+  },
+  {
+    "id": "bank-036",
+    "category": "love",
+    "text": "Tó o bá ní ọ̀rẹ́ tuntun, wàá rí i pé òótọ́ lọ̀rọ̀ náà."
+  },
+  {
+    "id": "bank-037",
+    "category": "love",
+    "text": "Àkókò kan tó ní ìyọ́nú máa jẹ́ kí ọkàn rẹ balẹ̀."
+  },
+  {
+    "id": "bank-038",
+    "category": "love",
+    "text": "Àsọtẹ́lẹ̀ tó wá látọkàn wá máa dé nígbà tó o bá nílò rẹ̀."
+  },
+  {
+    "id": "bank-039",
+    "category": "love",
+    "text": "Ibì kan tó yẹ kó o wà ló ń dúró."
+  },
+  {
+    "id": "bank-040",
+    "category": "growth",
+    "text": "Ọgbọ́n tuntun kan yóò ṣí ilẹ̀kùn tó wúlò sílẹ̀."
+  },
+  {
+    "id": "bank-041",
+    "category": "growth",
+    "text": "Ìgbẹ́kẹ̀lé tó jinlẹ̀ ń dàgbà nínú rẹ."
+  },
+  {
+    "id": "bank-042",
+    "category": "growth",
+    "text": "Ohun kan tó túbọ̀ ṣe kedere ló ń tàn kálẹ̀."
+  },
+  {
+    "id": "bank-043",
+    "category": "growth",
+    "text": "Tá a bá ní ojú ìwòye tuntun, ìṣòro náà á túbọ̀ rọrùn fún wa."
+  },
+  {
+    "id": "bank-044",
+    "category": "growth",
+    "text": "Tó o bá ní àṣà tó dáa, á jẹ́ kó o tẹ̀ síwájú."
+  },
+  {
+    "id": "bank-045",
+    "category": "growth",
+    "text": "Ìfòyemọ̀ tuntun yóò jẹ́ kó o ní àlàáfíà."
+  },
+  {
+    "id": "bank-046",
+    "category": "growth",
+    "text": "A lè gbọ́ ohùn tó lágbára sí i."
+  },
+  {
+    "id": "bank-047",
+    "category": "growth",
+    "text": "Tó o bá ní sùúrù, wàá rí èrè gbà."
+  },
+  {
+    "id": "bank-048",
+    "category": "growth",
+    "text": "Ìmọ́lẹ̀ ìṣẹ̀dá ló máa darí ìgbésẹ̀ tó ń tẹ̀ lé e."
+  },
+  {
+    "id": "bank-049",
+    "category": "growth",
+    "text": "Ẹ̀kọ́ pàtàkì kan ń bọ̀ wá ṣẹlẹ̀."
+  },
+  {
+    "id": "bank-050",
+    "category": "growth",
+    "text": "Tó o bá ní òye tó jinlẹ̀, wàá lè ṣe ìpinnu tó tọ́."
+  },
+  {
+    "id": "bank-051",
+    "category": "growth",
+    "text": "Ìbéèrè onígboyà kan yóò yọrí sí ìdáhùn tó wúlò."
+  },
+  {
+    "id": "bank-052",
+    "category": "growth",
+    "text": "Ìwà tuntun yóò mú kí ọjọ́ rẹ túbọ̀ rọrùn."
+  },
+  {
+    "id": "bank-053",
+    "category": "prosperity",
+    "text": "Ìsapá tó gbéṣẹ́ ti bẹ̀rẹ̀ sí í yọrí sí rere."
+  },
+  {
+    "id": "bank-054",
+    "category": "prosperity",
+    "text": "Ohun kan tó ń múni láyọ̀ yóò rí ìtìlẹ́yìn gbà."
+  },
+  {
+    "id": "bank-055",
+    "category": "prosperity",
+    "text": "Tá a bá lo àkókò wa lọ́nà tó bọ́gbọ́n mu, àbájáde rẹ̀ á dára gan-an."
+  },
+  {
+    "id": "bank-056",
+    "category": "prosperity",
+    "text": "Àǹfààní tó ń pọ̀ sí i ló wà lọ́wọ́ wa."
+  },
+  {
+    "id": "bank-057",
+    "category": "prosperity",
+    "text": "Ìbùkún ńláǹlà kan ń bọ̀ wá sórí rẹ."
+  },
+  {
+    "id": "bank-058",
+    "category": "prosperity",
+    "text": "Àkókò tí wọ́n máa ń mú èso jáde ti bẹ̀rẹ̀."
+  },
+  {
+    "id": "bank-059",
+    "category": "prosperity",
+    "text": "Ìmọ̀ràn tó dára lè yanjú ìṣòro kékeré kan."
+  },
+  {
+    "id": "bank-060",
+    "category": "prosperity",
+    "text": "Ìgbà tó tọ́ ló máa jẹ́ kí ìjùmọ̀sọ̀rọ̀ tó wúlò wáyé."
+  },
+  {
+    "id": "bank-061",
+    "category": "prosperity",
+    "text": "Ìpinnu tó dára gan-an ló máa gbéṣẹ́."
+  },
+  {
+    "id": "bank-062",
+    "category": "prosperity",
+    "text": "Àkókò tó o fi ní ọ̀pọ̀ yanturu yóò jẹ́ kó o lè mí."
+  },
+  {
+    "id": "bank-063",
+    "category": "prosperity",
+    "text": "Ìpinnu tó mọ́gbọ́n dání yóò jẹ́ ká ní àǹfààní tuntun."
+  },
+  {
+    "id": "bank-064",
+    "category": "prosperity",
+    "text": "Ìkórè ńláǹlà yóò tẹ̀ lé iṣẹ́ ìpamọ́ra rẹ."
+  },
+  {
+    "id": "bank-065",
+    "category": "prosperity",
+    "text": "Ìgbésẹ̀ tó ń fúnni láyọ̀ kan ti bẹ̀rẹ̀ sí í wáyé."
+  },
+  {
+    "id": "bank-066",
+    "category": "wisdom",
+    "text": "Ìjìnlẹ̀ òye yóò dé nígbà tó o bá nílò rẹ̀."
+  },
+  {
+    "id": "bank-067",
+    "category": "wisdom",
+    "text": "Ìpinnu tó bọ́gbọ́n mu máa jẹ́ kó o ní ìbàlẹ̀ ọkàn."
+  },
+  {
+    "id": "bank-068",
+    "category": "wisdom",
+    "text": "Òótọ́ kan tó rọrùn gan-an ló máa jẹ́ kí gbogbo nǹkan túbọ̀ ṣe kedere."
+  },
+  {
+    "id": "bank-069",
+    "category": "wisdom",
+    "text": "Ìdáhùn tó ń fúnni láyọ̀ ń dúró dè ẹ́ lábẹ́ ara rẹ."
+  },
+  {
+    "id": "bank-070",
+    "category": "wisdom",
+    "text": "Ìbéèrè tó bá tọ́ sí àkókò yóò ṣí ọ̀nà tuntun sílẹ̀."
+  },
+  {
+    "id": "bank-071",
+    "category": "wisdom",
+    "text": "Tó o bá ronú jinlẹ̀ nípa ohun tó o fẹ́ ṣe, wàá ní àlàáfíà."
+  },
+  {
+    "id": "bank-072",
+    "category": "wisdom",
+    "text": "Ìfòyemọ̀ tó jinlẹ̀ yóò rọ́pò àníyàn àtijọ́."
+  },
+  {
+    "id": "bank-073",
+    "category": "wisdom",
+    "text": "Tó o bá ní ìfòyemọ̀, wàá mọ ohun tó o máa ṣe lẹ́yìn náà."
+  },
+  {
+    "id": "bank-074",
+    "category": "wisdom",
+    "text": "Ẹ̀kọ́ tó wúlò máa wá ní àkókò tó tọ́."
+  },
+  {
+    "id": "bank-075",
+    "category": "wisdom",
+    "text": "Tó o bá mọ̀ bẹ́ẹ̀, wàá lè fọkàn tán ara rẹ."
+  },
+  {
+    "id": "bank-076",
+    "category": "wisdom",
+    "text": "Ọ̀rọ̀ tó mọ́gbọ́n dání kan máa wá sí mi lọ́wọ́ lásìkò tí kò sí ọ̀rọ̀."
+  },
+  {
+    "id": "bank-077",
+    "category": "wisdom",
+    "text": "Tó o bá dúró díẹ̀, wàá rí ọ̀nà tó yẹ kó o gbà."
+  },
+  {
+    "id": "bank-078",
+    "category": "wisdom",
+    "text": "Ọ̀nà kan tó ṣe kedere yóò fara hàn lẹ́yìn ìpamọ́ra díẹ̀."
+  },
+  {
+    "id": "bank-079",
+    "category": "courage",
+    "text": "Ìgbésẹ̀ onígboyà kan yóò mú kó o tẹ̀ síwájú."
+  },
+  {
+    "id": "bank-080",
+    "category": "courage",
+    "text": "Agbára ìdákẹ́jẹ́ẹ́ ń dàgbà nínú rẹ."
+  },
+  {
+    "id": "bank-081",
+    "category": "courage",
+    "text": "Ìbẹ̀rẹ̀ tó fìgboyà bẹ̀rẹ̀ yóò mú ìyípadà ńlá wá."
+  },
+  {
+    "id": "bank-082",
+    "category": "courage",
+    "text": "Orílẹ̀-èdè kan tó ní ìgbọ́kànlé nínú ara rẹ̀ ti múra tán láti sọ̀rọ̀."
+  },
+  {
+    "id": "bank-083",
+    "category": "courage",
+    "text": "Ọkàn-àyà tó dúró ṣinṣin yóò gbé ọ lọ."
+  },
+  {
+    "id": "bank-084",
+    "category": "courage",
+    "text": "Ìpinnu onígboyà yóò yọrí sí ìdàgbàsókè."
+  },
+  {
+    "id": "bank-085",
+    "category": "courage",
+    "text": "Ẹ̀mí ìdúróṣinṣin tuntun ń gbilẹ̀."
+  },
+  {
+    "id": "bank-086",
+    "category": "courage",
+    "text": "Ìbéèrè tí kò ní ìbẹ̀rù yóò mú ìdáhùn tó ṣeé fọkàn tán wá."
+  },
+  {
+    "id": "bank-087",
+    "category": "courage",
+    "text": "Àkókò ìgboyà kan lè yí ọjọ́ rẹ pa dà."
+  },
+  {
+    "id": "bank-088",
+    "category": "courage",
+    "text": "Ìgbésẹ̀ àkọ́kọ́ tó lágbára yóò ṣí ọ̀nà sílẹ̀."
+  },
+  {
+    "id": "bank-089",
+    "category": "courage",
+    "text": "Ẹ̀mí ìdúróṣinṣin yóò ràn ẹ́ lọ́wọ́ láti dìde."
+  },
+  {
+    "id": "bank-090",
+    "category": "courage",
+    "text": "Àlá tí kò lẹ́sẹ̀ nílẹ̀ ti múra tán láti ṣàyẹ̀wò rẹ̀."
+  },
+  {
+    "id": "bank-091",
+    "category": "courage",
+    "text": "Tó o bá ní ìgboyà, wàá borí ìṣòro náà."
+  },
+  {
+    "id": "bank-092",
+    "category": "happiness",
+    "text": "Ìdùnnú ojoojúmọ́ ń dúró de ìgbà tá a bá kíyè sí i."
+  },
+  {
+    "id": "bank-093",
+    "category": "happiness",
+    "text": "Àkókò kan tó mọ́lẹ̀ yóò mú kó o rẹ́rìn-ín músẹ́."
+  },
+  {
+    "id": "bank-094",
+    "category": "happiness",
+    "text": "Ìrìn-ín músẹ́ tó gbóná máa gbé yàrá náà sókè."
+  },
+  {
+    "id": "bank-095",
+    "category": "happiness",
+    "text": "Ìdùnnú kékeré kan yóò dé bá ẹ lónìí."
+  },
+  {
+    "id": "bank-096",
+    "category": "happiness",
+    "text": "Ìyàlẹ́nu aláyọ̀ kan ń bọ̀ wá."
+  },
+  {
+    "id": "bank-097",
+    "category": "happiness",
+    "text": "Ìdákẹ́jẹ́ẹ́ kan tó o ní máa jẹ́ kó o ní okun púpọ̀ sí i."
+  },
+  {
+    "id": "bank-098",
+    "category": "happiness",
+    "text": "Ìrántí aláyọ̀ yóò tù ọ́ nínú."
+  },
+  {
+    "id": "bank-099",
+    "category": "happiness",
+    "text": "Tó o bá ní ọkàn-àyà tó mọ́ tónítóní, ọjọ́ rẹ á túbọ̀ rọrùn."
+  },
+  {
+    "id": "bank-100",
+    "category": "happiness",
+    "text": "Ìdí kan tó fi yẹ kó o rẹ́rìn-ín ni pé ó sún mọ́ ọn ju bó o ṣe rò lọ."
+  },
+  {
+    "id": "bank-101",
+    "category": "happiness",
+    "text": "Ìpàdé aláyọ̀ yóò mú kó o túbọ̀ sún mọ́ àwọn ẹlòmíràn."
+  },
+  {
+    "id": "bank-102",
+    "category": "happiness",
+    "text": "Ìwádìí kan tó gbádùn mọ́ni máa jẹ́ kí ìgbésí ayé rẹ túbọ̀ dára sí i."
+  },
+  {
+    "id": "bank-103",
+    "category": "happiness",
+    "text": "Ó máa ń dùn mọ́ni gan-an tá a bá ń ṣeré ìdárayá."
+  },
+  {
+    "id": "bank-104",
+    "category": "happiness",
+    "text": "Àkókò kan tó yẹ kó o gbádùn ń dúró dè ẹ́."
+  },
+  {
+    "id": "bank-105",
+    "category": "resilience",
+    "text": "Agbára tuntun ń dàgbà nínú rẹ."
+  },
+  {
+    "id": "bank-106",
+    "category": "resilience",
+    "text": "Ẹ̀fúùfù kejì yóò ràn ẹ́ lọ́wọ́ láti máa bá a lọ."
+  },
+  {
+    "id": "bank-107",
+    "category": "resilience",
+    "text": "Ìrètí ṣì wà níbẹ̀."
+  },
+  {
+    "id": "bank-108",
+    "category": "resilience",
+    "text": "Ìbẹ̀rẹ̀ ìbẹ̀rẹ̀ ọ̀hún ti bẹ̀rẹ̀."
+  },
+  {
+    "id": "bank-109",
+    "category": "resilience",
+    "text": "Ọkàn-àyà tó ní ìgboyà yóò gbé ọ síwájú."
+  },
+  {
+    "id": "bank-110",
+    "category": "resilience",
+    "text": "Ọ̀nà tuntun kan ń ṣí sílẹ̀."
+  },
+  {
+    "id": "bank-111",
+    "category": "resilience",
+    "text": "Ó ti bẹ̀rẹ̀ sí í yá lára."
+  },
+  {
+    "id": "bank-112",
+    "category": "resilience",
+    "text": "Wọ́n ń kọ́ ìpìlẹ̀ tó lágbára sí i."
+  },
+  {
+    "id": "bank-113",
+    "category": "resilience",
+    "text": "Ìdákẹ́jẹ́ẹ́ lẹ́yìn ìsapá kan yóò mú ọ padà bọ̀ sípò."
+  },
+  {
+    "id": "bank-114",
+    "category": "resilience",
+    "text": "Ìmúpadàbọ̀sípò onígboyà yóò mú ìgbẹ́kẹ̀lé tuntun wá."
+  },
+  {
+    "id": "bank-115",
+    "category": "resilience",
+    "text": "Àtúnṣe tó máa ràn ẹ́ lọ́wọ́ lè mú kó o ronú jinlẹ̀."
+  },
+  {
+    "id": "bank-116",
+    "category": "resilience",
+    "text": "Bí aláìsàn kan bá tún ara rẹ̀ ṣe, ó máa yọrí sí ohun tó máa wà pẹ́ títí."
+  },
+  {
+    "id": "bank-117",
+    "category": "resilience",
+    "text": "Ibì kan tó rọra wà láti sinmi á jẹ́ kó o bẹ̀rẹ̀ lẹ́ẹ̀kan sí i."
+  },
+  {
+    "id": "bank-118",
+    "category": "adventure",
+    "text": "Ìrìn àjò àgbàyanu kan ti bẹ̀rẹ̀."
+  },
+  {
+    "id": "bank-119",
+    "category": "adventure",
+    "text": "Ọ̀nà tuntun kan ń dúró láti ṣèwádìí."
+  },
+  {
+    "id": "bank-120",
+    "category": "adventure",
+    "text": "Ìwọ̀nyí yóò mú kí ayé yín gbòòrò sí i."
+  },
+  {
+    "id": "bank-121",
+    "category": "adventure",
+    "text": "Ọ̀nà kan tó máa jẹ́ kó o mọ̀ọ́mọ̀ ronú jinlẹ̀ ló máa jẹ́ kó o ṣàkíyèsí ohun tó ń dùn mọ́ni nínú."
+  },
+  {
+    "id": "bank-122",
+    "category": "adventure",
+    "text": "Ìjùmọ̀sọ̀rọ̀ tí kò ṣeé gbàgbé yóò mú kí ọ̀sẹ̀ rẹ sunwọ̀n sí i."
+  },
+  {
+    "id": "bank-123",
+    "category": "adventure",
+    "text": "Ìwádìí tó o bá ṣe láìfọ̀rọ̀ sábẹ́ ahọ́n á jẹ́ kó o mọ ohun tó ò ń fẹ́ mọ̀."
+  },
+  {
+    "id": "bank-124",
+    "category": "adventure",
+    "text": "Ìkésíni tí a kò retí lè mú ká lọ síbi tó dára."
+  },
+  {
+    "id": "bank-125",
+    "category": "adventure",
+    "text": "Ẹni tí a kò mọ̀ dáadáa ti múra tán láti pàdé wa."
+  },
+  {
+    "id": "bank-126",
+    "category": "adventure",
+    "text": "Àkọsílẹ̀ kan tó yẹ ká sọ ti bẹ̀rẹ̀ sí í wáyé."
+  },
+  {
+    "id": "bank-127",
+    "category": "adventure",
+    "text": "Ibi tuntun kan yóò mú èrò tuntun wá."
+  },
+  {
+    "id": "bank-128",
+    "category": "adventure",
+    "text": "Ìdánilójú tó máa jẹ́ eré ìdárayá máa kọ́ ẹ ní ohun kan tó wúlò."
+  },
+  {
+    "id": "bank-129",
+    "category": "adventure",
+    "text": "Ọ̀nà kan tó ní ojú ọ̀nà ń dúró dè ẹ́."
+  },
+  {
+    "id": "bank-130",
+    "category": "adventure",
+    "text": "Kò pẹ́ tí ìṣẹ̀lẹ̀ ìyanu kan yóò fi rí ọ."
+  },
+  {
+    "id": "bank-131",
+    "category": "generosity",
+    "text": "Ìwà ọ̀làwọ́ kan yóò wá sọ́kàn rẹ."
+  },
+  {
+    "id": "bank-132",
+    "category": "generosity",
+    "text": "Ìwọ̀nba ìtọ́jú tó ń fúnni ń pọ̀ sí i yí ẹ ká."
+  },
+  {
+    "id": "bank-133",
+    "category": "generosity",
+    "text": "Ìbùkún tá a jọ ń gbádùn á jẹ́ kí ọjọ́ rẹ túbọ̀ dára sí i."
+  },
+  {
+    "id": "bank-134",
+    "category": "generosity",
+    "text": "Ìpadàbẹ̀rẹ̀ rere ń bọ̀."
+  },
+  {
+    "id": "bank-135",
+    "category": "generosity",
+    "text": "Tí wọ́n bá kí ẹ tọwọ́ tẹsẹ̀, wàá rí i pé inú rẹ dùn gan-an."
+  },
+  {
+    "id": "bank-136",
+    "category": "generosity",
+    "text": "Ọ̀wọ́ ìrànlọ́wọ́ yóò fara hàn nígbà tó o bá nílò rẹ̀."
+  },
+  {
+    "id": "bank-137",
+    "category": "generosity",
+    "text": "Ẹ̀bùn tó ṣeyebíye kan máa dé ní àkókò tó tọ́."
+  },
+  {
+    "id": "bank-138",
+    "category": "generosity",
+    "text": "Tó o bá fúnni ní ìṣẹ́jú kan, wàá láyọ̀."
+  },
+  {
+    "id": "bank-139",
+    "category": "generosity",
+    "text": "Ìjọ kan tó lágbára sí i ti ń dàgbà sí i."
+  },
+  {
+    "id": "bank-140",
+    "category": "generosity",
+    "text": "Tó o bá ṣe ohun tó tọ́, wàá rí i pé ọ̀rọ̀ náà yàtọ̀ síra."
+  },
+  {
+    "id": "bank-141",
+    "category": "generosity",
+    "text": "Ọ̀rọ̀ inú rere lè ran ẹnì kan lọ́wọ́."
+  },
+  {
+    "id": "bank-142",
+    "category": "generosity",
+    "text": "Tó o bá ní àjọṣe tímọ́tímọ́ pẹ̀lú ẹnì kan tó nífẹ̀ẹ́ rẹ, wàá rántí pé ọ̀rọ̀ rẹ ṣe pàtàkì."
+  },
+  {
+    "id": "bank-143",
+    "category": "generosity",
+    "text": "Ẹ̀bùn àkókò kan lè ṣe pàtàkì ju bó o ṣe rò lọ."
+  },
+  {
+    "id": "bank-144",
+    "category": "peace",
+    "text": "Orílẹ̀-èdè kan wà tó ń dúró tì ẹ́."
+  },
+  {
+    "id": "bank-145",
+    "category": "peace",
+    "text": "Ìdákẹ́jẹ́ẹ́ kan tó o bá ṣe máa jẹ́ kó o ní ìtẹ́lọ́rùn."
+  },
+  {
+    "id": "bank-146",
+    "category": "peace",
+    "text": "Tá a bá ní ìbàlẹ̀ ọkàn, ọjọ́ náà á túbọ̀ rọrùn fún wa."
+  },
+  {
+    "id": "bank-147",
+    "category": "peace",
+    "text": "Láìpẹ́, àkókò àlàáfíà yóò dé bá ẹ."
+  },
+  {
+    "id": "bank-148",
+    "category": "peace",
+    "text": "Tó o bá ń ṣe bẹ́ẹ̀, wàá mọ ohun tó ṣe pàtàkì jù."
+  },
+  {
+    "id": "bank-149",
+    "category": "peace",
+    "text": "Ìrọ̀lẹ́ tó ń tuni lára yóò tù ọ́ nínú."
+  },
+  {
+    "id": "bank-150",
+    "category": "peace",
+    "text": "Bí ẹ bá ń mí dáadáa, ọkàn yín á balẹ̀."
+  }
+]

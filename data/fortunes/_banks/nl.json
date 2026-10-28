@@ -1,0 +1,752 @@
+[
+  {
+    "id": "bank-001",
+    "category": "luck",
+    "text": "Een gelukkige kans is onderweg."
+  },
+  {
+    "id": "bank-002",
+    "category": "luck",
+    "text": "Een nuttig toeval zal je dag helder maken."
+  },
+  {
+    "id": "bank-003",
+    "category": "luck",
+    "text": "Een deur waar je naar kijkt, begint te openen."
+  },
+  {
+    "id": "bank-004",
+    "category": "luck",
+    "text": "Op een onverwachte plek."
+  },
+  {
+    "id": "bank-005",
+    "category": "luck",
+    "text": "Een aangename verrassing wacht in de buurt."
+  },
+  {
+    "id": "bank-006",
+    "category": "luck",
+    "text": "Een vriendschappelijke ontmoeting zal een welkome verandering brengen."
+  },
+  {
+    "id": "bank-007",
+    "category": "luck",
+    "text": "Een beetje geluk maakt je dag gemakkelijker."
+  },
+  {
+    "id": "bank-008",
+    "category": "luck",
+    "text": "Een veelbelovende uitnodiging komt binnenkort."
+  },
+  {
+    "id": "bank-009",
+    "category": "luck",
+    "text": "Een nieuw pad opent zich op het juiste moment."
+  },
+  {
+    "id": "bank-010",
+    "category": "luck",
+    "text": "Een gelukkig ongeluk leidt tot iets goeds."
+  },
+  {
+    "id": "bank-011",
+    "category": "luck",
+    "text": "Een goede kans is dichterbij dan je denkt."
+  },
+  {
+    "id": "bank-012",
+    "category": "luck",
+    "text": "Het lot werkt in je voordeel."
+  },
+  {
+    "id": "bank-013",
+    "category": "luck",
+    "text": "Een gelukkige start neemt vorm."
+  },
+  {
+    "id": "bank-014",
+    "category": "hope",
+    "text": "Een nieuw begin is dichterbij dan het lijkt."
+  },
+  {
+    "id": "bank-015",
+    "category": "hope",
+    "text": "Een betere morgen neemt al vorm."
+  },
+  {
+    "id": "bank-016",
+    "category": "hope",
+    "text": "Een nieuw begin wacht op je."
+  },
+  {
+    "id": "bank-017",
+    "category": "hope",
+    "text": "Een reden om te hopen zal je binnenkort vinden."
+  },
+  {
+    "id": "bank-018",
+    "category": "hope",
+    "text": "Een heldere ochtend zal een zachte vernieuwing brengen."
+  },
+  {
+    "id": "bank-019",
+    "category": "hope",
+    "text": "Een nieuw seizoen van mogelijkheden begint."
+  },
+  {
+    "id": "bank-020",
+    "category": "hope",
+    "text": "Er verschijnt een licht op de weg."
+  },
+  {
+    "id": "bank-021",
+    "category": "hope",
+    "text": "Een zaad van verandering groeit rustig."
+  },
+  {
+    "id": "bank-022",
+    "category": "hope",
+    "text": "Een schone pagina is klaar voor je volgende hoofdstuk."
+  },
+  {
+    "id": "bank-023",
+    "category": "hope",
+    "text": "Een hoopvolle verrassing zal je gemoed opheffen."
+  },
+  {
+    "id": "bank-024",
+    "category": "hope",
+    "text": "Een tweede kans is onderweg."
+  },
+  {
+    "id": "bank-025",
+    "category": "hope",
+    "text": "Een zachte vernieuwing begint in je leven."
+  },
+  {
+    "id": "bank-026",
+    "category": "hope",
+    "text": "Een nieuwe droom is klaar om te worden verwelkomd."
+  },
+  {
+    "id": "bank-027",
+    "category": "love",
+    "text": "Een warme band groeit om je heen."
+  },
+  {
+    "id": "bank-028",
+    "category": "love",
+    "text": "Een blijvende vriendschap zal je vreugde brengen."
+  },
+  {
+    "id": "bank-029",
+    "category": "love",
+    "text": "Een verwante geest is dichterbij dan je denkt."
+  },
+  {
+    "id": "bank-030",
+    "category": "love",
+    "text": "Een eerlijk gesprek zal een band dieper maken."
+  },
+  {
+    "id": "bank-031",
+    "category": "love",
+    "text": "Een vrijgevig hart zal het jouwe ontmoeten."
+  },
+  {
+    "id": "bank-032",
+    "category": "love",
+    "text": "Een betrouwbare metgezel zal naast je staan."
+  },
+  {
+    "id": "bank-033",
+    "category": "love",
+    "text": "Een vreugdevolle hereniging komt binnenkort."
+  },
+  {
+    "id": "bank-034",
+    "category": "love",
+    "text": "Een gedeelde lach zal je week verwarmen."
+  },
+  {
+    "id": "bank-035",
+    "category": "love",
+    "text": "Een liefdevol gebaar zal zijn weg naar je vinden."
+  },
+  {
+    "id": "bank-036",
+    "category": "love",
+    "text": "Een nieuwe vriend brengt een nieuw perspectief."
+  },
+  {
+    "id": "bank-037",
+    "category": "love",
+    "text": "Een zacht moment zal je hart thuis voelen."
+  },
+  {
+    "id": "bank-038",
+    "category": "love",
+    "text": "Een oprecht bericht komt wanneer je het nodig hebt."
+  },
+  {
+    "id": "bank-039",
+    "category": "love",
+    "text": "Een plek waar je hoort, wacht."
+  },
+  {
+    "id": "bank-040",
+    "category": "growth",
+    "text": "Een nieuwe vaardigheid zal een nuttige deur openen."
+  },
+  {
+    "id": "bank-041",
+    "category": "growth",
+    "text": "Een dieper zelfvertrouwen groeit in je."
+  },
+  {
+    "id": "bank-042",
+    "category": "growth",
+    "text": "Een duidelijker doel begint te schijnen."
+  },
+  {
+    "id": "bank-043",
+    "category": "growth",
+    "text": "Een nieuw perspectief zal een uitdaging gemakkelijker maken."
+  },
+  {
+    "id": "bank-044",
+    "category": "growth",
+    "text": "Een gezondere gewoonte zal je vooruitgang ondersteunen."
+  },
+  {
+    "id": "bank-045",
+    "category": "growth",
+    "text": "Een nieuw begrip zal je vrede brengen."
+  },
+  {
+    "id": "bank-046",
+    "category": "growth",
+    "text": "Een sterkere stem is klaar om gehoord te worden."
+  },
+  {
+    "id": "bank-047",
+    "category": "growth",
+    "text": "Een geduldige oefening zal je belonen."
+  },
+  {
+    "id": "bank-048",
+    "category": "growth",
+    "text": "Een creatieve vonk zal je volgende stap leiden."
+  },
+  {
+    "id": "bank-049",
+    "category": "growth",
+    "text": "Een betekenisvolle les staat op de hand."
+  },
+  {
+    "id": "bank-050",
+    "category": "growth",
+    "text": "Een breder beeld zal u helpen een goede keuze te maken."
+  },
+  {
+    "id": "bank-051",
+    "category": "growth",
+    "text": "Een moedige vraag leidt tot een nuttig antwoord."
+  },
+  {
+    "id": "bank-052",
+    "category": "growth",
+    "text": "Een nieuw ritme zal je dagen lichter maken."
+  },
+  {
+    "id": "bank-053",
+    "category": "prosperity",
+    "text": "Een vruchtbare inspanning begint resultaten te geven."
+  },
+  {
+    "id": "bank-054",
+    "category": "prosperity",
+    "text": "Een veelbelovend project zal steun krijgen."
+  },
+  {
+    "id": "bank-055",
+    "category": "prosperity",
+    "text": "Een verstandig gebruik van de tijd zal een bevredigend resultaat opleveren."
+  },
+  {
+    "id": "bank-056",
+    "category": "prosperity",
+    "text": "Een groeiende kans is binnen handbereik."
+  },
+  {
+    "id": "bank-057",
+    "category": "prosperity",
+    "text": "Een goed verdiende beloning komt naar je toe."
+  },
+  {
+    "id": "bank-058",
+    "category": "prosperity",
+    "text": "Een productief seizoen begint."
+  },
+  {
+    "id": "bank-059",
+    "category": "prosperity",
+    "text": "Een vindingrijk idee zal een klein probleem oplossen."
+  },
+  {
+    "id": "bank-060",
+    "category": "prosperity",
+    "text": "Een nuttige verbinding zal op het juiste moment verschijnen."
+  },
+  {
+    "id": "bank-061",
+    "category": "prosperity",
+    "text": "Een doordacht plan zal zijn voet vinden."
+  },
+  {
+    "id": "bank-062",
+    "category": "prosperity",
+    "text": "Een moment vol zal je ruimte geven om te ademen."
+  },
+  {
+    "id": "bank-063",
+    "category": "prosperity",
+    "text": "Een goede beslissing zal een nieuwe kans creëren."
+  },
+  {
+    "id": "bank-064",
+    "category": "prosperity",
+    "text": "Een genereuze oogst zal volgen op uw geduldige werk."
+  },
+  {
+    "id": "bank-065",
+    "category": "prosperity",
+    "text": "Een lonend venture neemt vorm."
+  },
+  {
+    "id": "bank-066",
+    "category": "wisdom",
+    "text": "Een duidelijk inzicht zal komen wanneer je het nodig hebt."
+  },
+  {
+    "id": "bank-067",
+    "category": "wisdom",
+    "text": "Een verstandige beslissing zal je kalmeren."
+  },
+  {
+    "id": "bank-068",
+    "category": "wisdom",
+    "text": "Een eenvoudige waarheid zal alles duidelijker maken."
+  },
+  {
+    "id": "bank-069",
+    "category": "wisdom",
+    "text": "Een vredig antwoord wacht in je."
+  },
+  {
+    "id": "bank-070",
+    "category": "wisdom",
+    "text": "Een tijdige vraag zal een nieuw pad openen."
+  },
+  {
+    "id": "bank-071",
+    "category": "wisdom",
+    "text": "Een doordachte keuze zal je vrede beschermen."
+  },
+  {
+    "id": "bank-072",
+    "category": "wisdom",
+    "text": "Een dieper begrip zal een oude zorgen vervangen."
+  },
+  {
+    "id": "bank-073",
+    "category": "wisdom",
+    "text": "Een rustige helderheid zal je volgende stap leiden."
+  },
+  {
+    "id": "bank-074",
+    "category": "wisdom",
+    "text": "Een nuttige les zal op het juiste moment komen."
+  },
+  {
+    "id": "bank-075",
+    "category": "wisdom",
+    "text": "Een rustige kennis zal je helpen jezelf te vertrouwen."
+  },
+  {
+    "id": "bank-076",
+    "category": "wisdom",
+    "text": "Een helder idee komt binnen in een stil moment."
+  },
+  {
+    "id": "bank-077",
+    "category": "wisdom",
+    "text": "Een verstandige pauze zal je helpen de weg te zien."
+  },
+  {
+    "id": "bank-078",
+    "category": "wisdom",
+    "text": "Na een beetje geduld zal er een duidelijk pad komen."
+  },
+  {
+    "id": "bank-079",
+    "category": "courage",
+    "text": "Een moedige stap zal je naar voren brengen."
+  },
+  {
+    "id": "bank-080",
+    "category": "courage",
+    "text": "De stille kracht groeit in je."
+  },
+  {
+    "id": "bank-081",
+    "category": "courage",
+    "text": "Een gedurfde start zal een welkome verandering brengen."
+  },
+  {
+    "id": "bank-082",
+    "category": "courage",
+    "text": "Een zelfverzekerde stem is klaar om te spreken."
+  },
+  {
+    "id": "bank-083",
+    "category": "courage",
+    "text": "Een stevig hart zal je doorvoeren."
+  },
+  {
+    "id": "bank-084",
+    "category": "courage",
+    "text": "Een moedige keuze zal tot groei leiden."
+  },
+  {
+    "id": "bank-085",
+    "category": "courage",
+    "text": "Een nieuw gevoel van vastberadenheid neemt wortel."
+  },
+  {
+    "id": "bank-086",
+    "category": "courage",
+    "text": "Een onbevreesde vraag brengt een eerlijk antwoord."
+  },
+  {
+    "id": "bank-087",
+    "category": "courage",
+    "text": "Een moment van moed zal je dag veranderen."
+  },
+  {
+    "id": "bank-088",
+    "category": "courage",
+    "text": "Een sterke eerste beweging zal de weg openen."
+  },
+  {
+    "id": "bank-089",
+    "category": "courage",
+    "text": "Een veerkrachtige geest zal je helpen om op te staan."
+  },
+  {
+    "id": "bank-090",
+    "category": "courage",
+    "text": "Een gedurfde droom is klaar om te worden verkend."
+  },
+  {
+    "id": "bank-091",
+    "category": "courage",
+    "text": "Een kalme vastberadenheid zal je door helpen."
+  },
+  {
+    "id": "bank-092",
+    "category": "happiness",
+    "text": "Alledaagse vreugde wacht om opgemerkt te worden."
+  },
+  {
+    "id": "bank-093",
+    "category": "happiness",
+    "text": "Een helder moment zal je laten glimlachen."
+  },
+  {
+    "id": "bank-094",
+    "category": "happiness",
+    "text": "Een warm gelach zal de kamer verheffen."
+  },
+  {
+    "id": "bank-095",
+    "category": "happiness",
+    "text": "Een kleine verrukking zal je vandaag vinden."
+  },
+  {
+    "id": "bank-096",
+    "category": "happiness",
+    "text": "Een vrolijke verrassing is onderweg."
+  },
+  {
+    "id": "bank-097",
+    "category": "happiness",
+    "text": "Een tevreden pauze zal je energie terugbrengen."
+  },
+  {
+    "id": "bank-098",
+    "category": "happiness",
+    "text": "Een gelukkig geheugen zal je troost geven."
+  },
+  {
+    "id": "bank-099",
+    "category": "happiness",
+    "text": "Een licht hart zal je dag gemakkelijker maken."
+  },
+  {
+    "id": "bank-100",
+    "category": "happiness",
+    "text": "Een reden om te glimlachen is dichterbij dan je denkt."
+  },
+  {
+    "id": "bank-101",
+    "category": "happiness",
+    "text": "Een vreugdevolle bijeenkomst zal je dichter bij anderen brengen."
+  },
+  {
+    "id": "bank-102",
+    "category": "happiness",
+    "text": "Een aangename ontdekking zal je routine verlichten."
+  },
+  {
+    "id": "bank-103",
+    "category": "happiness",
+    "text": "Een speels idee zal een beetje plezier toevoegen."
+  },
+  {
+    "id": "bank-104",
+    "category": "happiness",
+    "text": "Een moment dat het waard is om te proeven, wacht op je."
+  },
+  {
+    "id": "bank-105",
+    "category": "resilience",
+    "text": "Vernieuwde kracht groeit in je."
+  },
+  {
+    "id": "bank-106",
+    "category": "resilience",
+    "text": "Een tweede wind zal je helpen door te gaan."
+  },
+  {
+    "id": "bank-107",
+    "category": "resilience",
+    "text": "Er is een frisse reserver van hoop beschikbaar."
+  },
+  {
+    "id": "bank-108",
+    "category": "resilience",
+    "text": "Een rustige terugkeer begint."
+  },
+  {
+    "id": "bank-109",
+    "category": "resilience",
+    "text": "Een veerkrachtig hart zal je naar voren brengen."
+  },
+  {
+    "id": "bank-110",
+    "category": "resilience",
+    "text": "Er ontstaat een nieuwe weg."
+  },
+  {
+    "id": "bank-111",
+    "category": "resilience",
+    "text": "Er is een zacht herstel van geest aan de gang."
+  },
+  {
+    "id": "bank-112",
+    "category": "resilience",
+    "text": "Er wordt een sterker fundament gebouwd."
+  },
+  {
+    "id": "bank-113",
+    "category": "resilience",
+    "text": "Een kalmte na inspanning zal je herstellen."
+  },
+  {
+    "id": "bank-114",
+    "category": "resilience",
+    "text": "Een moedige terugkeer zal nieuwe zelfvertrouwen brengen."
+  },
+  {
+    "id": "bank-115",
+    "category": "resilience",
+    "text": "Een nuttige reset zal je geest zuiveren."
+  },
+  {
+    "id": "bank-116",
+    "category": "resilience",
+    "text": "Een heropbouw van de patiënt leidt tot iets blijvends."
+  },
+  {
+    "id": "bank-117",
+    "category": "resilience",
+    "text": "Een zachte plek om te rusten zal je helpen om opnieuw te beginnen."
+  },
+  {
+    "id": "bank-118",
+    "category": "adventure",
+    "text": "Een verrassende reis begint."
+  },
+  {
+    "id": "bank-119",
+    "category": "adventure",
+    "text": "Een nieuw pad wacht te worden verkend."
+  },
+  {
+    "id": "bank-120",
+    "category": "adventure",
+    "text": "Een nieuwe horizon zal je wereld uitbreiden."
+  },
+  {
+    "id": "bank-121",
+    "category": "adventure",
+    "text": "Een vreemde omleiding zal een aangename ontdekking brengen."
+  },
+  {
+    "id": "bank-122",
+    "category": "adventure",
+    "text": "Een onvergetelijke ontmoeting zal je week verrijken."
+  },
+  {
+    "id": "bank-123",
+    "category": "adventure",
+    "text": "Een gedurfde ontdekking zal je nieuwsgierigheid belonen."
+  },
+  {
+    "id": "bank-124",
+    "category": "adventure",
+    "text": "Een onverwachte uitnodiging leidt naar iets goeds."
+  },
+  {
+    "id": "bank-125",
+    "category": "adventure",
+    "text": "Een heldere onbekende is klaar om te ontmoeten."
+  },
+  {
+    "id": "bank-126",
+    "category": "adventure",
+    "text": "Een verhaal dat het waard is om te vertellen, neemt vorm."
+  },
+  {
+    "id": "bank-127",
+    "category": "adventure",
+    "text": "Een nieuwe plek brengt een nieuw perspectief."
+  },
+  {
+    "id": "bank-128",
+    "category": "adventure",
+    "text": "Een speelse uitdaging zal je iets nuttigs leren."
+  },
+  {
+    "id": "bank-129",
+    "category": "adventure",
+    "text": "Een weg met uitzicht wacht op je."
+  },
+  {
+    "id": "bank-130",
+    "category": "adventure",
+    "text": "Een moment van verwondering zal je binnenkort vinden."
+  },
+  {
+    "id": "bank-131",
+    "category": "generosity",
+    "text": "Een genereus gebaar zal je terugkomen."
+  },
+  {
+    "id": "bank-132",
+    "category": "generosity",
+    "text": "Een cirkel van zorg groeit om je heen."
+  },
+  {
+    "id": "bank-133",
+    "category": "generosity",
+    "text": "Een gedeelde zegen zal je dag helderder maken."
+  },
+  {
+    "id": "bank-134",
+    "category": "generosity",
+    "text": "Een vriendelijke terugkeer is onderweg."
+  },
+  {
+    "id": "bank-135",
+    "category": "generosity",
+    "text": "Een warm verwelkoming zal je thuis voelen."
+  },
+  {
+    "id": "bank-136",
+    "category": "generosity",
+    "text": "Een hulphand zal verschijnen als je er een nodig hebt."
+  },
+  {
+    "id": "bank-137",
+    "category": "generosity",
+    "text": "Een zinvol cadeau komt op het juiste moment."
+  },
+  {
+    "id": "bank-138",
+    "category": "generosity",
+    "text": "Een moment van geven zal je vreugde brengen."
+  },
+  {
+    "id": "bank-139",
+    "category": "generosity",
+    "text": "Een sterkere gemeenschap neemt vorm."
+  },
+  {
+    "id": "bank-140",
+    "category": "generosity",
+    "text": "Een doordachte bijdrage zal een verschil maken."
+  },
+  {
+    "id": "bank-141",
+    "category": "generosity",
+    "text": "Een golf van vriendelijkheid zal iemand anders bereiken."
+  },
+  {
+    "id": "bank-142",
+    "category": "generosity",
+    "text": "Een zorgzame band zal je eraan herinneren dat je belangrijk bent."
+  },
+  {
+    "id": "bank-143",
+    "category": "generosity",
+    "text": "Een geschenk van tijd zal meer betekenen dan je verwacht."
+  },
+  {
+    "id": "bank-144",
+    "category": "peace",
+    "text": "Een kalm centrum wacht in je."
+  },
+  {
+    "id": "bank-145",
+    "category": "peace",
+    "text": "Een zachte pauze zal je evenwicht herstellen."
+  },
+  {
+    "id": "bank-146",
+    "category": "peace",
+    "text": "Een rustige geest zal de dag lichter voelen."
+  },
+  {
+    "id": "bank-147",
+    "category": "peace",
+    "text": "Een vredig moment zal je binnenkort vinden."
+  },
+  {
+    "id": "bank-148",
+    "category": "peace",
+    "text": "Een zachter tempo zal je helpen te merken wat belangrijk is."
+  },
+  {
+    "id": "bank-149",
+    "category": "peace",
+    "text": "Een rustig avondje zal je troost geven."
+  },
+  {
+    "id": "bank-150",
+    "category": "peace",
+    "text": "Een heldere adem zal je hart stevig maken."
+  }
+]

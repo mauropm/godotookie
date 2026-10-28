@@ -1,0 +1,67 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/ui/fortune_slip.gd" id="1_slip"]
+
+[node name="FortuneSlip" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+script = ExtResource("1_slip")
+
+[node name="Card" type="Panel" parent="."]
+layout_mode = 0
+offset_left = 350.0
+offset_top = 150.0
+offset_right = 930.0
+offset_bottom = 560.0
+mouse_filter = 0
+theme_type_variation = &"ParchmentCard"
+
+[node name="VBox" type="VBoxContainer" parent="Card"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 34.0
+offset_top = 26.0
+offset_right = -34.0
+offset_bottom = -26.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 12
+
+[node name="Header" type="HBoxContainer" parent="Card/VBox"]
+layout_mode = 2
+alignment = 1
+theme_override_constants/separation = 8
+
+[node name="Mark" type="Label" parent="Card/VBox/Header"]
+layout_mode = 2
+text = "✦"
+
+[node name="HeaderLabel" type="Label" parent="Card/VBox/Header"]
+layout_mode = 2
+text = "YOUR FORTUNE"
+
+[node name="Divider" type="ColorRect" parent="Card/VBox"]
+custom_minimum_size = Vector2(0, 1)
+layout_mode = 2
+color = Color(0.770, 0.549, 0.270, 0.45)
+
+[node name="FortuneText" type="Label" parent="Card/VBox"]
+custom_minimum_size = Vector2(0, 120)
+layout_mode = 2
+size_flags_vertical = 3
+text = "A little luck is already on its way to you."
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 3
+
+[node name="Footer" type="Label" parent="Card/VBox"]
+layout_mode = 2
+text = "A LITTLE LUCK"
+horizontal_alignment = 1

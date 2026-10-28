@@ -1,0 +1,752 @@
+[
+  {
+    "id": "bank-001",
+    "category": "luck",
+    "text": "幸運なチャンスがやってくる。"
+  },
+  {
+    "id": "bank-002",
+    "category": "luck",
+    "text": "有益な偶然は、あなたの日を明るくする。"
+  },
+  {
+    "id": "bank-003",
+    "category": "luck",
+    "text": "目の前のドアが開き始めています。"
+  },
+  {
+    "id": "bank-004",
+    "category": "luck",
+    "text": "適切なタイミングで予期せぬ場所で会うでしょう。"
+  },
+  {
+    "id": "bank-005",
+    "category": "luck",
+    "text": "近くで楽しいサプライズが待っている。"
+  },
+  {
+    "id": "bank-006",
+    "category": "luck",
+    "text": "友好的会談は歓迎する変化をもたらす。"
+  },
+  {
+    "id": "bank-007",
+    "category": "luck",
+    "text": "ちょっとした運があなたの日を楽にする。"
+  },
+  {
+    "id": "bank-008",
+    "category": "luck",
+    "text": "約束する招待状がすぐ届きます。"
+  },
+  {
+    "id": "bank-009",
+    "category": "luck",
+    "text": "適切なタイミングで新しい道が開いている。"
+  },
+  {
+    "id": "bank-010",
+    "category": "luck",
+    "text": "幸せな事故は良いものへと導きます。"
+  },
+  {
+    "id": "bank-011",
+    "category": "luck",
+    "text": "明るいチャンスが思ったより近い。"
+  },
+  {
+    "id": "bank-012",
+    "category": "luck",
+    "text": "運命を逆転させてください。"
+  },
+  {
+    "id": "bank-013",
+    "category": "luck",
+    "text": "幸運な始まりが形作っています。"
+  },
+  {
+    "id": "bank-014",
+    "category": "hope",
+    "text": "新しい始まりは思えるよりも近い。"
+  },
+  {
+    "id": "bank-015",
+    "category": "hope",
+    "text": "明日の輝きは既に形作っています。"
+  },
+  {
+    "id": "bank-016",
+    "category": "hope",
+    "text": "新しいスタートが待っています。"
+  },
+  {
+    "id": "bank-017",
+    "category": "hope",
+    "text": "期待する理由がすぐに見つけるだろう。"
+  },
+  {
+    "id": "bank-018",
+    "category": "hope",
+    "text": "晴れた朝は穏やかな再生をもたらす。"
+  },
+  {
+    "id": "bank-019",
+    "category": "hope",
+    "text": "新しい可能性の季節が始まる。"
+  },
+  {
+    "id": "bank-020",
+    "category": "hope",
+    "text": "前方の道路に光が出ている。"
+  },
+  {
+    "id": "bank-021",
+    "category": "hope",
+    "text": "変化の種は静かに成長している。"
+  },
+  {
+    "id": "bank-022",
+    "category": "hope",
+    "text": "次の章にはページが整っています。"
+  },
+  {
+    "id": "bank-023",
+    "category": "hope",
+    "text": "希望に満ちたサプライズはあなたの気持ちを高めます。"
+  },
+  {
+    "id": "bank-024",
+    "category": "hope",
+    "text": "二度目のチャンスが来る。"
+  },
+  {
+    "id": "bank-025",
+    "category": "hope",
+    "text": "あなたの人生で穏やかな更新が始まります。"
+  },
+  {
+    "id": "bank-026",
+    "category": "hope",
+    "text": "新しい夢は歓迎される準備ができている。"
+  },
+  {
+    "id": "bank-027",
+    "category": "love",
+    "text": "あなたの周りに暖かい絆が広がっています。"
+  },
+  {
+    "id": "bank-028",
+    "category": "love",
+    "text": "永遠の友はあなたに喜びを与えます。"
+  },
+  {
+    "id": "bank-029",
+    "category": "love",
+    "text": "相親の精神は想像以上に近い。"
+  },
+  {
+    "id": "bank-030",
+    "category": "love",
+    "text": "誠実な会話は絆を深める。"
+  },
+  {
+    "id": "bank-031",
+    "category": "love",
+    "text": "寛大な心はあなたと出会うでしょう。"
+  },
+  {
+    "id": "bank-032",
+    "category": "love",
+    "text": "信頼できる仲間があなたのそばに立っています。"
+  },
+  {
+    "id": "bank-033",
+    "category": "love",
+    "text": "喜びに満ちた再会が近い。"
+  },
+  {
+    "id": "bank-034",
+    "category": "love",
+    "text": "楽しい笑いはあなたの週を暖めるでしょう。"
+  },
+  {
+    "id": "bank-035",
+    "category": "love",
+    "text": "愛のジェストがあなたにも届く。"
+  },
+  {
+    "id": "bank-036",
+    "category": "love",
+    "text": "新しい友人は新しい視点をもたらす。"
+  },
+  {
+    "id": "bank-037",
+    "category": "love",
+    "text": "柔らかい瞬間があなたの心を帰りにさせるでしょう。"
+  },
+  {
+    "id": "bank-038",
+    "category": "love",
+    "text": "心からのメッセージが必要に応じて届きます。"
+  },
+  {
+    "id": "bank-039",
+    "category": "love",
+    "text": "あなたの居場所が待っている。"
+  },
+  {
+    "id": "bank-040",
+    "category": "growth",
+    "text": "新しいスキルは有用な扉を開くだろう。"
+  },
+  {
+    "id": "bank-041",
+    "category": "growth",
+    "text": "あなたの中により深い自信が育つのです。"
+  },
+  {
+    "id": "bank-042",
+    "category": "growth",
+    "text": "もっと明白な目的が輝き始めています。"
+  },
+  {
+    "id": "bank-043",
+    "category": "growth",
+    "text": "新しい視点によって課題が容易になります。"
+  },
+  {
+    "id": "bank-044",
+    "category": "growth",
+    "text": "より健康的な習慣があなたの進歩を支えるでしょう。"
+  },
+  {
+    "id": "bank-045",
+    "category": "growth",
+    "text": "新しい理解はあなたに平和をもたらす。"
+  },
+  {
+    "id": "bank-046",
+    "category": "growth",
+    "text": "強くなる声が聞こえる準備ができています。"
+  },
+  {
+    "id": "bank-047",
+    "category": "growth",
+    "text": "忍耐の練習が報われる。"
+  },
+  {
+    "id": "bank-048",
+    "category": "growth",
+    "text": "創造的な火花が次のステップを導くでしょう。"
+  },
+  {
+    "id": "bank-049",
+    "category": "growth",
+    "text": "有意義な教訓が近づいている。"
+  },
+  {
+    "id": "bank-050",
+    "category": "growth",
+    "text": "より広い視野は良い選択をするのに役立ちます。"
+  },
+  {
+    "id": "bank-051",
+    "category": "growth",
+    "text": "勇気ある質問は有用な答えにつながります。"
+  },
+  {
+    "id": "bank-052",
+    "category": "growth",
+    "text": "新しいリズムで日が明るくなります。"
+  },
+  {
+    "id": "bank-053",
+    "category": "prosperity",
+    "text": "果実な努力が成果を上げ始めている。"
+  },
+  {
+    "id": "bank-054",
+    "category": "prosperity",
+    "text": "有望なプロジェクトには支持が集まる。"
+  },
+  {
+    "id": "bank-055",
+    "category": "prosperity",
+    "text": "時間を賢く使うなら、満足した結果を得ます。"
+  },
+  {
+    "id": "bank-056",
+    "category": "prosperity",
+    "text": "成長するチャンスが近づいている。"
+  },
+  {
+    "id": "bank-057",
+    "category": "prosperity",
+    "text": "立派な報奨が来る。"
+  },
+  {
+    "id": "bank-058",
+    "category": "prosperity",
+    "text": "生産的な季節が始まる。"
+  },
+  {
+    "id": "bank-059",
+    "category": "prosperity",
+    "text": "巧妙なアイデアは小さな問題を解決します。"
+  },
+  {
+    "id": "bank-060",
+    "category": "prosperity",
+    "text": "適切なタイミングで有用な繋がりが現れるでしょう。"
+  },
+  {
+    "id": "bank-061",
+    "category": "prosperity",
+    "text": "熟考した計画が基礎となるでしょう。"
+  },
+  {
+    "id": "bank-062",
+    "category": "prosperity",
+    "text": "充実した時間があれば呼吸する余地がある。"
+  },
+  {
+    "id": "bank-063",
+    "category": "prosperity",
+    "text": "健全な決断は新たな機会を生み出します。"
+  },
+  {
+    "id": "bank-064",
+    "category": "prosperity",
+    "text": "寛大な収穫は、あなたの忍耐深い働きに伴います。"
+  },
+  {
+    "id": "bank-065",
+    "category": "prosperity",
+    "text": "充実した事業が形作られつつある。"
+  },
+  {
+    "id": "bank-066",
+    "category": "wisdom",
+    "text": "必要な時に明瞭な洞察が届きます。"
+  },
+  {
+    "id": "bank-067",
+    "category": "wisdom",
+    "text": "賢明な決断は、あなたを落ち着かせる。"
+  },
+  {
+    "id": "bank-068",
+    "category": "wisdom",
+    "text": "シンプルな真実が全てを明確にする。"
+  },
+  {
+    "id": "bank-069",
+    "category": "wisdom",
+    "text": "平和な答えがあなたの中に待っている。"
+  },
+  {
+    "id": "bank-070",
+    "category": "wisdom",
+    "text": "適切な質問は新しい道を開くだろう。"
+  },
+  {
+    "id": "bank-071",
+    "category": "wisdom",
+    "text": "慎重に選択するなら、あなたの平和を保つことができます。"
+  },
+  {
+    "id": "bank-072",
+    "category": "wisdom",
+    "text": "深い理解が古い心配を置き換えるでしょう。"
+  },
+  {
+    "id": "bank-073",
+    "category": "wisdom",
+    "text": "穏やかな明確さは次の動きを導くでしょう。"
+  },
+  {
+    "id": "bank-074",
+    "category": "wisdom",
+    "text": "有益な教訓は適切な時に来る。"
+  },
+  {
+    "id": "bank-075",
+    "category": "wisdom",
+    "text": "静かな知識は自分を信じてくれるでしょう。"
+  },
+  {
+    "id": "bank-076",
+    "category": "wisdom",
+    "text": "静かな瞬間に明るいアイデアがやってくる。"
+  },
+  {
+    "id": "bank-077",
+    "category": "wisdom",
+    "text": "賢明な静止は道を見つけるのに役立ちます。"
+  },
+  {
+    "id": "bank-078",
+    "category": "wisdom",
+    "text": "ほんの少しの忍耐の後、明瞭な道が開かれる。"
+  },
+  {
+    "id": "bank-079",
+    "category": "courage",
+    "text": "勇敢な一歩があなたを前進させる。"
+  },
+  {
+    "id": "bank-080",
+    "category": "courage",
+    "text": "静かな力が成長している。"
+  },
+  {
+    "id": "bank-081",
+    "category": "courage",
+    "text": "勇気ある始まりは歓迎すべき変化をもたらします。"
+  },
+  {
+    "id": "bank-082",
+    "category": "courage",
+    "text": "自信のある声は話す準備ができている。"
+  },
+  {
+    "id": "bank-083",
+    "category": "courage",
+    "text": "安定した心があなたを支える。"
+  },
+  {
+    "id": "bank-084",
+    "category": "courage",
+    "text": "勇気ある選択は成長につながります。"
+  },
+  {
+    "id": "bank-085",
+    "category": "courage",
+    "text": "決意の新たな感覚が根付いています。"
+  },
+  {
+    "id": "bank-086",
+    "category": "courage",
+    "text": "勇気ある質問は正直な答えをもたらす。"
+  },
+  {
+    "id": "bank-087",
+    "category": "courage",
+    "text": "勇気のある瞬間があなたの日を変える。"
+  },
+  {
+    "id": "bank-088",
+    "category": "courage",
+    "text": "強い第一歩は道を切り開くでしょう。"
+  },
+  {
+    "id": "bank-089",
+    "category": "courage",
+    "text": "回復力のある精神は立ち上がるのを助けます。"
+  },
+  {
+    "id": "bank-090",
+    "category": "courage",
+    "text": "勇気ある夢は探索に備えている。"
+  },
+  {
+    "id": "bank-091",
+    "category": "courage",
+    "text": "落ち着いた決意があなたを助けます。"
+  },
+  {
+    "id": "bank-092",
+    "category": "happiness",
+    "text": "日常の喜びは注目されるのを待っている。"
+  },
+  {
+    "id": "bank-093",
+    "category": "happiness",
+    "text": "明るい瞬間があなたを微笑ませる。"
+  },
+  {
+    "id": "bank-094",
+    "category": "happiness",
+    "text": "暖かい笑いが部屋を動かす。"
+  },
+  {
+    "id": "bank-095",
+    "category": "happiness",
+    "text": "今日はちょっとした喜びがあるでしょう。"
+  },
+  {
+    "id": "bank-096",
+    "category": "happiness",
+    "text": "楽しいサプライズがやってくる。"
+  },
+  {
+    "id": "bank-097",
+    "category": "happiness",
+    "text": "満足した休憩はあなたのエネルギーを回復させる。"
+  },
+  {
+    "id": "bank-098",
+    "category": "happiness",
+    "text": "幸せな記憶は慰めをもたらす。"
+  },
+  {
+    "id": "bank-099",
+    "category": "happiness",
+    "text": "軽い心があれば日が楽になる。"
+  },
+  {
+    "id": "bank-100",
+    "category": "happiness",
+    "text": "微笑む理由は、あなたが思っているよりも近い。"
+  },
+  {
+    "id": "bank-101",
+    "category": "happiness",
+    "text": "喜びに満ちた集会はあなたを他人により近づけます。"
+  },
+  {
+    "id": "bank-102",
+    "category": "happiness",
+    "text": "愉快な発見は日常を明るくします。"
+  },
+  {
+    "id": "bank-103",
+    "category": "happiness",
+    "text": "遊び心のあるアイデアは少し楽しくなります。"
+  },
+  {
+    "id": "bank-104",
+    "category": "happiness",
+    "text": "楽しむ価値のある瞬間が待っています。"
+  },
+  {
+    "id": "bank-105",
+    "category": "resilience",
+    "text": "あなたの内には新たな力が生まれる。"
+  },
+  {
+    "id": "bank-106",
+    "category": "resilience",
+    "text": "二度目の風が助かります。"
+  },
+  {
+    "id": "bank-107",
+    "category": "resilience",
+    "text": "新鮮な希望の備蓄がある。"
+  },
+  {
+    "id": "bank-108",
+    "category": "resilience",
+    "text": "静かな復活が始まる。"
+  },
+  {
+    "id": "bank-109",
+    "category": "resilience",
+    "text": "頑丈な心があなたを前進させる。"
+  },
+  {
+    "id": "bank-110",
+    "category": "resilience",
+    "text": "新しい道が開きつつある。"
+  },
+  {
+    "id": "bank-111",
+    "category": "resilience",
+    "text": "穏やかな精神回復が進行中です。"
+  },
+  {
+    "id": "bank-112",
+    "category": "resilience",
+    "text": "より強い基盤が作られている。"
+  },
+  {
+    "id": "bank-113",
+    "category": "resilience",
+    "text": "努力の後、落ち着きがあなたを回復させる。"
+  },
+  {
+    "id": "bank-114",
+    "category": "resilience",
+    "text": "勇敢な帰還は新しい自信をもたらす。"
+  },
+  {
+    "id": "bank-115",
+    "category": "resilience",
+    "text": "役に立たないリセットで頭を清められる。"
+  },
+  {
+    "id": "bank-116",
+    "category": "resilience",
+    "text": "患者の回復は永続的な結果をもたらします。"
+  },
+  {
+    "id": "bank-117",
+    "category": "resilience",
+    "text": "柔らかい休息場は再びスタートを助けます。"
+  },
+  {
+    "id": "bank-118",
+    "category": "adventure",
+    "text": "驚くべき旅が始まる。"
+  },
+  {
+    "id": "bank-119",
+    "category": "adventure",
+    "text": "新しい道が探求されるのを待っています。"
+  },
+  {
+    "id": "bank-120",
+    "category": "adventure",
+    "text": "新しい地平線があなたの世界を広げる。"
+  },
+  {
+    "id": "bank-121",
+    "category": "adventure",
+    "text": "奇妙な逸脱は愉快な発見をもたらす。"
+  },
+  {
+    "id": "bank-122",
+    "category": "adventure",
+    "text": "思い出に残る出会いは、あなたの週を豊かにします。"
+  },
+  {
+    "id": "bank-123",
+    "category": "adventure",
+    "text": "勇気ある探検はあなたの好奇心を報いるでしょう。"
+  },
+  {
+    "id": "bank-124",
+    "category": "adventure",
+    "text": "予期せぬ招待は良い場所へと導きます。"
+  },
+  {
+    "id": "bank-125",
+    "category": "adventure",
+    "text": "明るい未知が迎える準備ができている。"
+  },
+  {
+    "id": "bank-126",
+    "category": "adventure",
+    "text": "物語が形づくっている。"
+  },
+  {
+    "id": "bank-127",
+    "category": "adventure",
+    "text": "新しい場所が新しい視点をもたらすでしょう。"
+  },
+  {
+    "id": "bank-128",
+    "category": "adventure",
+    "text": "遊び心のある挑戦は役に立つことを教えてくれます。"
+  },
+  {
+    "id": "bank-129",
+    "category": "adventure",
+    "text": "景色のある道路があなたを待っている。"
+  },
+  {
+    "id": "bank-130",
+    "category": "adventure",
+    "text": "驚きの瞬間がすぐにあなたを発見します。"
+  },
+  {
+    "id": "bank-131",
+    "category": "generosity",
+    "text": "寛大なジェストがあなたに返ってくるでしょう。"
+  },
+  {
+    "id": "bank-132",
+    "category": "generosity",
+    "text": "あなたの周りに介護の輪が広がっています。"
+  },
+  {
+    "id": "bank-133",
+    "category": "generosity",
+    "text": "分かち合う祝福は日を明るくします。"
+  },
+  {
+    "id": "bank-134",
+    "category": "generosity",
+    "text": "優しい帰還が来る。"
+  },
+  {
+    "id": "bank-135",
+    "category": "generosity",
+    "text": "温かい歓迎によって、あなたは自宅のように感じるでしょう。"
+  },
+  {
+    "id": "bank-136",
+    "category": "generosity",
+    "text": "必要な時に助け手が現れます。"
+  },
+  {
+    "id": "bank-137",
+    "category": "generosity",
+    "text": "有意義な贈り物は適切な時に届きます。"
+  },
+  {
+    "id": "bank-138",
+    "category": "generosity",
+    "text": "与える瞬間が喜びをもたらす。"
+  },
+  {
+    "id": "bank-139",
+    "category": "generosity",
+    "text": "より強いコミュニティが形成されています。"
+  },
+  {
+    "id": "bank-140",
+    "category": "generosity",
+    "text": "配慮した貢献は大きな変化をもたらすでしょう。"
+  },
+  {
+    "id": "bank-141",
+    "category": "generosity",
+    "text": "優しさの波が新しい人に届きます。"
+  },
+  {
+    "id": "bank-142",
+    "category": "generosity",
+    "text": "親切な繋がりがあなたを大切にしていることを思い出させます。"
+  },
+  {
+    "id": "bank-143",
+    "category": "generosity",
+    "text": "時間という贈り物は想像以上に意味を持つでしょう。"
+  },
+  {
+    "id": "bank-144",
+    "category": "peace",
+    "text": "心の内側には静かな心がある。"
+  },
+  {
+    "id": "bank-145",
+    "category": "peace",
+    "text": "穏やかな休憩は、あなたのバランスを回復します。"
+  },
+  {
+    "id": "bank-146",
+    "category": "peace",
+    "text": "静かな心は日を明るくする。"
+  },
+  {
+    "id": "bank-147",
+    "category": "peace",
+    "text": "すぐに平和な瞬間が訪れます。"
+  },
+  {
+    "id": "bank-148",
+    "category": "peace",
+    "text": "柔らかいペースで何が重要か分かるでしょう。"
+  },
+  {
+    "id": "bank-149",
+    "category": "peace",
+    "text": "静かな夕方には慰めがある。"
+  },
+  {
+    "id": "bank-150",
+    "category": "peace",
+    "text": "清潔な呼吸はあなたの心を安定させる。"
+  }
+]

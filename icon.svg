@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <radialGradient id="bg" cx="0.42" cy="0.36" r="0.78">
+      <stop offset="0" stop-color="#fff4d9"/>
+      <stop offset="0.65" stop-color="#f2dfbc"/>
+      <stop offset="1" stop-color="#d9ae73"/>
+    </radialGradient>
+    <linearGradient id="cookie" x1="0" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#f8dc97"/>
+      <stop offset="0.6" stop-color="#dd9847"/>
+      <stop offset="1" stop-color="#a95a25"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="248" height="248" rx="56" fill="url(#bg)" stroke="#b47a3b" stroke-width="4"/>
+  <ellipse cx="128" cy="194" rx="74" ry="17" fill="#7a3e19" opacity="0.18"/>
+  <path d="M128 66 C99 59 61 69 45 92 C29 116 36 160 62 184 C84 204 112 207 128 201 L119 181 L128 164 L120 146 L129 127 L120 108 L128 88 Z" fill="url(#cookie)" stroke="#82421c" stroke-width="3"/>
+  <path d="M128 66 C157 59 195 69 211 92 C227 116 220 160 194 184 C172 204 144 207 128 201 L137 181 L128 164 L136 146 L127 127 L136 108 L128 88 Z" fill="url(#cookie)" stroke="#82421c" stroke-width="3"/>
+  <path d="M54 100 C43 124 48 161 68 179" fill="none" stroke="#ffe9b8" stroke-width="5" stroke-linecap="round" opacity="0.65"/>
+  <path d="M202 100 C213 124 208 161 188 179" fill="none" stroke="#ffe9b8" stroke-width="5" stroke-linecap="round" opacity="0.65"/>
+  <path d="M128 72 L121 87 L129 105 L120 124 L128 143 L119 162 L128 180 L122 196" fill="none" stroke="#8d4a1d" stroke-width="2" opacity="0.65"/>
+  <path d="M195 42 C196 54 202 60 214 61 C202 62 196 68 195 80 C194 68 188 62 176 61 C188 60 194 54 195 42 Z" fill="#fff3c4"/>
+  <path d="M64 170 C65 178 69 182 77 183 C69 184 65 188 64 196 C63 188 59 184 51 183 C59 182 63 178 64 170 Z" fill="#ffe9a8" opacity="0.9"/>
+</svg>

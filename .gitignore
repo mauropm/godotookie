@@ -1,0 +1,46 @@
+# Godot import cache and editor state
+.godot/
+*.godot/
+.import/
+export.cfg
+
+# Build outputs and exports
+builds/*
+!builds/.gitkeep
+*.pck
+*.zip
+*.app
+*.apk
+*.aab
+*.exe
+*.dmg
+*.x86_64
+*.arm64
+*.arm32
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local secrets and signing material
+*.keystore
+*.jks
+.env
+.env.*
+export_credentials.cfg
+
+# Logs, temporary files, and generated reports
+*.log
+*.tmp
+*.bak
+reports/screenshots/*.png
+reports/translation_cache.json
+reports/*.tmp
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*~

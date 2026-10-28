@@ -1,0 +1,752 @@
+[
+  {
+    "id": "bank-001",
+    "category": "luck",
+    "text": "Şanslı bir fırsat sana geliyor."
+  },
+  {
+    "id": "bank-002",
+    "category": "luck",
+    "text": "Yardımcı bir tesadüf gününüzü aydınlatacak."
+  },
+  {
+    "id": "bank-003",
+    "category": "luck",
+    "text": "Gözlediğin bir kapı açılmaya başlıyor."
+  },
+  {
+    "id": "bank-004",
+    "category": "luck",
+    "text": "Doğru zamanda beklenmedik bir yerde buluşuruz."
+  },
+  {
+    "id": "bank-005",
+    "category": "luck",
+    "text": "Yakınlarda hoş bir sürpriz bekliyor."
+  },
+  {
+    "id": "bank-006",
+    "category": "luck",
+    "text": "Dostça bir toplantı hoşgeldin bir değişiklik getirecektir."
+  },
+  {
+    "id": "bank-007",
+    "category": "luck",
+    "text": "Küçük bir şans gününüzü kolaylaştıracak."
+  },
+  {
+    "id": "bank-008",
+    "category": "luck",
+    "text": "Çok yakında bir davetiye gelecek."
+  },
+  {
+    "id": "bank-009",
+    "category": "luck",
+    "text": "Doğru zamanda yeni bir yol açılıyor."
+  },
+  {
+    "id": "bank-010",
+    "category": "luck",
+    "text": "Mutlu bir kaza iyi bir şeye yol açar."
+  },
+  {
+    "id": "bank-011",
+    "category": "luck",
+    "text": "Parlak bir şans düşündüğünüzden daha yakındır."
+  },
+  {
+    "id": "bank-012",
+    "category": "luck",
+    "text": "Kaderin bir dönüşü senin yararına çalışıyor."
+  },
+  {
+    "id": "bank-013",
+    "category": "luck",
+    "text": "Şanslı bir başlangıç şekil alıyor."
+  },
+  {
+    "id": "bank-014",
+    "category": "hope",
+    "text": "Yeni bir başlangıç göründüğünden daha yakındır."
+  },
+  {
+    "id": "bank-015",
+    "category": "hope",
+    "text": "Daha parlak bir yarın zaten şekil alıyor."
+  },
+  {
+    "id": "bank-016",
+    "category": "hope",
+    "text": "Yeni bir başlangıç seni bekliyor."
+  },
+  {
+    "id": "bank-017",
+    "category": "hope",
+    "text": "Umarım yakında sizi bulur."
+  },
+  {
+    "id": "bank-018",
+    "category": "hope",
+    "text": "Açık bir sabah, yumuşak bir yenilenme getirecektir."
+  },
+  {
+    "id": "bank-019",
+    "category": "hope",
+    "text": "Yeni bir olasılık sezonu başlıyor."
+  },
+  {
+    "id": "bank-020",
+    "category": "hope",
+    "text": "Önümüzdeki yolda bir ışık görünür."
+  },
+  {
+    "id": "bank-021",
+    "category": "hope",
+    "text": "Değişiklik tohumları sessizce büyüyor."
+  },
+  {
+    "id": "bank-022",
+    "category": "hope",
+    "text": "Bir sonraki bölüm için temiz bir sayfa hazır."
+  },
+  {
+    "id": "bank-023",
+    "category": "hope",
+    "text": "Umut dolu bir sürpriz ruhunuzu yükseltecek."
+  },
+  {
+    "id": "bank-024",
+    "category": "hope",
+    "text": "İkinci bir şans geliyor."
+  },
+  {
+    "id": "bank-025",
+    "category": "hope",
+    "text": "Hayatında hafif bir yenilenme başlıyor."
+  },
+  {
+    "id": "bank-026",
+    "category": "hope",
+    "text": "Yeni bir rüya kabul edilmeye hazır."
+  },
+  {
+    "id": "bank-027",
+    "category": "love",
+    "text": "Etrafınızda sıcak bir bağ oluşuyor."
+  },
+  {
+    "id": "bank-028",
+    "category": "love",
+    "text": "Kalıcı bir dostluk size sevinç getirir."
+  },
+  {
+    "id": "bank-029",
+    "category": "love",
+    "text": "Bir akrabalık ruhu düşündüğünden daha yakındır."
+  },
+  {
+    "id": "bank-030",
+    "category": "love",
+    "text": "Dürüst bir konuşma bir ilişkiyi derinleştirir."
+  },
+  {
+    "id": "bank-031",
+    "category": "love",
+    "text": "Cömert bir yürek sizinkiyle buluşacaktır."
+  },
+  {
+    "id": "bank-032",
+    "category": "love",
+    "text": "Yanınızda güvenilir bir arkadaş kalır."
+  },
+  {
+    "id": "bank-033",
+    "category": "love",
+    "text": "Çok yakında mutlu bir buluşma olacak."
+  },
+  {
+    "id": "bank-034",
+    "category": "love",
+    "text": "Paylaşılan bir kahkaha haftanı ısıntıracak."
+  },
+  {
+    "id": "bank-035",
+    "category": "love",
+    "text": "Sevgi dolu bir hareket sana yol açacaktır."
+  },
+  {
+    "id": "bank-036",
+    "category": "love",
+    "text": "Yeni bir arkadaş yeni bir bakış açısı getirecek."
+  },
+  {
+    "id": "bank-037",
+    "category": "love",
+    "text": "Huzurlu bir an kalbini rahatlatır."
+  },
+  {
+    "id": "bank-038",
+    "category": "love",
+    "text": "İhtiyacın olduğunda içten bir mesaj gelecektir."
+  },
+  {
+    "id": "bank-039",
+    "category": "love",
+    "text": "Senin ait olduğun bir yer bekliyor."
+  },
+  {
+    "id": "bank-040",
+    "category": "growth",
+    "text": "Yeni bir beceri yararlı bir kapı açacaktır."
+  },
+  {
+    "id": "bank-041",
+    "category": "growth",
+    "text": "İçinizde daha derin bir güven gelişiyor."
+  },
+  {
+    "id": "bank-042",
+    "category": "growth",
+    "text": "Daha net bir amaç parılmaya başlıyor."
+  },
+  {
+    "id": "bank-043",
+    "category": "growth",
+    "text": "Yeni bir bakış açısı zorluğu kolaylaştıracak."
+  },
+  {
+    "id": "bank-044",
+    "category": "growth",
+    "text": "Daha sağlıklı bir alışkanlık ilerlemenize yardımcı olacaktır."
+  },
+  {
+    "id": "bank-045",
+    "category": "growth",
+    "text": "Yeni bir anlayış size barış getirecektir."
+  },
+  {
+    "id": "bank-046",
+    "category": "growth",
+    "text": "Daha güçlü bir ses duyulmaya hazır."
+  },
+  {
+    "id": "bank-047",
+    "category": "growth",
+    "text": "Sabırlı bir uygulama seni ödüllendirecektir."
+  },
+  {
+    "id": "bank-048",
+    "category": "growth",
+    "text": "Bir yaratıcı kıvılcım bir sonraki adımı yönlendirecek."
+  },
+  {
+    "id": "bank-049",
+    "category": "growth",
+    "text": "Çok yakında anlamlı bir ders öğreneceğiz."
+  },
+  {
+    "id": "bank-050",
+    "category": "growth",
+    "text": "Daha geniş bir bakış açısı iyi seçim yapmanıza yardımcı olacaktır."
+  },
+  {
+    "id": "bank-051",
+    "category": "growth",
+    "text": "Cesur bir soru yararlı bir cevaba yol açar."
+  },
+  {
+    "id": "bank-052",
+    "category": "growth",
+    "text": "Yeni bir ritm günlerinizi daha hafif hale getirecek."
+  },
+  {
+    "id": "bank-053",
+    "category": "prosperity",
+    "text": "Verimli bir çaba sonuçlar vermeye başlıyor."
+  },
+  {
+    "id": "bank-054",
+    "category": "prosperity",
+    "text": "Ünlü bir proje destek toplayacaktır."
+  },
+  {
+    "id": "bank-055",
+    "category": "prosperity",
+    "text": "Zamanı hikmetle kullanmak tatmin edici sonuçlar doğurur."
+  },
+  {
+    "id": "bank-056",
+    "category": "prosperity",
+    "text": "Artan bir fırsat var."
+  },
+  {
+    "id": "bank-057",
+    "category": "prosperity",
+    "text": "Hak ettiğin bir ödül gelecek."
+  },
+  {
+    "id": "bank-058",
+    "category": "prosperity",
+    "text": "Ürünlü bir sezon başlıyor."
+  },
+  {
+    "id": "bank-059",
+    "category": "prosperity",
+    "text": "Yetenekli bir fikir küçük bir sorunu çözebilir."
+  },
+  {
+    "id": "bank-060",
+    "category": "prosperity",
+    "text": "Uygun bir bağlantı doğru zamanda ortaya çıkacak."
+  },
+  {
+    "id": "bank-061",
+    "category": "prosperity",
+    "text": "Düşünceli bir plan temelini bulacaktır."
+  },
+  {
+    "id": "bank-062",
+    "category": "prosperity",
+    "text": "Fazla bir an nefes almana yer verecek."
+  },
+  {
+    "id": "bank-063",
+    "category": "prosperity",
+    "text": "Sağlam bir karar yeni bir fırsat yaratacak."
+  },
+  {
+    "id": "bank-064",
+    "category": "prosperity",
+    "text": "Sabırlı çalışmanızın ardından cömert bir hasat olur."
+  },
+  {
+    "id": "bank-065",
+    "category": "prosperity",
+    "text": "Ödüllendirici bir girişim şekilleniyor."
+  },
+  {
+    "id": "bank-066",
+    "category": "wisdom",
+    "text": "İhtiyacın olduğunda net bir anlayış alacaksın."
+  },
+  {
+    "id": "bank-067",
+    "category": "wisdom",
+    "text": "Hikmetli bir karar sizi sakinleştirecektir."
+  },
+  {
+    "id": "bank-068",
+    "category": "wisdom",
+    "text": "Basit bir gerçek her şeyi daha net hale getirecektir."
+  },
+  {
+    "id": "bank-069",
+    "category": "wisdom",
+    "text": "İçinizde huzurlu bir cevap bekliyor."
+  },
+  {
+    "id": "bank-070",
+    "category": "wisdom",
+    "text": "Zamanında sorulan bir soru yeni bir yol açacak."
+  },
+  {
+    "id": "bank-071",
+    "category": "wisdom",
+    "text": "Dikkatli bir seçim barışınızı koruyacaktır."
+  },
+  {
+    "id": "bank-072",
+    "category": "wisdom",
+    "text": "Daha derin bir anlayış eski bir kaygıyı değiştirir."
+  },
+  {
+    "id": "bank-073",
+    "category": "wisdom",
+    "text": "Sakin bir açıklık, bir sonraki hareketi yönlendirecektir."
+  },
+  {
+    "id": "bank-074",
+    "category": "wisdom",
+    "text": "Yararlı bir ders doğru zamanda gelecektir."
+  },
+  {
+    "id": "bank-075",
+    "category": "wisdom",
+    "text": "Sessiz bir bilgi kendinize güvenmenize yardımcı olur."
+  },
+  {
+    "id": "bank-076",
+    "category": "wisdom",
+    "text": "Sessiz bir anda parlak bir fikir gelecektir."
+  },
+  {
+    "id": "bank-077",
+    "category": "wisdom",
+    "text": "Hikmetli bir durak yolu görmenize yardımcı olur."
+  },
+  {
+    "id": "bank-078",
+    "category": "wisdom",
+    "text": "Biraz sabreden sonra apaçık bir yol ortaya çıkar."
+  },
+  {
+    "id": "bank-079",
+    "category": "courage",
+    "text": "Cesur bir adım seni ilerletir."
+  },
+  {
+    "id": "bank-080",
+    "category": "courage",
+    "text": "Sessiz bir güç içinizde büyüyor."
+  },
+  {
+    "id": "bank-081",
+    "category": "courage",
+    "text": "Cesur bir başlangıç hoşgeldin bir değişim getirecektir."
+  },
+  {
+    "id": "bank-082",
+    "category": "courage",
+    "text": "Kendine güvenen bir ses konuşmaya hazır."
+  },
+  {
+    "id": "bank-083",
+    "category": "courage",
+    "text": "Sıkıntılı bir kalp seni götürecek."
+  },
+  {
+    "id": "bank-084",
+    "category": "courage",
+    "text": "Cesur bir seçim büyüme sağlayacaktır."
+  },
+  {
+    "id": "bank-085",
+    "category": "courage",
+    "text": "Yeni bir kararlılık duygusu kök salıyor."
+  },
+  {
+    "id": "bank-086",
+    "category": "courage",
+    "text": "Korkusuz bir soru dürüst bir cevap getirir."
+  },
+  {
+    "id": "bank-087",
+    "category": "courage",
+    "text": "Bir an cesaret gününü değiştirecek."
+  },
+  {
+    "id": "bank-088",
+    "category": "courage",
+    "text": "Güçlü bir ilk hareket yolu açacaktır."
+  },
+  {
+    "id": "bank-089",
+    "category": "courage",
+    "text": "Güçlü bir ruh yükselmenize yardımcı olur."
+  },
+  {
+    "id": "bank-090",
+    "category": "courage",
+    "text": "Cesur bir rüya keşfedilmeye hazır."
+  },
+  {
+    "id": "bank-091",
+    "category": "courage",
+    "text": "Sakin bir kararlılık seni sağlayacaktır."
+  },
+  {
+    "id": "bank-092",
+    "category": "happiness",
+    "text": "Her günki mutluluk fark edilmeyi bekliyor."
+  },
+  {
+    "id": "bank-093",
+    "category": "happiness",
+    "text": "Parlak bir an seni gülümseyecek."
+  },
+  {
+    "id": "bank-094",
+    "category": "happiness",
+    "text": "Sıcak bir kahkaha odayı yükseltecek."
+  },
+  {
+    "id": "bank-095",
+    "category": "happiness",
+    "text": "Bugün küçük bir zevk bulacaksınız."
+  },
+  {
+    "id": "bank-096",
+    "category": "happiness",
+    "text": "Sevinçli bir sürpriz geliyor."
+  },
+  {
+    "id": "bank-097",
+    "category": "happiness",
+    "text": "Mutlu bir durak enerjinizi geri getirecektir."
+  },
+  {
+    "id": "bank-098",
+    "category": "happiness",
+    "text": "Mutlu bir hatıra size teselli sağlayacaktır."
+  },
+  {
+    "id": "bank-099",
+    "category": "happiness",
+    "text": "Hafif bir kalp gününüzü kolaylaştıracak."
+  },
+  {
+    "id": "bank-100",
+    "category": "happiness",
+    "text": "Gülümsemenin bir nedeni düşündüğünden daha yakın."
+  },
+  {
+    "id": "bank-101",
+    "category": "happiness",
+    "text": "Sevinçli bir toplantı sizi başkalarıyla daha yakınlaştıracak."
+  },
+  {
+    "id": "bank-102",
+    "category": "happiness",
+    "text": "Hoş bir keşif rutininizi aydınlatacak."
+  },
+  {
+    "id": "bank-103",
+    "category": "happiness",
+    "text": "Oyuncu bir fikir biraz eğlenceli olur."
+  },
+  {
+    "id": "bank-104",
+    "category": "happiness",
+    "text": "Tadına değer bir an seni bekliyor."
+  },
+  {
+    "id": "bank-105",
+    "category": "resilience",
+    "text": "İçinde yeni bir güç büyüyor."
+  },
+  {
+    "id": "bank-106",
+    "category": "resilience",
+    "text": "İkinci bir rüzgar devam etmenize yardımcı olur."
+  },
+  {
+    "id": "bank-107",
+    "category": "resilience",
+    "text": "Yeni bir umut rezervi var."
+  },
+  {
+    "id": "bank-108",
+    "category": "resilience",
+    "text": "Sessiz bir dönüş başlıyor."
+  },
+  {
+    "id": "bank-109",
+    "category": "resilience",
+    "text": "Güçlü bir kalp seni ilerlemeye götürecek."
+  },
+  {
+    "id": "bank-110",
+    "category": "resilience",
+    "text": "Yeni bir yol açılıyor."
+  },
+  {
+    "id": "bank-111",
+    "category": "resilience",
+    "text": "Ruhumuzun hafifçe iyileşmesi başlıyor."
+  },
+  {
+    "id": "bank-112",
+    "category": "resilience",
+    "text": "Daha güçlü bir temel inşa ediliyor."
+  },
+  {
+    "id": "bank-113",
+    "category": "resilience",
+    "text": "Çabadan sonra bir sakinlik seni geri getirecek."
+  },
+  {
+    "id": "bank-114",
+    "category": "resilience",
+    "text": "Cesur bir dönüş yeni bir güven getirecektir."
+  },
+  {
+    "id": "bank-115",
+    "category": "resilience",
+    "text": "Yardımcı bir sıfırlama zihninizi temizleyecektir."
+  },
+  {
+    "id": "bank-116",
+    "category": "resilience",
+    "text": "Bir hastanın yeniden kurulması kalıcı bir şeye yol açar."
+  },
+  {
+    "id": "bank-117",
+    "category": "resilience",
+    "text": "Dinlenmek için yumuşak bir yer yeniden başlamanıza yardımcı olur."
+  },
+  {
+    "id": "bank-118",
+    "category": "adventure",
+    "text": "Sürpriz bir yolculuk başlıyor."
+  },
+  {
+    "id": "bank-119",
+    "category": "adventure",
+    "text": "Yeni bir yol keşfedilmeyi bekliyor."
+  },
+  {
+    "id": "bank-120",
+    "category": "adventure",
+    "text": "Yeni bir ufuk dünyayı genişletecek."
+  },
+  {
+    "id": "bank-121",
+    "category": "adventure",
+    "text": "Meraklı bir sapıklık hoş bir keşif getirir."
+  },
+  {
+    "id": "bank-122",
+    "category": "adventure",
+    "text": "Unutulmaz bir buluşma haftanızı zenginleştirir."
+  },
+  {
+    "id": "bank-123",
+    "category": "adventure",
+    "text": "Cesur bir keşif merakınızı ödüllendirecektir."
+  },
+  {
+    "id": "bank-124",
+    "category": "adventure",
+    "text": "Beklenmedik bir davet iyi bir yere götürür."
+  },
+  {
+    "id": "bank-125",
+    "category": "adventure",
+    "text": "Parlak bir bilinmeyen karşılamaya hazır."
+  },
+  {
+    "id": "bank-126",
+    "category": "adventure",
+    "text": "Söylenmeye değer bir hikaye şekil alıyor."
+  },
+  {
+    "id": "bank-127",
+    "category": "adventure",
+    "text": "Yeni bir yer yeni bir bakış açısı getirecek."
+  },
+  {
+    "id": "bank-128",
+    "category": "adventure",
+    "text": "Oyuncu bir meydan okuma size yararlı bir şey öğretecektir."
+  },
+  {
+    "id": "bank-129",
+    "category": "adventure",
+    "text": "Görüşlü bir yol sizi bekliyor."
+  },
+  {
+    "id": "bank-130",
+    "category": "adventure",
+    "text": "Bir an şaşkınlık yakında seni bulacak."
+  },
+  {
+    "id": "bank-131",
+    "category": "generosity",
+    "text": "Cömert bir hareket size geri dönecek."
+  },
+  {
+    "id": "bank-132",
+    "category": "generosity",
+    "text": "Etrafında bir bakım döngüsü büyüyor."
+  },
+  {
+    "id": "bank-133",
+    "category": "generosity",
+    "text": "Paylaşılan bir nimet gününüzü daha da parlaklaştıracak."
+  },
+  {
+    "id": "bank-134",
+    "category": "generosity",
+    "text": "İyi bir dönüş geliyor."
+  },
+  {
+    "id": "bank-135",
+    "category": "generosity",
+    "text": "Sıcak bir karşılama sizi evinizde hissettirecektir."
+  },
+  {
+    "id": "bank-136",
+    "category": "generosity",
+    "text": "İhtiyacınız olduğunda yardımcı bir el ortaya çıkacak."
+  },
+  {
+    "id": "bank-137",
+    "category": "generosity",
+    "text": "Anlamlı bir hediye doğru zamanda gelecektir."
+  },
+  {
+    "id": "bank-138",
+    "category": "generosity",
+    "text": "Vermenin bir anı sana sevinç getirir."
+  },
+  {
+    "id": "bank-139",
+    "category": "generosity",
+    "text": "Daha güçlü bir topluluk oluşuyor."
+  },
+  {
+    "id": "bank-140",
+    "category": "generosity",
+    "text": "Düşünceli bir katkı bir fark yaratacak."
+  },
+  {
+    "id": "bank-141",
+    "category": "generosity",
+    "text": "İyilik dalgası yeni birine ulaşır."
+  },
+  {
+    "id": "bank-142",
+    "category": "generosity",
+    "text": "Sevgi dolu bir ilişki size önemli olduğunuzu hatırlatacaktır."
+  },
+  {
+    "id": "bank-143",
+    "category": "generosity",
+    "text": "Zamanın bir hediyesi beklediğinden daha fazlasını ifade eder."
+  },
+  {
+    "id": "bank-144",
+    "category": "peace",
+    "text": "İçinde sakin bir merkez bekliyor."
+  },
+  {
+    "id": "bank-145",
+    "category": "peace",
+    "text": "Yumuşak bir durak dengenize kavuşacaktır."
+  },
+  {
+    "id": "bank-146",
+    "category": "peace",
+    "text": "Sessiz bir zihin günümüzü daha hafif hale getirir."
+  },
+  {
+    "id": "bank-147",
+    "category": "peace",
+    "text": "Sakin bir an seni yakında bulacak."
+  },
+  {
+    "id": "bank-148",
+    "category": "peace",
+    "text": "Daha yumuşak bir hız, neyin önemli olduğunu fark etmenize yardımcı olur."
+  },
+  {
+    "id": "bank-149",
+    "category": "peace",
+    "text": "Rahat bir akşam size teselli getirecektir."
+  },
+  {
+    "id": "bank-150",
+    "category": "peace",
+    "text": "Açık bir nefes kalbini sağlamlaştıracak."
+  }
+]

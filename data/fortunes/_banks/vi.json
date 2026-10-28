@@ -1,0 +1,752 @@
+[
+  {
+    "id": "bank-001",
+    "category": "luck",
+    "text": "Một cơ hội may mắn đang đến với anh."
+  },
+  {
+    "id": "bank-002",
+    "category": "luck",
+    "text": "Một sự trùng hợp hữu ích sẽ làm cho ngày của bạn sáng hơn."
+  },
+  {
+    "id": "bank-003",
+    "category": "luck",
+    "text": "Một cánh cửa mà anh đang quan sát đang bắt đầu mở ra."
+  },
+  {
+    "id": "bank-004",
+    "category": "luck",
+    "text": "Một thời điểm thích hợp sẽ gặp bạn ở một nơi bất ngờ."
+  },
+  {
+    "id": "bank-005",
+    "category": "luck",
+    "text": "Một bất ngờ thú vị đang chờ đợi gần đó."
+  },
+  {
+    "id": "bank-006",
+    "category": "luck",
+    "text": "Một cuộc họp thân thiện sẽ mang lại một sự thay đổi."
+  },
+  {
+    "id": "bank-007",
+    "category": "luck",
+    "text": "Một chút may mắn sẽ làm cho ngày của bạn dễ dàng hơn."
+  },
+  {
+    "id": "bank-008",
+    "category": "luck",
+    "text": "Một lời mời đầy hứa hẹn sẽ sớm đến."
+  },
+  {
+    "id": "bank-009",
+    "category": "luck",
+    "text": "Một con đường mới đang mở ra vào đúng thời điểm."
+  },
+  {
+    "id": "bank-010",
+    "category": "luck",
+    "text": "Một tai nạn hạnh phúc sẽ dẫn đến điều tốt đẹp."
+  },
+  {
+    "id": "bank-011",
+    "category": "luck",
+    "text": "Một cơ hội rực rỡ gần hơn bạn nghĩ."
+  },
+  {
+    "id": "bank-012",
+    "category": "luck",
+    "text": "Một sự thay đổi của số phận đang có lợi cho anh."
+  },
+  {
+    "id": "bank-013",
+    "category": "luck",
+    "text": "Một khởi đầu may mắn đang hình thành."
+  },
+  {
+    "id": "bank-014",
+    "category": "hope",
+    "text": "Một sự khởi đầu mới gần hơn so với vẻ ngoài."
+  },
+  {
+    "id": "bank-015",
+    "category": "hope",
+    "text": "Một ngày mai tươi sáng hơn đã bắt đầu hình thành."
+  },
+  {
+    "id": "bank-016",
+    "category": "hope",
+    "text": "Một khởi đầu mới đang chờ đợi anh."
+  },
+  {
+    "id": "bank-017",
+    "category": "hope",
+    "text": "Một lý do để hy vọng sẽ sớm tìm thấy bạn."
+  },
+  {
+    "id": "bank-018",
+    "category": "hope",
+    "text": "Một buổi sáng sáng sáng sẽ mang lại một sự đổi mới nhẹ nhàng."
+  },
+  {
+    "id": "bank-019",
+    "category": "hope",
+    "text": "Một mùa mới của khả năng đang bắt đầu."
+  },
+  {
+    "id": "bank-020",
+    "category": "hope",
+    "text": "Một ánh sáng đang xuất hiện trên đường phía trước."
+  },
+  {
+    "id": "bank-021",
+    "category": "hope",
+    "text": "Một hạt giống thay đổi đang phát triển lặng lẽ."
+  },
+  {
+    "id": "bank-022",
+    "category": "hope",
+    "text": "Một trang sạch sẽ sẵn sàng cho chương tiếp theo của bạn."
+  },
+  {
+    "id": "bank-023",
+    "category": "hope",
+    "text": "Một bất ngờ đầy hy vọng sẽ nâng cao tinh thần của bạn."
+  },
+  {
+    "id": "bank-024",
+    "category": "hope",
+    "text": "Một cơ hội thứ hai đang đến."
+  },
+  {
+    "id": "bank-025",
+    "category": "hope",
+    "text": "Một sự đổi mới nhẹ nhàng đang bắt đầu trong cuộc sống của bạn."
+  },
+  {
+    "id": "bank-026",
+    "category": "hope",
+    "text": "Một giấc mơ mới đã sẵn sàng được chào đón."
+  },
+  {
+    "id": "bank-027",
+    "category": "love",
+    "text": "Một mối liên hệ ấm áp đang phát triển xung quanh bạn."
+  },
+  {
+    "id": "bank-028",
+    "category": "love",
+    "text": "Một tình bạn lâu dài sẽ mang lại cho bạn niềm vui."
+  },
+  {
+    "id": "bank-029",
+    "category": "love",
+    "text": "Một tinh thần tương tự gần hơn bạn nghĩ."
+  },
+  {
+    "id": "bank-030",
+    "category": "love",
+    "text": "Một cuộc trò chuyện trung thực sẽ củng cố mối quan hệ."
+  },
+  {
+    "id": "bank-031",
+    "category": "love",
+    "text": "Một trái tim hào phóng sẽ gặp con."
+  },
+  {
+    "id": "bank-032",
+    "category": "love",
+    "text": "Một người bạn đáng tin cậy sẽ đứng bên cạnh bạn."
+  },
+  {
+    "id": "bank-033",
+    "category": "love",
+    "text": "Một cuộc gặp lại vui vẻ sắp tới."
+  },
+  {
+    "id": "bank-034",
+    "category": "love",
+    "text": "Một nụ cười chia sẻ sẽ làm ấm tuần của bạn."
+  },
+  {
+    "id": "bank-035",
+    "category": "love",
+    "text": "Một cử chỉ yêu thương sẽ tìm ra cách của nó cho bạn."
+  },
+  {
+    "id": "bank-036",
+    "category": "love",
+    "text": "Một người bạn mới sẽ mang lại một quan điểm mới."
+  },
+  {
+    "id": "bank-037",
+    "category": "love",
+    "text": "Một khoảnh khắc dịu dàng sẽ làm cho trái tim bạn cảm thấy như ở nhà."
+  },
+  {
+    "id": "bank-038",
+    "category": "love",
+    "text": "Một thông điệp chân thành sẽ đến khi bạn cần nó."
+  },
+  {
+    "id": "bank-039",
+    "category": "love",
+    "text": "Một nơi bạn thuộc về đang chờ đợi."
+  },
+  {
+    "id": "bank-040",
+    "category": "growth",
+    "text": "Một kỹ năng mới sẽ mở ra một cánh cửa hữu ích."
+  },
+  {
+    "id": "bank-041",
+    "category": "growth",
+    "text": "Một niềm tin sâu sắc hơn đang phát triển bên trong bạn."
+  },
+  {
+    "id": "bank-042",
+    "category": "growth",
+    "text": "Một mục đích rõ ràng hơn bắt đầu tỏa sáng."
+  },
+  {
+    "id": "bank-043",
+    "category": "growth",
+    "text": "Một quan điểm mới sẽ làm cho một thách thức dễ dàng hơn."
+  },
+  {
+    "id": "bank-044",
+    "category": "growth",
+    "text": "Một thói quen lành mạnh hơn sẽ giúp bạn tiến bộ."
+  },
+  {
+    "id": "bank-045",
+    "category": "growth",
+    "text": "Một sự hiểu biết mới sẽ mang lại cho bạn sự bình an."
+  },
+  {
+    "id": "bank-046",
+    "category": "growth",
+    "text": "Một giọng nói mạnh mẽ hơn đã sẵn sàng được nghe."
+  },
+  {
+    "id": "bank-047",
+    "category": "growth",
+    "text": "Một bài tập kiên nhẫn sẽ thưởng cho bạn."
+  },
+  {
+    "id": "bank-048",
+    "category": "growth",
+    "text": "Một ngọn lửa sáng tạo sẽ hướng dẫn bước tiếp theo của bạn."
+  },
+  {
+    "id": "bank-049",
+    "category": "growth",
+    "text": "Một bài học có ý nghĩa sắp đến."
+  },
+  {
+    "id": "bank-050",
+    "category": "growth",
+    "text": "Một quan điểm rộng hơn sẽ giúp bạn lựa chọn tốt."
+  },
+  {
+    "id": "bank-051",
+    "category": "growth",
+    "text": "Một câu hỏi dũng cảm sẽ dẫn đến một câu trả lời hữu ích."
+  },
+  {
+    "id": "bank-052",
+    "category": "growth",
+    "text": "Một nhịp điệu mới sẽ làm cho ngày của bạn cảm thấy nhẹ nhàng hơn."
+  },
+  {
+    "id": "bank-053",
+    "category": "prosperity",
+    "text": "Một nỗ lực hiệu quả bắt đầu cho thấy kết quả."
+  },
+  {
+    "id": "bank-054",
+    "category": "prosperity",
+    "text": "Một dự án đầy hứa hẹn sẽ thu được sự ủng hộ."
+  },
+  {
+    "id": "bank-055",
+    "category": "prosperity",
+    "text": "Việc sử dụng thời gian một cách khôn ngoan sẽ mang lại kết quả thỏa mãn."
+  },
+  {
+    "id": "bank-056",
+    "category": "prosperity",
+    "text": "Một cơ hội ngày càng tăng đang nằm trong tầm tay."
+  },
+  {
+    "id": "bank-057",
+    "category": "prosperity",
+    "text": "Một phần thưởng xứng đáng sẽ đến với anh."
+  },
+  {
+    "id": "bank-058",
+    "category": "prosperity",
+    "text": "Một mùa sản xuất đang bắt đầu."
+  },
+  {
+    "id": "bank-059",
+    "category": "prosperity",
+    "text": "Một ý tưởng sáng tạo sẽ giải quyết một vấn đề nhỏ."
+  },
+  {
+    "id": "bank-060",
+    "category": "prosperity",
+    "text": "Một kết nối hữu ích sẽ xuất hiện vào thời điểm thích hợp."
+  },
+  {
+    "id": "bank-061",
+    "category": "prosperity",
+    "text": "Một kế hoạch kỹ lưỡng sẽ có cơ sở."
+  },
+  {
+    "id": "bank-062",
+    "category": "prosperity",
+    "text": "Một khoảnh khắc đầy đủ sẽ cho bạn không gian để thở."
+  },
+  {
+    "id": "bank-063",
+    "category": "prosperity",
+    "text": "Một quyết định hợp lý sẽ tạo ra một cơ hội mới."
+  },
+  {
+    "id": "bank-064",
+    "category": "prosperity",
+    "text": "Một mùa thu hào phóng sẽ theo sau công việc kiên nhẫn của bạn."
+  },
+  {
+    "id": "bank-065",
+    "category": "prosperity",
+    "text": "Một dự án mang lại phần thưởng đang hình thành."
+  },
+  {
+    "id": "bank-066",
+    "category": "wisdom",
+    "text": "Một sự hiểu biết rõ ràng sẽ đến khi bạn cần nó."
+  },
+  {
+    "id": "bank-067",
+    "category": "wisdom",
+    "text": "Một quyết định khôn ngoan sẽ giúp bạn bình tĩnh."
+  },
+  {
+    "id": "bank-068",
+    "category": "wisdom",
+    "text": "Một sự thật đơn giản sẽ làm cho mọi thứ rõ ràng hơn."
+  },
+  {
+    "id": "bank-069",
+    "category": "wisdom",
+    "text": "Một câu trả lời hòa bình đang chờ đợi bên trong bạn."
+  },
+  {
+    "id": "bank-070",
+    "category": "wisdom",
+    "text": "Một câu hỏi đúng lúc sẽ mở ra một con đường mới."
+  },
+  {
+    "id": "bank-071",
+    "category": "wisdom",
+    "text": "Một sự lựa chọn cẩn thận sẽ bảo vệ sự bình an của bạn."
+  },
+  {
+    "id": "bank-072",
+    "category": "wisdom",
+    "text": "Một sự hiểu biết sâu sắc hơn sẽ thay thế những lo lắng cũ."
+  },
+  {
+    "id": "bank-073",
+    "category": "wisdom",
+    "text": "Một sự rõ ràng bình tĩnh sẽ hướng dẫn bước đi tiếp theo của bạn."
+  },
+  {
+    "id": "bank-074",
+    "category": "wisdom",
+    "text": "Một bài học hữu ích sẽ đến đúng lúc."
+  },
+  {
+    "id": "bank-075",
+    "category": "wisdom",
+    "text": "Một sự hiểu biết yên tĩnh sẽ giúp bạn tin tưởng bản thân."
+  },
+  {
+    "id": "bank-076",
+    "category": "wisdom",
+    "text": "Một ý tưởng sáng sẽ đến trong một khoảnh khắc yên tĩnh."
+  },
+  {
+    "id": "bank-077",
+    "category": "wisdom",
+    "text": "Một sự dừng lại khôn ngoan sẽ giúp bạn tìm ra con đường."
+  },
+  {
+    "id": "bank-078",
+    "category": "wisdom",
+    "text": "Một con đường rõ ràng sẽ xuất hiện sau một chút kiên nhẫn."
+  },
+  {
+    "id": "bank-079",
+    "category": "courage",
+    "text": "Một bước dũng cảm sẽ giúp bạn tiến lên phía trước."
+  },
+  {
+    "id": "bank-080",
+    "category": "courage",
+    "text": "Sức mạnh yên tĩnh đang phát triển bên trong bạn."
+  },
+  {
+    "id": "bank-081",
+    "category": "courage",
+    "text": "Một khởi đầu dũng cảm sẽ mang lại một sự thay đổi đáng hoan nghênh."
+  },
+  {
+    "id": "bank-082",
+    "category": "courage",
+    "text": "Một giọng nói tự tin sẵn sàng nói."
+  },
+  {
+    "id": "bank-083",
+    "category": "courage",
+    "text": "Một trái tim vững chắc sẽ mang bạn qua."
+  },
+  {
+    "id": "bank-084",
+    "category": "courage",
+    "text": "Sự lựa chọn can đảm sẽ dẫn đến sự phát triển."
+  },
+  {
+    "id": "bank-085",
+    "category": "courage",
+    "text": "Một cảm giác quyết tâm mới đang bắt đầu bắt nguồn."
+  },
+  {
+    "id": "bank-086",
+    "category": "courage",
+    "text": "Một câu hỏi không sợ hãi sẽ mang lại một câu trả lời trung thực."
+  },
+  {
+    "id": "bank-087",
+    "category": "courage",
+    "text": "Một khoảnh khắc dũng cảm sẽ thay đổi ngày của bạn."
+  },
+  {
+    "id": "bank-088",
+    "category": "courage",
+    "text": "Một bước đầu tiên mạnh mẽ sẽ mở ra con đường."
+  },
+  {
+    "id": "bank-089",
+    "category": "courage",
+    "text": "Một tinh thần kiên cường sẽ giúp bạn đứng lên."
+  },
+  {
+    "id": "bank-090",
+    "category": "courage",
+    "text": "Một giấc mơ táo bạo đã sẵn sàng được khám phá."
+  },
+  {
+    "id": "bank-091",
+    "category": "courage",
+    "text": "Một quyết tâm bình tĩnh sẽ giúp bạn vượt qua."
+  },
+  {
+    "id": "bank-092",
+    "category": "happiness",
+    "text": "Hạnh phúc hàng ngày đang chờ đợi để được chú ý."
+  },
+  {
+    "id": "bank-093",
+    "category": "happiness",
+    "text": "Một khoảnh khắc tươi sáng sẽ khiến bạn cười."
+  },
+  {
+    "id": "bank-094",
+    "category": "happiness",
+    "text": "Một nụ cười ấm áp sẽ nâng lên căn phòng."
+  },
+  {
+    "id": "bank-095",
+    "category": "happiness",
+    "text": "Một niềm vui nhỏ sẽ tìm thấy bạn hôm nay."
+  },
+  {
+    "id": "bank-096",
+    "category": "happiness",
+    "text": "Một bất ngờ vui vẻ đang đến."
+  },
+  {
+    "id": "bank-097",
+    "category": "happiness",
+    "text": "Một khoảng thời gian nghỉ ngơi hài lòng sẽ giúp bạn lấy lại năng lượng."
+  },
+  {
+    "id": "bank-098",
+    "category": "happiness",
+    "text": "Một ký ức hạnh phúc sẽ mang đến sự an ủi cho bạn."
+  },
+  {
+    "id": "bank-099",
+    "category": "happiness",
+    "text": "Một trái tim nhẹ nhàng sẽ làm cho ngày của bạn dễ dàng hơn."
+  },
+  {
+    "id": "bank-100",
+    "category": "happiness",
+    "text": "Một lý do để mỉm cười là gần hơn bạn nghĩ."
+  },
+  {
+    "id": "bank-101",
+    "category": "happiness",
+    "text": "Một bữa tiệc vui vẻ sẽ giúp bạn gần gũi hơn với người khác."
+  },
+  {
+    "id": "bank-102",
+    "category": "happiness",
+    "text": "Một khám phá thú vị sẽ làm sáng tỏ thói quen của bạn."
+  },
+  {
+    "id": "bank-103",
+    "category": "happiness",
+    "text": "Một ý tưởng vui vẻ sẽ thêm một chút niềm vui."
+  },
+  {
+    "id": "bank-104",
+    "category": "happiness",
+    "text": "Một khoảnh khắc đáng được thưởng thức đang chờ đợi anh."
+  },
+  {
+    "id": "bank-105",
+    "category": "resilience",
+    "text": "Sức mạnh mới đang phát triển bên trong bạn."
+  },
+  {
+    "id": "bank-106",
+    "category": "resilience",
+    "text": "Một cơn gió thứ hai sẽ giúp bạn tiếp tục."
+  },
+  {
+    "id": "bank-107",
+    "category": "resilience",
+    "text": "Có một nguồn hy vọng mới."
+  },
+  {
+    "id": "bank-108",
+    "category": "resilience",
+    "text": "Một sự trở lại yên tĩnh đang bắt đầu."
+  },
+  {
+    "id": "bank-109",
+    "category": "resilience",
+    "text": "Một trái tim kiên cường sẽ mang bạn về phía trước."
+  },
+  {
+    "id": "bank-110",
+    "category": "resilience",
+    "text": "Một con đường mới đang mở ra."
+  },
+  {
+    "id": "bank-111",
+    "category": "resilience",
+    "text": "Một sự phục hồi tinh thần nhẹ nhàng đang diễn ra."
+  },
+  {
+    "id": "bank-112",
+    "category": "resilience",
+    "text": "Một nền tảng vững chắc hơn đang được xây dựng."
+  },
+  {
+    "id": "bank-113",
+    "category": "resilience",
+    "text": "Một sự bình tĩnh sau nỗ lực sẽ phục hồi bạn."
+  },
+  {
+    "id": "bank-114",
+    "category": "resilience",
+    "text": "Một sự trở lại can đảm sẽ mang lại sự tự tin mới."
+  },
+  {
+    "id": "bank-115",
+    "category": "resilience",
+    "text": "Một thiết lập lại hữu ích sẽ làm sạch tâm trí của bạn."
+  },
+  {
+    "id": "bank-116",
+    "category": "resilience",
+    "text": "Một bệnh nhân xây dựng lại sẽ dẫn đến một cái gì đó lâu dài."
+  },
+  {
+    "id": "bank-117",
+    "category": "resilience",
+    "text": "Một nơi nhẹ nhàng để nghỉ ngơi sẽ giúp bạn bắt đầu lại."
+  },
+  {
+    "id": "bank-118",
+    "category": "adventure",
+    "text": "Một hành trình đáng ngạc nhiên đang bắt đầu."
+  },
+  {
+    "id": "bank-119",
+    "category": "adventure",
+    "text": "Một con đường mới đang chờ được khám phá."
+  },
+  {
+    "id": "bank-120",
+    "category": "adventure",
+    "text": "Một chân trời mới sẽ mở rộng thế giới của bạn."
+  },
+  {
+    "id": "bank-121",
+    "category": "adventure",
+    "text": "Một lối đi tò mò sẽ mang lại một khám phá thú vị."
+  },
+  {
+    "id": "bank-122",
+    "category": "adventure",
+    "text": "Một cuộc gặp gỡ đáng nhớ sẽ làm giàu tuần của bạn."
+  },
+  {
+    "id": "bank-123",
+    "category": "adventure",
+    "text": "Một cuộc khám phá dũng cảm sẽ thưởng thức sự tò mò của bạn."
+  },
+  {
+    "id": "bank-124",
+    "category": "adventure",
+    "text": "Một lời mời bất ngờ sẽ dẫn đến một nơi tốt đẹp."
+  },
+  {
+    "id": "bank-125",
+    "category": "adventure",
+    "text": "Một kẻ không biết rõ đang sẵn sàng để gặp."
+  },
+  {
+    "id": "bank-126",
+    "category": "adventure",
+    "text": "Một câu chuyện đáng kể đang hình thành."
+  },
+  {
+    "id": "bank-127",
+    "category": "adventure",
+    "text": "Một nơi mới sẽ mang lại một quan điểm mới."
+  },
+  {
+    "id": "bank-128",
+    "category": "adventure",
+    "text": "Một thử thách vui vẻ sẽ dạy bạn một điều hữu ích."
+  },
+  {
+    "id": "bank-129",
+    "category": "adventure",
+    "text": "Một con đường có tầm nhìn đang chờ anh."
+  },
+  {
+    "id": "bank-130",
+    "category": "adventure",
+    "text": "Một khoảnh khắc kỳ diệu sẽ sớm tìm thấy bạn."
+  },
+  {
+    "id": "bank-131",
+    "category": "generosity",
+    "text": "Một cử chỉ hào phóng sẽ trở lại với bạn."
+  },
+  {
+    "id": "bank-132",
+    "category": "generosity",
+    "text": "Một vòng tròn chăm sóc đang phát triển xung quanh bạn."
+  },
+  {
+    "id": "bank-133",
+    "category": "generosity",
+    "text": "Một phúc lành chia sẻ sẽ làm cho ngày của bạn sáng hơn."
+  },
+  {
+    "id": "bank-134",
+    "category": "generosity",
+    "text": "Một sự trở lại tốt đẹp đang đến."
+  },
+  {
+    "id": "bank-135",
+    "category": "generosity",
+    "text": "Một sự chào đón ấm áp sẽ khiến bạn cảm thấy như ở nhà."
+  },
+  {
+    "id": "bank-136",
+    "category": "generosity",
+    "text": "Một bàn tay giúp đỡ sẽ xuất hiện khi bạn cần."
+  },
+  {
+    "id": "bank-137",
+    "category": "generosity",
+    "text": "Một món quà có ý nghĩa sẽ đến đúng lúc."
+  },
+  {
+    "id": "bank-138",
+    "category": "generosity",
+    "text": "Một khoảnh khắc trao tặng sẽ mang lại cho bạn niềm vui."
+  },
+  {
+    "id": "bank-139",
+    "category": "generosity",
+    "text": "Một cộng đồng mạnh mẽ hơn đang hình thành."
+  },
+  {
+    "id": "bank-140",
+    "category": "generosity",
+    "text": "Một sự đóng góp cẩn thận sẽ tạo ra sự khác biệt."
+  },
+  {
+    "id": "bank-141",
+    "category": "generosity",
+    "text": "Một làn sóng lòng tốt sẽ đến với một người mới."
+  },
+  {
+    "id": "bank-142",
+    "category": "generosity",
+    "text": "Một mối quan hệ quan tâm sẽ nhắc nhở bạn rằng bạn quan trọng."
+  },
+  {
+    "id": "bank-143",
+    "category": "generosity",
+    "text": "Một món quà của thời gian sẽ có ý nghĩa nhiều hơn bạn mong đợi."
+  },
+  {
+    "id": "bank-144",
+    "category": "peace",
+    "text": "Một trung tâm bình đang chờ đợi bên trong bạn."
+  },
+  {
+    "id": "bank-145",
+    "category": "peace",
+    "text": "Một phút nghỉ ngơi nhẹ nhàng sẽ giúp bạn cân bằng lại."
+  },
+  {
+    "id": "bank-146",
+    "category": "peace",
+    "text": "Một tâm trí yên tĩnh sẽ làm cho ngày cảm thấy nhẹ nhàng hơn."
+  },
+  {
+    "id": "bank-147",
+    "category": "peace",
+    "text": "Một khoảnh khắc bình yên sẽ sớm tìm thấy bạn."
+  },
+  {
+    "id": "bank-148",
+    "category": "peace",
+    "text": "Một tốc độ nhẹ nhàng hơn sẽ giúp bạn nhận ra những gì quan trọng."
+  },
+  {
+    "id": "bank-149",
+    "category": "peace",
+    "text": "Một buổi tối nghỉ ngơi sẽ mang lại sự an ủi cho bạn."
+  },
+  {
+    "id": "bank-150",
+    "category": "peace",
+    "text": "Một hơi thở rõ ràng sẽ giữ vững trái tim của bạn."
+  }
+]

@@ -1,0 +1,752 @@
+[
+  {
+    "id": "bank-001",
+    "category": "luck",
+    "text": "הזדמנות מזל בדרך אליך."
+  },
+  {
+    "id": "bank-002",
+    "category": "luck",
+    "text": "צירוף מקרים מועיל ישפר את היום שלך."
+  },
+  {
+    "id": "bank-003",
+    "category": "luck",
+    "text": "דלת שהסתכלת עליה מתחילה להיפתח."
+  },
+  {
+    "id": "bank-004",
+    "category": "luck",
+    "text": "תזמון טוב יפגוש אותך במקום בלתי צפוי."
+  },
+  {
+    "id": "bank-005",
+    "category": "luck",
+    "text": "הפתעה נעימה מחכה בקרבת מקום."
+  },
+  {
+    "id": "bank-006",
+    "category": "luck",
+    "text": "פגישה ידידותית תביא שינוי ברוך הבא."
+  },
+  {
+    "id": "bank-007",
+    "category": "luck",
+    "text": "מזל קטן יעשה את היום שלך קל יותר."
+  },
+  {
+    "id": "bank-008",
+    "category": "luck",
+    "text": "הזמנה מבטיחה תגיע בקרוב."
+  },
+  {
+    "id": "bank-009",
+    "category": "luck",
+    "text": "נתיב חדש מתפתח ברגע הנכון."
+  },
+  {
+    "id": "bank-010",
+    "category": "luck",
+    "text": "תאונה מאושרת תוביל למשהו טוב."
+  },
+  {
+    "id": "bank-011",
+    "category": "luck",
+    "text": "סיכוי בהיר קרוב יותר ממה שאתה חושב."
+  },
+  {
+    "id": "bank-012",
+    "category": "luck",
+    "text": "משקפת גורל טובה עובדת לטובתך."
+  },
+  {
+    "id": "bank-013",
+    "category": "luck",
+    "text": "התחלה בר מזל מתחילה."
+  },
+  {
+    "id": "bank-014",
+    "category": "hope",
+    "text": "התחלה חדשה קרובה יותר ממה שזה נראה."
+  },
+  {
+    "id": "bank-015",
+    "category": "hope",
+    "text": "מחר בהיר יותר כבר מקבל צורה."
+  },
+  {
+    "id": "bank-016",
+    "category": "hope",
+    "text": "התחלה חדשה מחכה לך."
+  },
+  {
+    "id": "bank-017",
+    "category": "hope",
+    "text": "סיבה לקוות תמצא אותך בקרוב."
+  },
+  {
+    "id": "bank-018",
+    "category": "hope",
+    "text": "בוקר בהיר יביא חידוש עדין."
+  },
+  {
+    "id": "bank-019",
+    "category": "hope",
+    "text": "עונה חדשה של אפשרויות מתחילה."
+  },
+  {
+    "id": "bank-020",
+    "category": "hope",
+    "text": "אור מופיע על הכביש קדימה."
+  },
+  {
+    "id": "bank-021",
+    "category": "hope",
+    "text": "זרעי שינוי גדלים בשקט."
+  },
+  {
+    "id": "bank-022",
+    "category": "hope",
+    "text": "דף נקי מוכן לפרק הבא שלך."
+  },
+  {
+    "id": "bank-023",
+    "category": "hope",
+    "text": "הפתעה מלאת תקווה תרים את רוחך."
+  },
+  {
+    "id": "bank-024",
+    "category": "hope",
+    "text": "הזדמנות שנייה בדרך."
+  },
+  {
+    "id": "bank-025",
+    "category": "hope",
+    "text": "חידוש עדין מתחיל בחיים שלך."
+  },
+  {
+    "id": "bank-026",
+    "category": "hope",
+    "text": "חלום חדש מוכן לקבל."
+  },
+  {
+    "id": "bank-027",
+    "category": "love",
+    "text": "חיבור חם גדל סביבך."
+  },
+  {
+    "id": "bank-028",
+    "category": "love",
+    "text": "ידידות נמשכת תביא לך שמחה."
+  },
+  {
+    "id": "bank-029",
+    "category": "love",
+    "text": "רוח קשורה קרובה יותר ממה שאתה חושב."
+  },
+  {
+    "id": "bank-030",
+    "category": "love",
+    "text": "שיחה כנה תחזק את הקשר."
+  },
+  {
+    "id": "bank-031",
+    "category": "love",
+    "text": "לב נדיב יפגוש את שלך."
+  },
+  {
+    "id": "bank-032",
+    "category": "love",
+    "text": "חבר אמין יעמוד לצדך."
+  },
+  {
+    "id": "bank-033",
+    "category": "love",
+    "text": "איחוד שמחה עומד לקרות בקרוב."
+  },
+  {
+    "id": "bank-034",
+    "category": "love",
+    "text": "צחוק משותף יחמם את השבוע שלך."
+  },
+  {
+    "id": "bank-035",
+    "category": "love",
+    "text": "תנועה של אהבה תמצא את דרכה אליך."
+  },
+  {
+    "id": "bank-036",
+    "category": "love",
+    "text": "חבר חדש יביא נקודת מבט חדשה."
+  },
+  {
+    "id": "bank-037",
+    "category": "love",
+    "text": "רגע רך יגרום ללב שלך להרגיש בבית."
+  },
+  {
+    "id": "bank-038",
+    "category": "love",
+    "text": "מסר מרגש יגיע לך ברגע שאתה זקוק לו."
+  },
+  {
+    "id": "bank-039",
+    "category": "love",
+    "text": "מקום שבו אתה שייך מחכה."
+  },
+  {
+    "id": "bank-040",
+    "category": "growth",
+    "text": "מיומנות חדשה תפתח דלת שימושית."
+  },
+  {
+    "id": "bank-041",
+    "category": "growth",
+    "text": "אמון עמוק יותר גדל בתוכך."
+  },
+  {
+    "id": "bank-042",
+    "category": "growth",
+    "text": "מטרה ברורה יותר מתחילה להבהיר."
+  },
+  {
+    "id": "bank-043",
+    "category": "growth",
+    "text": "נקודת מבט חדשה תקל על האתגר."
+  },
+  {
+    "id": "bank-044",
+    "category": "growth",
+    "text": "הרגיל בריא יותר יסייע לך להתקדם."
+  },
+  {
+    "id": "bank-045",
+    "category": "growth",
+    "text": "הבנה חדשה תביא לך שלום."
+  },
+  {
+    "id": "bank-046",
+    "category": "growth",
+    "text": "קול חזק יותר מוכן להישמע."
+  },
+  {
+    "id": "bank-047",
+    "category": "growth",
+    "text": "תרגול סבלני יגמל אותך."
+  },
+  {
+    "id": "bank-048",
+    "category": "growth",
+    "text": "חריץ יצירתי יוביל את הצעד הבא שלך."
+  },
+  {
+    "id": "bank-049",
+    "category": "growth",
+    "text": "שיעור משמעותי קרוב."
+  },
+  {
+    "id": "bank-050",
+    "category": "growth",
+    "text": "נקודת מבט רחבה יותר תעזור לך לבחור טוב."
+  },
+  {
+    "id": "bank-051",
+    "category": "growth",
+    "text": "שאלה אמיצה תוביל לתשובה שימושית."
+  },
+  {
+    "id": "bank-052",
+    "category": "growth",
+    "text": "ריטם חדש יגרום לימים שלך להרגיש קלים יותר."
+  },
+  {
+    "id": "bank-053",
+    "category": "prosperity",
+    "text": "מאמץ פורה מתחיל להראות תוצאות."
+  },
+  {
+    "id": "bank-054",
+    "category": "prosperity",
+    "text": "פרויקט מבטיח יגייס תמיכה."
+  },
+  {
+    "id": "bank-055",
+    "category": "prosperity",
+    "text": "ניצול חכם של זמן יביא תוצאה מרוצה."
+  },
+  {
+    "id": "bank-056",
+    "category": "prosperity",
+    "text": "הזדמנויות גדלות ברשותנו."
+  },
+  {
+    "id": "bank-057",
+    "category": "prosperity",
+    "text": "תגמול ראוי מגיע אליך."
+  },
+  {
+    "id": "bank-058",
+    "category": "prosperity",
+    "text": "עונת פורה מתחילה."
+  },
+  {
+    "id": "bank-059",
+    "category": "prosperity",
+    "text": "רעיון שיצירוף יפתור בעיה קטנה."
+  },
+  {
+    "id": "bank-060",
+    "category": "prosperity",
+    "text": "קשר שימושי יופיע בזמן הנכון."
+  },
+  {
+    "id": "bank-061",
+    "category": "prosperity",
+    "text": "תוכנית מובנת תמצא את היסוד שלה."
+  },
+  {
+    "id": "bank-062",
+    "category": "prosperity",
+    "text": "רגע של שפע ייתן לך מקום לנשום."
+  },
+  {
+    "id": "bank-063",
+    "category": "prosperity",
+    "text": "החלטה טובה תخلق הזדמנות חדשה."
+  },
+  {
+    "id": "bank-064",
+    "category": "prosperity",
+    "text": "יבול נדיב יבוא בעקבות עבודתכם הסבלנית."
+  },
+  {
+    "id": "bank-065",
+    "category": "prosperity",
+    "text": "מיזם מעולה מתחיל להתפתח."
+  },
+  {
+    "id": "bank-066",
+    "category": "wisdom",
+    "text": "תובנה ברורה תגיע כאשר אתה צריך את זה."
+  },
+  {
+    "id": "bank-067",
+    "category": "wisdom",
+    "text": "החלטה חכמה תביא לך שקט."
+  },
+  {
+    "id": "bank-068",
+    "category": "wisdom",
+    "text": "אמת פשוטה תבהיר הכל."
+  },
+  {
+    "id": "bank-069",
+    "category": "wisdom",
+    "text": "תשובה שלווה מחכה בתוכך."
+  },
+  {
+    "id": "bank-070",
+    "category": "wisdom",
+    "text": "שאלה בזמן תפתח דרך חדשה."
+  },
+  {
+    "id": "bank-071",
+    "category": "wisdom",
+    "text": "בחירה מתבוננת תגן על השלום שלך."
+  },
+  {
+    "id": "bank-072",
+    "category": "wisdom",
+    "text": "הבנה עמוקה יותר תחליף דאגה ישנה."
+  },
+  {
+    "id": "bank-073",
+    "category": "wisdom",
+    "text": "קלות רגועה תוביל את המהלך הבא שלך."
+  },
+  {
+    "id": "bank-074",
+    "category": "wisdom",
+    "text": "שיעור שימושי יגיע בזמן הנכון."
+  },
+  {
+    "id": "bank-075",
+    "category": "wisdom",
+    "text": "ידע שקט יעזור לך לסמוך על עצמך."
+  },
+  {
+    "id": "bank-076",
+    "category": "wisdom",
+    "text": "רעיון בהיר יגיע בזמן שקט."
+  },
+  {
+    "id": "bank-077",
+    "category": "wisdom",
+    "text": "הפסקת חכמה תעזור לך לראות את הדרך."
+  },
+  {
+    "id": "bank-078",
+    "category": "wisdom",
+    "text": "דרך ברורה תופיע אחרי קצת סבלנות."
+  },
+  {
+    "id": "bank-079",
+    "category": "courage",
+    "text": "צעד אמיץ יוביל אותך קדימה."
+  },
+  {
+    "id": "bank-080",
+    "category": "courage",
+    "text": "כוח שקט גדל בתוכך."
+  },
+  {
+    "id": "bank-081",
+    "category": "courage",
+    "text": "התחלה נועזת תביא שינוי מברך."
+  },
+  {
+    "id": "bank-082",
+    "category": "courage",
+    "text": "קול בטוח מוכן לדבר."
+  },
+  {
+    "id": "bank-083",
+    "category": "courage",
+    "text": "לב יציב יוביל אותך דרך."
+  },
+  {
+    "id": "bank-084",
+    "category": "courage",
+    "text": "בחירה אמיצה תוביל לגדילה."
+  },
+  {
+    "id": "bank-085",
+    "category": "courage",
+    "text": "תחושת החלטה חדשה מתחילה לעורר."
+  },
+  {
+    "id": "bank-086",
+    "category": "courage",
+    "text": "שאלה חסרת פחד תביא תשובה כנה."
+  },
+  {
+    "id": "bank-087",
+    "category": "courage",
+    "text": "רגע של אומץ ישנה את היום שלך."
+  },
+  {
+    "id": "bank-088",
+    "category": "courage",
+    "text": "מהלך ראשון חזק יפתח את הדרך."
+  },
+  {
+    "id": "bank-089",
+    "category": "courage",
+    "text": "רוח חזקה תעזור לך לקום."
+  },
+  {
+    "id": "bank-090",
+    "category": "courage",
+    "text": "חלום נועז מוכן לחקור."
+  },
+  {
+    "id": "bank-091",
+    "category": "courage",
+    "text": "החלטה רגועה תצליח."
+  },
+  {
+    "id": "bank-092",
+    "category": "happiness",
+    "text": "כל יום שמחה מחכה להיות שם לב."
+  },
+  {
+    "id": "bank-093",
+    "category": "happiness",
+    "text": "רגע בהיר יגרום לך לחייך."
+  },
+  {
+    "id": "bank-094",
+    "category": "happiness",
+    "text": "צחוק חם יעלה את החדר."
+  },
+  {
+    "id": "bank-095",
+    "category": "happiness",
+    "text": "תענוג קטן ימצא אותך היום."
+  },
+  {
+    "id": "bank-096",
+    "category": "happiness",
+    "text": "הפתעה שמחה בדרך."
+  },
+  {
+    "id": "bank-097",
+    "category": "happiness",
+    "text": "הפסקה מרוצה תחזיר את האנרגיה שלך."
+  },
+  {
+    "id": "bank-098",
+    "category": "happiness",
+    "text": "זיכרון מאושר יביא לך נחמה."
+  },
+  {
+    "id": "bank-099",
+    "category": "happiness",
+    "text": "לב קל יעשה את היום שלך קל יותר."
+  },
+  {
+    "id": "bank-100",
+    "category": "happiness",
+    "text": "סיבה לחייך קרובה יותר ממה שאתה חושב."
+  },
+  {
+    "id": "bank-101",
+    "category": "happiness",
+    "text": "פגישת שמחה תקרב אותך לאחרים."
+  },
+  {
+    "id": "bank-102",
+    "category": "happiness",
+    "text": "תגלית נעימה תבהיר את הרגיל שלך."
+  },
+  {
+    "id": "bank-103",
+    "category": "happiness",
+    "text": "רעיון משחקני יוסיף קצת כיף."
+  },
+  {
+    "id": "bank-104",
+    "category": "happiness",
+    "text": "רגע ששווה לטעום מחכה לך."
+  },
+  {
+    "id": "bank-105",
+    "category": "resilience",
+    "text": "כוח חדש גדל בתוכך."
+  },
+  {
+    "id": "bank-106",
+    "category": "resilience",
+    "text": "רוח שנייה תעזור לך להמשיך."
+  },
+  {
+    "id": "bank-107",
+    "category": "resilience",
+    "text": "מחסום חדש של תקווה זמין."
+  },
+  {
+    "id": "bank-108",
+    "category": "resilience",
+    "text": "חזרה שקטה מתחילה."
+  },
+  {
+    "id": "bank-109",
+    "category": "resilience",
+    "text": "לב עמיד יוביל אותך קדימה."
+  },
+  {
+    "id": "bank-110",
+    "category": "resilience",
+    "text": "דרך חדשה קדימה מתפתחת."
+  },
+  {
+    "id": "bank-111",
+    "category": "resilience",
+    "text": "התאוששות קלה של הרוח מתרחשת."
+  },
+  {
+    "id": "bank-112",
+    "category": "resilience",
+    "text": "יסוד חזק יותר נבנה."
+  },
+  {
+    "id": "bank-113",
+    "category": "resilience",
+    "text": "שקט אחרי מאמץ יחזיר אותך."
+  },
+  {
+    "id": "bank-114",
+    "category": "resilience",
+    "text": "חזרת אמיצה תביא ביטחון חדש."
+  },
+  {
+    "id": "bank-115",
+    "category": "resilience",
+    "text": "חידוש שימושי יבהיר את דעתך."
+  },
+  {
+    "id": "bank-116",
+    "category": "resilience",
+    "text": "חידוש מטופל יוביל למשהו נמשך."
+  },
+  {
+    "id": "bank-117",
+    "category": "resilience",
+    "text": "מקום רך לנוח יעזור לך להתחיל מחדש."
+  },
+  {
+    "id": "bank-118",
+    "category": "adventure",
+    "text": "מסע מפתיע מתחיל."
+  },
+  {
+    "id": "bank-119",
+    "category": "adventure",
+    "text": "נתיב חדש מחכה להיחקור."
+  },
+  {
+    "id": "bank-120",
+    "category": "adventure",
+    "text": "אופק חדש ירחב את העולם שלך."
+  },
+  {
+    "id": "bank-121",
+    "category": "adventure",
+    "text": "סיבוב סקרן יביא תגלית נעימה."
+  },
+  {
+    "id": "bank-122",
+    "category": "adventure",
+    "text": "פגישה בלתי נשכחת תעשר את השבוע שלך."
+  },
+  {
+    "id": "bank-123",
+    "category": "adventure",
+    "text": "חקירה נועזת תגמול על סקרנותך."
+  },
+  {
+    "id": "bank-124",
+    "category": "adventure",
+    "text": "הזמנה בלתי צפויה תוביל למקום טוב."
+  },
+  {
+    "id": "bank-125",
+    "category": "adventure",
+    "text": "לא ידוע בהיר מוכן להיפגש."
+  },
+  {
+    "id": "bank-126",
+    "category": "adventure",
+    "text": "סיפור ששווה לספר נוצר."
+  },
+  {
+    "id": "bank-127",
+    "category": "adventure",
+    "text": "מקום חדש יביא נקודת מבט חדשה."
+  },
+  {
+    "id": "bank-128",
+    "category": "adventure",
+    "text": "אתגר משחקני ילמד אותך משהו שימושי."
+  },
+  {
+    "id": "bank-129",
+    "category": "adventure",
+    "text": "כביש עם נוף מחכה לך."
+  },
+  {
+    "id": "bank-130",
+    "category": "adventure",
+    "text": "רגע של תדהמה ימצא אותך בקרוב."
+  },
+  {
+    "id": "bank-131",
+    "category": "generosity",
+    "text": "תנועה נדיבה תחזור אליך."
+  },
+  {
+    "id": "bank-132",
+    "category": "generosity",
+    "text": "מעגל של טיפול גדל סביבך."
+  },
+  {
+    "id": "bank-133",
+    "category": "generosity",
+    "text": "ברכה משותפת תעשה את היום שלך בהיר יותר."
+  },
+  {
+    "id": "bank-134",
+    "category": "generosity",
+    "text": "חזרה טובה בדרך."
+  },
+  {
+    "id": "bank-135",
+    "category": "generosity",
+    "text": "קבלת פנים חמה תגרום לך להרגיש בבית."
+  },
+  {
+    "id": "bank-136",
+    "category": "generosity",
+    "text": "יד עוזרת תופיע כאשר אתה צריך אחד."
+  },
+  {
+    "id": "bank-137",
+    "category": "generosity",
+    "text": "מתנה משמעותית תגיע בזמן הנכון."
+  },
+  {
+    "id": "bank-138",
+    "category": "generosity",
+    "text": "רגע של מתנות יביא לך שמחה."
+  },
+  {
+    "id": "bank-139",
+    "category": "generosity",
+    "text": "קהילה חזקה יותר יוצרת צורה."
+  },
+  {
+    "id": "bank-140",
+    "category": "generosity",
+    "text": "תרומה חשובה תגרום לשינוי."
+  },
+  {
+    "id": "bank-141",
+    "category": "generosity",
+    "text": "גל של טובות יגיע למישהו חדש."
+  },
+  {
+    "id": "bank-142",
+    "category": "generosity",
+    "text": "הקשר הדואג יזכיר לך שאתה חשוב."
+  },
+  {
+    "id": "bank-143",
+    "category": "generosity",
+    "text": "מתנה של זמן תהיה משמעותית יותר ממה שאתה מצפה."
+  },
+  {
+    "id": "bank-144",
+    "category": "peace",
+    "text": "מרכז רגוע מחכה בתוכך."
+  },
+  {
+    "id": "bank-145",
+    "category": "peace",
+    "text": "הפסקה עדינה תחזיר את האיזון שלך."
+  },
+  {
+    "id": "bank-146",
+    "category": "peace",
+    "text": "מחשבה שקטה תגרום ליום להרגיש קל יותר."
+  },
+  {
+    "id": "bank-147",
+    "category": "peace",
+    "text": "רגע שלווה ימצא אותך בקרוב."
+  },
+  {
+    "id": "bank-148",
+    "category": "peace",
+    "text": "קצב רך יותר יעזור לך להבין מה חשוב."
+  },
+  {
+    "id": "bank-149",
+    "category": "peace",
+    "text": "ערב מנוחה יביא לך נחמה."
+  },
+  {
+    "id": "bank-150",
+    "category": "peace",
+    "text": "נשימה ברורה תעמוד את הלב שלך."
+  }
+]

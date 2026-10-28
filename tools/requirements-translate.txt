@@ -1,0 +1,5 @@
+# Build-time-only translation helpers. Not used by the game at runtime.
+ctranslate2==4.8.4
+transformers==5.21.0
+sentencepiece>=0.2.0
+huggingface_hub>=0.34.0

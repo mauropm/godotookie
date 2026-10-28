@@ -1,0 +1,752 @@
+[
+  {
+    "id": "bank-001",
+    "category": "luck",
+    "text": "May isang magandang pagkakataon na darating sa iyo."
+  },
+  {
+    "id": "bank-002",
+    "category": "luck",
+    "text": "Ang isang kapaki-pakinabang na kaganapan ay magpapaliwanag sa iyong araw."
+  },
+  {
+    "id": "bank-003",
+    "category": "luck",
+    "text": "Nagsimulang buksan ang pintuan na kinikita mo."
+  },
+  {
+    "id": "bank-004",
+    "category": "luck",
+    "text": "Sa tamang oras ay makakatagpo kayo sa isang hindi inaasahang lugar."
+  },
+  {
+    "id": "bank-005",
+    "category": "luck",
+    "text": "Isang kasiya-siya na sorpresa ang naghihintay malapit."
+  },
+  {
+    "id": "bank-006",
+    "category": "luck",
+    "text": "Ang isang friendly na pulong ay magbibigay ng isang welcome na pagbabago."
+  },
+  {
+    "id": "bank-007",
+    "category": "luck",
+    "text": "Ang isang maliit na pakikitungo ng kapalaran ay magiging mas madali ang iyong araw."
+  },
+  {
+    "id": "bank-008",
+    "category": "luck",
+    "text": "Ang isang pangakong imbitasyon ay darating sa lalong madaling panahon."
+  },
+  {
+    "id": "bank-009",
+    "category": "luck",
+    "text": "Ang isang bagong landas ay nagbubukas sa tamang sandali."
+  },
+  {
+    "id": "bank-010",
+    "category": "luck",
+    "text": "Ang isang masaya na aksidente ay humantong sa isang magandang bagay."
+  },
+  {
+    "id": "bank-011",
+    "category": "luck",
+    "text": "Ang isang magandang pagkakataon ay mas malapit kaysa sa iniisip mo."
+  },
+  {
+    "id": "bank-012",
+    "category": "luck",
+    "text": "Ang isang uri ng kapalaran ay gumagana sa iyong pabor."
+  },
+  {
+    "id": "bank-013",
+    "category": "luck",
+    "text": "Ang isang magandang simula ay kumukuha ng anyo."
+  },
+  {
+    "id": "bank-014",
+    "category": "hope",
+    "text": "Ang isang bagong simula ay mas malapit kaysa tila."
+  },
+  {
+    "id": "bank-015",
+    "category": "hope",
+    "text": "Ang isang mas maliwanag na bukas ay kumukuha na ng anyo."
+  },
+  {
+    "id": "bank-016",
+    "category": "hope",
+    "text": "Ang isang bagong simula ay naghihintay sa iyo."
+  },
+  {
+    "id": "bank-017",
+    "category": "hope",
+    "text": "Ang isang dahilan upang mag-asa ay makahanap sa iyo sa lalong madaling panahon."
+  },
+  {
+    "id": "bank-018",
+    "category": "hope",
+    "text": "Ang isang maliwanag na umaga ay magbubunga ng isang mabagal na pag-uugali."
+  },
+  {
+    "id": "bank-019",
+    "category": "hope",
+    "text": "Nagsimula ang isang bagong panahon ng posibilidad."
+  },
+  {
+    "id": "bank-020",
+    "category": "hope",
+    "text": "Isang liwanag ang lumilitaw sa daan sa harap."
+  },
+  {
+    "id": "bank-021",
+    "category": "hope",
+    "text": "Ang binhi ng pagbabago ay tumutubo nang tahimik."
+  },
+  {
+    "id": "bank-022",
+    "category": "hope",
+    "text": "Ang isang malinis na pahina ay handa para sa iyong susunod na kabanata."
+  },
+  {
+    "id": "bank-023",
+    "category": "hope",
+    "text": "Ang isang mapagkakatiwalaang sorpresa ay magpapalakas ng iyong espiritu."
+  },
+  {
+    "id": "bank-024",
+    "category": "hope",
+    "text": "May pangalawang pagkakataon na darating."
+  },
+  {
+    "id": "bank-025",
+    "category": "hope",
+    "text": "Nagsimula sa iyong buhay ang isang mabagal na pagbabago."
+  },
+  {
+    "id": "bank-026",
+    "category": "hope",
+    "text": "Ang isang bagong pangarap ay handa na tanggapin."
+  },
+  {
+    "id": "bank-027",
+    "category": "love",
+    "text": "Ang isang mainit na koneksyon ay lumalaki sa paligid mo."
+  },
+  {
+    "id": "bank-028",
+    "category": "love",
+    "text": "Ang isang pangmatagalang pagkakaibigan ay magbibigay sa iyo ng kagalakan."
+  },
+  {
+    "id": "bank-029",
+    "category": "love",
+    "text": "Ang isang kapamilya na espiritu ay mas malapit kaysa sa alam mo."
+  },
+  {
+    "id": "bank-030",
+    "category": "love",
+    "text": "Ang tapat na pag-uusap ay magpapalalim sa isang relasyon."
+  },
+  {
+    "id": "bank-031",
+    "category": "love",
+    "text": "Ang isang mapagbigay na puso ay makakatagpo sa iyo."
+  },
+  {
+    "id": "bank-032",
+    "category": "love",
+    "text": "Ang isang mapagkakatiwalaan na kasama ay tatayo sa tabi mo."
+  },
+  {
+    "id": "bank-033",
+    "category": "love",
+    "text": "Ang isang maligaya na pagpupulong ay malapit nang dumating."
+  },
+  {
+    "id": "bank-034",
+    "category": "love",
+    "text": "Ang pagbabahagi ng tawa ay magpapainit sa iyong linggo."
+  },
+  {
+    "id": "bank-035",
+    "category": "love",
+    "text": "Ang isang pag-aalaga ng pagmamahal ay makakasama sa iyo."
+  },
+  {
+    "id": "bank-036",
+    "category": "love",
+    "text": "Ang isang bagong kaibigan ay magbibigay ng isang bagong pananaw."
+  },
+  {
+    "id": "bank-037",
+    "category": "love",
+    "text": "Ang isang masigasig na sandali ay magpapahinga sa iyong puso."
+  },
+  {
+    "id": "bank-038",
+    "category": "love",
+    "text": "Ang isang puso na mensahe ay darating kapag kailangan mo ito."
+  },
+  {
+    "id": "bank-039",
+    "category": "love",
+    "text": "Ang isang lugar kung saan ka nakatira ay naghihintay."
+  },
+  {
+    "id": "bank-040",
+    "category": "growth",
+    "text": "Ang isang bagong kasanayan ay magbubukas ng isang kapaki-pakinabang na pinto."
+  },
+  {
+    "id": "bank-041",
+    "category": "growth",
+    "text": "Ang mas malalim na tiwala ay lumalaki sa loob mo."
+  },
+  {
+    "id": "bank-042",
+    "category": "growth",
+    "text": "Ang isang mas malinaw na layunin ay nagsisimulang lumiliwanag."
+  },
+  {
+    "id": "bank-043",
+    "category": "growth",
+    "text": "Ang isang bagong pananaw ay magiging mas madali ang hamon."
+  },
+  {
+    "id": "bank-044",
+    "category": "growth",
+    "text": "Ang isang mas malusog na ugali ay tutulong sa iyong pag-unlad."
+  },
+  {
+    "id": "bank-045",
+    "category": "growth",
+    "text": "Ang isang bagong pag-unawa ay magbibigay sa iyo ng kapayapaan."
+  },
+  {
+    "id": "bank-046",
+    "category": "growth",
+    "text": "Ang mas malakas na tinig ay handa na marinig."
+  },
+  {
+    "id": "bank-047",
+    "category": "growth",
+    "text": "Ang isang pagtitiis na pagsasanay ay magbabayaran sa iyo."
+  },
+  {
+    "id": "bank-048",
+    "category": "growth",
+    "text": "Ang isang malikhaing hilig ay maglalagay sa iyong susunod na hakbang."
+  },
+  {
+    "id": "bank-049",
+    "category": "growth",
+    "text": "Ang isang makabuluhang aral ay malapit na."
+  },
+  {
+    "id": "bank-050",
+    "category": "growth",
+    "text": "Ang mas malawak na pananaw ay makakatulong sa iyo na pumili ng mabuti."
+  },
+  {
+    "id": "bank-051",
+    "category": "growth",
+    "text": "Ang isang matapang na tanong ay humahantong sa isang kapaki-pakinabang na sagot."
+  },
+  {
+    "id": "bank-052",
+    "category": "growth",
+    "text": "Ang isang bagong ritmo ay magpapahinga ng iyong mga araw."
+  },
+  {
+    "id": "bank-053",
+    "category": "prosperity",
+    "text": "Ang isang mabungahang pagsisikap ay nagsisimula na magpakita ng mga resulta."
+  },
+  {
+    "id": "bank-054",
+    "category": "prosperity",
+    "text": "Ang isang pangakong proyekto ay makakataguyod ng suporta."
+  },
+  {
+    "id": "bank-055",
+    "category": "prosperity",
+    "text": "Ang matalinong paggamit ng panahon ay magbubunga ng kasiya-siya na resulta."
+  },
+  {
+    "id": "bank-056",
+    "category": "prosperity",
+    "text": "Ang isang lumalagong pagkakataon ay nararapat."
+  },
+  {
+    "id": "bank-057",
+    "category": "prosperity",
+    "text": "Ang isang karapat-dapat na gantimpala ay dumarating sa iyo."
+  },
+  {
+    "id": "bank-058",
+    "category": "prosperity",
+    "text": "Nagsimula ang isang produktibong panahon."
+  },
+  {
+    "id": "bank-059",
+    "category": "prosperity",
+    "text": "Ang isang mapagkukunan na ideya ay malutas ang isang maliit na problema."
+  },
+  {
+    "id": "bank-060",
+    "category": "prosperity",
+    "text": "Magkakaroon ng kapaki-pakinabang na koneksyon sa tamang panahon."
+  },
+  {
+    "id": "bank-061",
+    "category": "prosperity",
+    "text": "Ang isang thoughtful na plano ay makakataguyod ng pundasyon nito."
+  },
+  {
+    "id": "bank-062",
+    "category": "prosperity",
+    "text": "Ang isang sandali ng kasaganaan ay magbibigay sa iyo ng puwang upang uminga."
+  },
+  {
+    "id": "bank-063",
+    "category": "prosperity",
+    "text": "Ang isang mabuting desisyon ay magbibigay ng bagong pagkakataon."
+  },
+  {
+    "id": "bank-064",
+    "category": "prosperity",
+    "text": "Magkakaroon ng malalaking abot ang inyong pagtitiis."
+  },
+  {
+    "id": "bank-065",
+    "category": "prosperity",
+    "text": "Nagtataguyod ng isang kapaki-pakinabang na pakikibaka."
+  },
+  {
+    "id": "bank-066",
+    "category": "wisdom",
+    "text": "Ang isang malinaw na pananaw ay darating kapag kailangan mo ito."
+  },
+  {
+    "id": "bank-067",
+    "category": "wisdom",
+    "text": "Ang isang matalinong desisyon ay magbibigay sa iyo ng kapayapaan."
+  },
+  {
+    "id": "bank-068",
+    "category": "wisdom",
+    "text": "Ang isang simpleng katotohanan ay magpapaliwanag sa lahat."
+  },
+  {
+    "id": "bank-069",
+    "category": "wisdom",
+    "text": "Ang isang mapayapang sagot ay naghihintay sa loob mo."
+  },
+  {
+    "id": "bank-070",
+    "category": "wisdom",
+    "text": "Ang isang tamang tanong ay magbubukas ng isang bagong daan."
+  },
+  {
+    "id": "bank-071",
+    "category": "wisdom",
+    "text": "Ang isang maingat na pagpipilian ay magsasanggalang sa iyong kapayapaan."
+  },
+  {
+    "id": "bank-072",
+    "category": "wisdom",
+    "text": "Ang mas malalim na pag-unawa ay gagantihan ang isang lumang pagkabahala."
+  },
+  {
+    "id": "bank-073",
+    "category": "wisdom",
+    "text": "Ang isang kalmado na katiyakan ay maglalagay sa iyong susunod na hakbang."
+  },
+  {
+    "id": "bank-074",
+    "category": "wisdom",
+    "text": "Ang isang kapaki-pakinabang na aralin ay darating sa tamang panahon."
+  },
+  {
+    "id": "bank-075",
+    "category": "wisdom",
+    "text": "Ang tahimik na kaalaman ay makakatulong sa iyo na magtiwala sa iyong sarili."
+  },
+  {
+    "id": "bank-076",
+    "category": "wisdom",
+    "text": "Ang isang maliwanag na ideya ay darating sa isang tahimik na sandali."
+  },
+  {
+    "id": "bank-077",
+    "category": "wisdom",
+    "text": "Ang isang matalinong pawis ay tutulong sa iyo na makita ang daan."
+  },
+  {
+    "id": "bank-078",
+    "category": "wisdom",
+    "text": "Ang isang malinaw na landas ay lumitaw pagkatapos ng kaunting pagtitiis."
+  },
+  {
+    "id": "bank-079",
+    "category": "courage",
+    "text": "Ang isang matapang na hakbang ay magpapauna sa iyo."
+  },
+  {
+    "id": "bank-080",
+    "category": "courage",
+    "text": "Ang tahimik na lakas ay lumalaki sa loob mo."
+  },
+  {
+    "id": "bank-081",
+    "category": "courage",
+    "text": "Ang isang matapang na simula ay magbibigay ng isang welcome na pagbabago."
+  },
+  {
+    "id": "bank-082",
+    "category": "courage",
+    "text": "Ang isang mapagkakatiwalaang tinig ay handa na magsalita."
+  },
+  {
+    "id": "bank-083",
+    "category": "courage",
+    "text": "Ang isang matatag na puso ay magdadala sa iyo."
+  },
+  {
+    "id": "bank-084",
+    "category": "courage",
+    "text": "Ang isang matapang na pagpipilian ay humahantong sa paglago."
+  },
+  {
+    "id": "bank-085",
+    "category": "courage",
+    "text": "Ang isang bagong diwa ng determinasyon ay tumataas."
+  },
+  {
+    "id": "bank-086",
+    "category": "courage",
+    "text": "Ang walang takot na tanong ay magbibigay ng tapat na sagot."
+  },
+  {
+    "id": "bank-087",
+    "category": "courage",
+    "text": "Ang isang sandali ng lakas ng loob ay magbabago ng iyong araw."
+  },
+  {
+    "id": "bank-088",
+    "category": "courage",
+    "text": "Ang isang malakas na unang hakbang ay magbubukas ng daan."
+  },
+  {
+    "id": "bank-089",
+    "category": "courage",
+    "text": "Ang isang malalakas na espiritu ay tutulong sa iyo na tumaas."
+  },
+  {
+    "id": "bank-090",
+    "category": "courage",
+    "text": "Ang isang matapang na panaginip ay handa na ma-explore."
+  },
+  {
+    "id": "bank-091",
+    "category": "courage",
+    "text": "Ang kalmado na determinasyon ay makakatulong sa iyo."
+  },
+  {
+    "id": "bank-092",
+    "category": "happiness",
+    "text": "Ang araw-araw na kagalakan ay naghihintay upang makita."
+  },
+  {
+    "id": "bank-093",
+    "category": "happiness",
+    "text": "Ang isang maliwanag na sandali ay magpapangiti sa iyo."
+  },
+  {
+    "id": "bank-094",
+    "category": "happiness",
+    "text": "Ang isang mainit na katawa ay magpapahinga sa silid."
+  },
+  {
+    "id": "bank-095",
+    "category": "happiness",
+    "text": "Isang maliit na kagalakan ang mahanap sa iyo ngayon."
+  },
+  {
+    "id": "bank-096",
+    "category": "happiness",
+    "text": "Ang isang maligaya na sorpresa ay nasa daan."
+  },
+  {
+    "id": "bank-097",
+    "category": "happiness",
+    "text": "Ang isang kontento na pahinga ay babalik ang iyong lakas."
+  },
+  {
+    "id": "bank-098",
+    "category": "happiness",
+    "text": "Ang isang maligaya na alaala ay magbibigay sa iyo ng kaaliwan."
+  },
+  {
+    "id": "bank-099",
+    "category": "happiness",
+    "text": "Ang isang liwanag na puso ay magiging mas madali ang iyong araw."
+  },
+  {
+    "id": "bank-100",
+    "category": "happiness",
+    "text": "Ang dahilan para ngiti ay mas malapit kaysa sa iniisip mo."
+  },
+  {
+    "id": "bank-101",
+    "category": "happiness",
+    "text": "Ang isang maligaya na pagpupulong ay magpapalapit sa iyo sa iba."
+  },
+  {
+    "id": "bank-102",
+    "category": "happiness",
+    "text": "Ang isang kasiya-siyang pagtuklas ay magpapaliwanag sa iyong gawain."
+  },
+  {
+    "id": "bank-103",
+    "category": "happiness",
+    "text": "Ang isang mainam na ideya ay magdaragdag ng kaaya-aya."
+  },
+  {
+    "id": "bank-104",
+    "category": "happiness",
+    "text": "Ang isang sandali na nagkakahalaga ng panlasa ay naghihintay sa iyo."
+  },
+  {
+    "id": "bank-105",
+    "category": "resilience",
+    "text": "Ang bagong lakas ay lumalaki sa loob mo."
+  },
+  {
+    "id": "bank-106",
+    "category": "resilience",
+    "text": "Ang pangalawang hangin ay tutulong sa iyo na magpatuloy."
+  },
+  {
+    "id": "bank-107",
+    "category": "resilience",
+    "text": "Ang isang bagong reserba ng pag-asa ay magagamit."
+  },
+  {
+    "id": "bank-108",
+    "category": "resilience",
+    "text": "Nagsimula na ang tahimik na pagbabalik."
+  },
+  {
+    "id": "bank-109",
+    "category": "resilience",
+    "text": "Ang isang malalakas na puso ay maglalagay sa iyo."
+  },
+  {
+    "id": "bank-110",
+    "category": "resilience",
+    "text": "Ang isang bagong daan sa pag-unlad ay nagbubukas."
+  },
+  {
+    "id": "bank-111",
+    "category": "resilience",
+    "text": "Ang isang mabait na pagbawi ng espiritu ay nagaganap."
+  },
+  {
+    "id": "bank-112",
+    "category": "resilience",
+    "text": "Ang isang mas malakas na pundasyon ay itinatayo."
+  },
+  {
+    "id": "bank-113",
+    "category": "resilience",
+    "text": "Ang kalmadong pagkatapos ng pagsisikap ay babalik sa iyo."
+  },
+  {
+    "id": "bank-114",
+    "category": "resilience",
+    "text": "Ang isang matapang na pagbabalik ay magbibigay ng bagong tiwala."
+  },
+  {
+    "id": "bank-115",
+    "category": "resilience",
+    "text": "Ang isang kapaki-pakinabang na pag-reset ay lilinisin ang iyong isipan."
+  },
+  {
+    "id": "bank-116",
+    "category": "resilience",
+    "text": "Ang muling pagtatayo ng pasyente ay humahantong sa isang pangmatagalang bagay."
+  },
+  {
+    "id": "bank-117",
+    "category": "resilience",
+    "text": "Ang isang malambot na lugar upang magpahinga ay makakatulong sa iyo na simulan muli."
+  },
+  {
+    "id": "bank-118",
+    "category": "adventure",
+    "text": "Nagsimula ang isang nakakagulat na paglalakbay."
+  },
+  {
+    "id": "bank-119",
+    "category": "adventure",
+    "text": "Ang isang bagong landas ay naghihintay upang ma-explore."
+  },
+  {
+    "id": "bank-120",
+    "category": "adventure",
+    "text": "Ang isang bagong horizon ay magpapalawak ng iyong mundo."
+  },
+  {
+    "id": "bank-121",
+    "category": "adventure",
+    "text": "Ang isang kagiliw-giliw na paglipat ay magbubunga ng isang kaaya-ayahang pagtuklas."
+  },
+  {
+    "id": "bank-122",
+    "category": "adventure",
+    "text": "Ang isang hindi malilimutan na pakikipagtagpo ay magpaparami sa iyong linggo."
+  },
+  {
+    "id": "bank-123",
+    "category": "adventure",
+    "text": "Ang isang matapang na pagsasaliksik ay magbabayaran ng iyong pagkamausisa."
+  },
+  {
+    "id": "bank-124",
+    "category": "adventure",
+    "text": "Ang hindi inaasahang imbitasyon ay humantong sa isang magandang lugar."
+  },
+  {
+    "id": "bank-125",
+    "category": "adventure",
+    "text": "Ang isang maliwanag na hindi kilalang ay handa upang matugunan."
+  },
+  {
+    "id": "bank-126",
+    "category": "adventure",
+    "text": "Ang isang kuwento na nagkakahalaga ng pagsasabi ay kumakatawan."
+  },
+  {
+    "id": "bank-127",
+    "category": "adventure",
+    "text": "Ang isang bagong lugar ay magbibigay ng isang bagong pananaw."
+  },
+  {
+    "id": "bank-128",
+    "category": "adventure",
+    "text": "Magtatuto ka ng isang kapaki-pakinabang na bagay sa isang mainam na hamon."
+  },
+  {
+    "id": "bank-129",
+    "category": "adventure",
+    "text": "Ang isang kalsada na may paningin ay naghihintay sa iyo."
+  },
+  {
+    "id": "bank-130",
+    "category": "adventure",
+    "text": "Ang isang sandali ng kamangha-manghang makikita ka sa lalong madaling panahon."
+  },
+  {
+    "id": "bank-131",
+    "category": "generosity",
+    "text": "Magbabalik sa iyo ang isang malalaking pag-uugali."
+  },
+  {
+    "id": "bank-132",
+    "category": "generosity",
+    "text": "Ang isang bilog ng pangangalaga ay lumalaki sa paligid mo."
+  },
+  {
+    "id": "bank-133",
+    "category": "generosity",
+    "text": "Ang pagbabahagi ng pagpapala ay magiging mas maliwanag ang iyong araw."
+  },
+  {
+    "id": "bank-134",
+    "category": "generosity",
+    "text": "Isang magagandang pagbabalik ay nasa daan."
+  },
+  {
+    "id": "bank-135",
+    "category": "generosity",
+    "text": "Ang mainit na pagtanggap ay magpapahinga sa iyo."
+  },
+  {
+    "id": "bank-136",
+    "category": "generosity",
+    "text": "Magkakaroon ng tulong kapag kailangan mo ng isa."
+  },
+  {
+    "id": "bank-137",
+    "category": "generosity",
+    "text": "Ang isang makabuluhang regalo ay darating sa tamang panahon."
+  },
+  {
+    "id": "bank-138",
+    "category": "generosity",
+    "text": "Ang isang sandali ng pagbibigay ay magbibigay sa iyo ng kagalakan."
+  },
+  {
+    "id": "bank-139",
+    "category": "generosity",
+    "text": "Ang isang mas malakas na pamayanan ay kumakatawan."
+  },
+  {
+    "id": "bank-140",
+    "category": "generosity",
+    "text": "Ang isang thoughtful na kontribusyon ay magbibigay ng pagkakaiba."
+  },
+  {
+    "id": "bank-141",
+    "category": "generosity",
+    "text": "Ang isang bahagyang kagandahan ay makamit sa isang bagong tao."
+  },
+  {
+    "id": "bank-142",
+    "category": "generosity",
+    "text": "Ang isang mapagmamalasakit na kaugnayan ay magpapalaala sa iyo na mahalaga ka."
+  },
+  {
+    "id": "bank-143",
+    "category": "generosity",
+    "text": "Ang kaloob ng oras ay magbibigay ng higit pa kaysa sa inaasahan mo."
+  },
+  {
+    "id": "bank-144",
+    "category": "peace",
+    "text": "Ang isang kalmado na sentro ay naghihintay sa loob mo."
+  },
+  {
+    "id": "bank-145",
+    "category": "peace",
+    "text": "Ang isang mabait na pahinga ay babalik ang iyong balanse."
+  },
+  {
+    "id": "bank-146",
+    "category": "peace",
+    "text": "Ang isang tahimik na isipan ay magpapahinga ng araw."
+  },
+  {
+    "id": "bank-147",
+    "category": "peace",
+    "text": "Magkakaroon ka ng isang malinaong sandali sa lalong madaling panahon."
+  },
+  {
+    "id": "bank-148",
+    "category": "peace",
+    "text": "Ang isang mas malambot na bilis ay tutulong sa iyo na makita kung ano ang mahalaga."
+  },
+  {
+    "id": "bank-149",
+    "category": "peace",
+    "text": "Ang isang malusog na gabi ay magbibigay sa iyo ng kaaliwan."
+  },
+  {
+    "id": "bank-150",
+    "category": "peace",
+    "text": "Ang isang malinaw na hininga ay magpapahintulot sa iyong puso."
+  }
+]

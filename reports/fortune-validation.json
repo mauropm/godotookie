@@ -1,0 +1,1727 @@
+{
+  "generated_at": "2026-10-28T05:55:38.785587+00:00",
+  "minimum_records": 2000,
+  "locale_count": 30,
+  "locales": {
+    "en": {
+      "native_name": "English",
+      "english_name": "English",
+      "file": "data/fortunes/en.json",
+      "records": 2640,
+      "unique": 2640,
+      "valid": 2640,
+      "exact_duplicates": 0,
+      "near_duplicates": 8,
+      "near_duplicate_samples": [
+        {
+          "distance": 3,
+          "first_id": "en-2333",
+          "first_text": "The honesty you carry attracts a generous gesture.",
+          "second_id": "en-0616",
+          "second_text": "The honesty you carry attracts a generous heart."
+        },
+        {
+          "distance": 5,
+          "first_id": "en-1727",
+          "first_text": "A bright surprise waits on an ordinary afternoon.",
+          "second_id": "en-0329",
+          "second_text": "A quiet surprise waits on an ordinary afternoon."
+        },
+        {
+          "distance": 5,
+          "first_id": "en-1872",
+          "first_text": "You have permission to welcome a resilient heart.",
+          "second_id": "en-1380",
+          "second_text": "You have permission to welcome a resilient spirit."
+        },
+        {
+          "distance": 5,
+          "first_id": "en-2210",
+          "first_text": "A generous gesture appears through the smallest conversation.",
+          "second_id": "en-0454",
+          "second_text": "A new friend appears through the smallest conversation."
+        },
+        {
+          "distance": 5,
+          "first_id": "en-2292",
+          "first_text": "Today holds a gentle invitation to a meaningful gift.",
+          "second_id": "en-1279",
+          "second_text": "Today holds a gentle invitation to a meaningful insight."
+        },
+        {
+          "distance": 5,
+          "first_id": "en-2340",
+          "first_text": "A shared smile will bring a ripple of kindness.",
+          "second_id": "en-2247",
+          "second_text": "A shared smile leads to a ripple of kindness."
+        },
+        {
+          "distance": 5,
+          "first_id": "en-2451",
+          "first_text": "Good news follows a steady stillness.",
+          "second_id": "en-1937",
+          "second_text": "Good news follows a steady spirit."
+        },
+        {
+          "distance": 5,
+          "first_id": "en-2537",
+          "first_text": "The small joy of a simple plan points toward a warm calm.",
+          "second_id": "en-2197",
+          "second_text": "The small joy of a simple plan points toward a fresh path."
+        }
+      ],
+      "min_length": 29,
+      "max_length": 77,
+      "average_length": 51.23,
+      "failures": [],
+      "warnings": [
+        "8 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "es": {
+      "native_name": "Español",
+      "english_name": "Spanish",
+      "file": "data/fortunes/es.json",
+      "records": 2639,
+      "unique": 2639,
+      "valid": 2639,
+      "exact_duplicates": 0,
+      "near_duplicates": 10,
+      "near_duplicate_samples": [
+        {
+          "distance": 3,
+          "first_id": "es-2487",
+          "first_text": "Abre tu día a un momento de paz.",
+          "second_id": "es-2307",
+          "second_text": "Abre tu día a un momento de dar."
+        },
+        {
+          "distance": 4,
+          "first_id": "es-0540",
+          "first_text": "Abre tu día a un nuevo amigo.",
+          "second_id": "es-0412",
+          "second_text": "Abre tu día a un nuevo sueño."
+        },
+        {
+          "distance": 4,
+          "first_id": "es-1188",
+          "first_text": "Tu corazón valiente da la bienvenida a un camino aclarado.",
+          "second_id": "es-1161",
+          "second_text": "Tu corazón paciente da la bienvenida a un camino aclarado."
+        },
+        {
+          "distance": 4,
+          "first_id": "es-1455",
+          "first_text": "Las cosas buenas se acumulan en torno a un corazón firme.",
+          "second_id": "es-0017",
+          "second_text": "Las cosas buenas se acumulan en torno a un feliz accidente."
+        },
+        {
+          "distance": 4,
+          "first_id": "es-1651",
+          "first_text": "Las cosas buenas se reúnen en torno a una reunión alegre.",
+          "second_id": "es-0693",
+          "second_text": "Las cosas buenas se reúnen en torno a un nuevo ritmo."
+        },
+        {
+          "distance": 4,
+          "first_id": "es-2049",
+          "first_text": "El camino que tenemos por delante nos depara una agradable sorpresa.",
+          "second_id": "es-1741",
+          "second_text": "El camino que tenemos por delante nos depara una alegre sorpresa."
+        },
+        {
+          "distance": 4,
+          "first_id": "es-2470",
+          "first_text": "Una curiosa sorpresa aguarda en una sonrisa compartida.",
+          "second_id": "es-1203",
+          "second_text": "Una sorpresa abierta aguarda en una sonrisa compartida."
+        },
+        {
+          "distance": 4,
+          "first_id": "es-2625",
+          "first_text": "Una mañana tranquila aparece a través del más mínimo acto de bondad.",
+          "second_id": "es-1208",
+          "second_text": "Una tranquila claridad aparece a través del más mínimo acto de bondad."
+        },
+        {
+          "distance": 5,
+          "first_id": "es-0365",
+          "first_text": "Una promesa de cambio está más cerca de lo que parece.",
+          "second_id": "es-0169",
+          "second_text": "Una agradable sorpresa está más cerca de lo que parece."
+        },
+        {
+          "distance": 5,
+          "first_id": "es-2136",
+          "first_text": "Hoy tenemos una suave invitación a un nuevo camino.",
+          "second_id": "es-0417",
+          "second_text": "Hoy tenemos una suave invitación a un nuevo sueño."
+        }
+      ],
+      "min_length": 26,
+      "max_length": 95,
+      "average_length": 59.23,
+      "failures": [],
+      "warnings": [
+        "10 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "zh": {
+      "native_name": "中文",
+      "english_name": "Mandarin Chinese",
+      "file": "data/fortunes/zh.json",
+      "records": 2634,
+      "unique": 2634,
+      "valid": 2634,
+      "exact_duplicates": 0,
+      "near_duplicates": 1,
+      "near_duplicate_samples": [
+        {
+          "distance": 5,
+          "first_id": "zh-1734",
+          "first_text": "片刻的休息会带来甜蜜的惊喜。",
+          "second_id": "zh-1579",
+          "second_text": "短暂的休息会带来甜蜜的惊喜。"
+        }
+      ],
+      "min_length": 7,
+      "max_length": 33,
+      "average_length": 17.49,
+      "failures": [],
+      "warnings": [
+        "1 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "hi": {
+      "native_name": "हिन्दी",
+      "english_name": "Hindi",
+      "file": "data/fortunes/hi.json",
+      "records": 2633,
+      "unique": 2633,
+      "valid": 2633,
+      "exact_duplicates": 0,
+      "near_duplicates": 4,
+      "near_duplicate_samples": [
+        {
+          "distance": 3,
+          "first_id": "hi-0969",
+          "first_text": "एक शांत नया अध्याय एक पुरस्कृत उद्यम के साथ शुरू होता है।",
+          "second_id": "hi-0898",
+          "second_text": "एक नया अध्याय एक पुरस्कृत उद्यम के साथ शुरू होता है।"
+        },
+        {
+          "distance": 4,
+          "first_id": "hi-1497",
+          "first_text": "किसी पसंदीदा स्थान पर एक साहसिक कदम पर ध्यान दें।",
+          "second_id": "hi-1492",
+          "second_text": "किसी पसंदीदा स्थान पर एक साहसिक शुरुआत पर ध्यान दें।"
+        },
+        {
+          "distance": 5,
+          "first_id": "hi-1600",
+          "first_text": "एक सुखद खोज जितनी दिखाई देती है उससे कहीं अधिक निकट होती है।",
+          "second_id": "hi-0229",
+          "second_text": "एक साफ़ पृष्ठ जितना दिखाई देता है उससे अधिक निकट होता है।"
+        },
+        {
+          "distance": 5,
+          "first_id": "hi-2617",
+          "first_text": "एक जिज्ञासु नया अध्याय एक सौम्य सीमा के साथ शुरू होता है।",
+          "second_id": "hi-0032",
+          "second_text": "एक जिज्ञासु नया अध्याय एक सौम्य संकेत के साथ शुरू होता है।"
+        }
+      ],
+      "min_length": 22,
+      "max_length": 90,
+      "average_length": 53.07,
+      "failures": [],
+      "warnings": [
+        "4 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "ar": {
+      "native_name": "العربية",
+      "english_name": "Arabic",
+      "file": "data/fortunes/ar.json",
+      "records": 2640,
+      "unique": 2640,
+      "valid": 2640,
+      "exact_duplicates": 0,
+      "near_duplicates": 0,
+      "near_duplicate_samples": [],
+      "min_length": 20,
+      "max_length": 90,
+      "average_length": 39.41,
+      "failures": [],
+      "warnings": [],
+      "ok": true
+    },
+    "fr": {
+      "native_name": "Français",
+      "english_name": "French",
+      "file": "data/fortunes/fr.json",
+      "records": 2640,
+      "unique": 2640,
+      "valid": 2640,
+      "exact_duplicates": 0,
+      "near_duplicates": 19,
+      "near_duplicate_samples": [
+        {
+          "distance": 4,
+          "first_id": "fr-0889",
+          "first_text": "Une gentille surprise vous attend dans votre routine matinale.",
+          "second_id": "fr-0884",
+          "second_text": "Une nouvelle surprise vous attend dans votre routine matinale."
+        },
+        {
+          "distance": 4,
+          "first_id": "fr-1403",
+          "first_text": "Aujourd’hui est une douce invitation à un esprit résilient.",
+          "second_id": "fr-1169",
+          "second_text": "Aujourd’hui est une douce invitation à un esprit plus calme."
+        },
+        {
+          "distance": 4,
+          "first_id": "fr-2116",
+          "first_text": "Quelque chose de généreux naît d'une promenade en plein air.",
+          "second_id": "fr-1237",
+          "second_text": "Quelque chose de joyeux naît d'une promenade en plein air."
+        },
+        {
+          "distance": 4,
+          "first_id": "fr-2122",
+          "first_text": "Votre gentillesse revient comme une rencontre mémorable.",
+          "second_id": "fr-2007",
+          "second_text": "Votre gentillesse revient comme un nouvel horizon."
+        },
+        {
+          "distance": 4,
+          "first_id": "fr-2495",
+          "first_text": "Aujourd’hui est une douce invitation à un esprit calme.",
+          "second_id": "fr-1169",
+          "second_text": "Aujourd’hui est une douce invitation à un esprit plus calme."
+        },
+        {
+          "distance": 4,
+          "first_id": "fr-2580",
+          "first_text": "Quelque chose de calme naît d’une question curieuse.",
+          "second_id": "fr-1004",
+          "second_text": "Quelque chose de chaleureux naît d’une question curieuse."
+        },
+        {
+          "distance": 5,
+          "first_id": "fr-0238",
+          "first_text": "Votre esprit d’espoir fait en sorte qu’une seconde chance se sente chez vous.",
+          "second_id": "fr-0135",
+          "second_text": "Votre esprit de curiosité fait en sorte qu'une agréable surprise se sente chez vous."
+        },
+        {
+          "distance": 5,
+          "first_id": "fr-0867",
+          "first_text": "Une petite pause mène à une nouvelle compétence.",
+          "second_id": "fr-0163",
+          "second_text": "Une petite pause mène à une nouvelle opportunité."
+        },
+        {
+          "distance": 5,
+          "first_id": "fr-0969",
+          "first_text": "Un nouveau chapitre tranquille commence par une aventure enrichissante.",
+          "second_id": "fr-0898",
+          "second_text": "Un nouveau chapitre tendre commence par une aventure enrichissante."
+        },
+        {
+          "distance": 5,
+          "first_id": "fr-1328",
+          "first_text": "Une surprise ouverte vous attend au milieu d’une journée bien remplie.",
+          "second_id": "fr-0206",
+          "second_text": "Une surprise dorée vous attend au milieu d’une journée bien remplie."
+        },
+        {
+          "distance": 5,
+          "first_id": "fr-1403",
+          "first_text": "Aujourd’hui est une douce invitation à un esprit résilient.",
+          "second_id": "fr-1386",
+          "second_text": "Aujourd’hui est une douce invitation à une question courageuse."
+        },
+        {
+          "distance": 5,
+          "first_id": "fr-1452",
+          "first_text": "Aujourd’hui est une douce invitation à un oui clair.",
+          "second_id": "fr-0094",
+          "second_text": "Aujourd’hui est une douce invitation à un moment de bon timing."
+        },
+        {
+          "distance": 5,
+          "first_id": "fr-2047",
+          "first_text": "Vous avez la permission d’accueillir un nouvel horizon.",
+          "second_id": "fr-0402",
+          "second_text": "Vous avez la permission d'accueillir un nouveau rêve."
+        },
+        {
+          "distance": 5,
+          "first_id": "fr-2495",
+          "first_text": "Aujourd’hui est une douce invitation à un esprit calme.",
+          "second_id": "fr-1386",
+          "second_text": "Aujourd’hui est une douce invitation à une question courageuse."
+        },
+        {
+          "distance": 5,
+          "first_id": "fr-2502",
+          "first_text": "Aujourd’hui est une douce invitation à un calme chaleureux.",
+          "second_id": "fr-0304",
+          "second_text": "Aujourd’hui est une douce invitation à une matinée claire."
+        },
+        {
+          "distance": 5,
+          "first_id": "fr-2502",
+          "first_text": "Aujourd’hui est une douce invitation à un calme chaleureux.",
+          "second_id": "fr-0515",
+          "second_text": "Aujourd’hui est une douce invitation à une âme sœur."
+        },
+        {
+          "distance": 5,
+          "first_id": "fr-2502",
+          "first_text": "Aujourd’hui est une douce invitation à un calme chaleureux.",
+          "second_id": "fr-0258",
+          "second_text": "Aujourd’hui est une douce invitation à une graine de possibilité."
+        },
+        {
+          "distance": 5,
+          "first_id": "fr-2518",
+          "first_text": "Une courageuse surprise vous attend dans votre propre maison.",
+          "second_id": "fr-1924",
+          "second_text": "Une surprise facile vous attend dans votre propre maison."
+        },
+        {
+          "distance": 5,
+          "first_id": "fr-2578",
+          "first_text": "Aujourd’hui est une douce invitation à un rythme plus doux.",
+          "second_id": "fr-2354",
+          "second_text": "Aujourd’hui est une douce invitation à un don de temps."
+        }
+      ],
+      "min_length": 32,
+      "max_length": 108,
+      "average_length": 60.23,
+      "failures": [],
+      "warnings": [
+        "19 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "pt": {
+      "native_name": "Português",
+      "english_name": "Portuguese",
+      "file": "data/fortunes/pt.json",
+      "records": 2637,
+      "unique": 2637,
+      "valid": 2637,
+      "exact_duplicates": 0,
+      "near_duplicates": 7,
+      "near_duplicate_samples": [
+        {
+          "distance": 4,
+          "first_id": "pt-0547",
+          "first_text": "Você está se movendo em direção a um lugar ao qual pertencer com paciência.",
+          "second_id": "pt-0477",
+          "second_text": "Você está se movendo em direção a um lugar ao qual pertencer com carinho."
+        },
+        {
+          "distance": 5,
+          "first_id": "pt-0160",
+          "first_text": "Uma escolha aberta pode abrir espaço para uma jogada de sorte.",
+          "second_id": "pt-0106",
+          "second_text": "Uma escolha fácil pode abrir espaço para uma jogada de sorte."
+        },
+        {
+          "distance": 5,
+          "first_id": "pt-1002",
+          "first_text": "Deixe que uma ideia engenhosa encontre você nos momentos do dia a dia.",
+          "second_id": "pt-0943",
+          "second_text": "Que uma ideia engenhosa encontre você nos momentos do dia a dia."
+        },
+        {
+          "distance": 5,
+          "first_id": "pt-1134",
+          "first_text": "Você descobrirá uma visão significativa no meio de um dia agitado.",
+          "second_id": "pt-0803",
+          "second_text": "Você descobrirá uma lição significativa no meio de um dia agitado."
+        },
+        {
+          "distance": 5,
+          "first_id": "pt-1525",
+          "first_text": "Sua gentileza retorna como um claro sim.",
+          "second_id": "pt-1469",
+          "second_text": "Sua gentileza retorna como um passo corajoso."
+        },
+        {
+          "distance": 5,
+          "first_id": "pt-1971",
+          "first_text": "O caminho a seguir reserva um novo caminho a seguir.",
+          "second_id": "pt-0311",
+          "second_text": "O caminho a seguir reserva um novo começo."
+        },
+        {
+          "distance": 5,
+          "first_id": "pt-2466",
+          "first_text": "Você está caminhando em direção a uma mente tranquila com gentileza.",
+          "second_id": "pt-2421",
+          "second_text": "Você está caminhando em direção a uma mente tranquila com calma."
+        }
+      ],
+      "min_length": 31,
+      "max_length": 98,
+      "average_length": 58.41,
+      "failures": [],
+      "warnings": [
+        "7 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "bn": {
+      "native_name": "বাংলা",
+      "english_name": "Bengali",
+      "file": "data/fortunes/bn.json",
+      "records": 2638,
+      "unique": 2638,
+      "valid": 2638,
+      "exact_duplicates": 0,
+      "near_duplicates": 3,
+      "near_duplicate_samples": [
+        {
+          "distance": 4,
+          "first_id": "bn-1942",
+          "first_text": "একটি সহায়ক রিসেট একটি নরম সূর্যোদয়ের মত আপনার সাথে দেখা করতে দিন।",
+          "second_id": "bn-0941",
+          "second_text": "একটি সম্পদপূর্ণ ধারণা একটি নরম সূর্যোদয়ের মত আপনার সাথে দেখা করতে দিন."
+        },
+        {
+          "distance": 5,
+          "first_id": "bn-1180",
+          "first_text": "একটি ভাগ করা খাবার আপনাকে একটি পরিষ্কার পথের দিকে নিয়ে যাবে।",
+          "second_id": "bn-1008",
+          "second_text": "একটি ভাগ করা খাবার আপনাকে একটি সন্তোষজনক ফলাফলের দিকে নিয়ে যাবে।"
+        },
+        {
+          "distance": 5,
+          "first_id": "bn-1661",
+          "first_text": "একটি সৎ বন্ধুত্ব আপনাকে একটি হালকা হৃদয়ের দিকে নিয়ে যাবে।",
+          "second_id": "bn-1431",
+          "second_text": "একটি নতুন রুটিন আপনাকে একটি স্থির হৃদয়ের দিকে নিয়ে যাবে।"
+        }
+      ],
+      "min_length": 22,
+      "max_length": 89,
+      "average_length": 55.17,
+      "failures": [],
+      "warnings": [
+        "3 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "ru": {
+      "native_name": "Русский",
+      "english_name": "Russian",
+      "file": "data/fortunes/ru.json",
+      "records": 2632,
+      "unique": 2632,
+      "valid": 2632,
+      "exact_duplicates": 0,
+      "near_duplicates": 8,
+      "near_duplicate_samples": [
+        {
+          "distance": 1,
+          "first_id": "ru-2589",
+          "first_text": "Сохраняйте честность; это открывает путь к тихой радости.",
+          "second_id": "ru-1537",
+          "second_text": "Сохраняйте честность; это открывает путь к ясному «да»."
+        },
+        {
+          "distance": 3,
+          "first_id": "ru-2192",
+          "first_text": "В этом сезоне ваша мягкость вознаградится возможностью побродить.",
+          "second_id": "ru-2140",
+          "second_text": "В этом сезоне ваша открытость вознаградится возможностью побродить."
+        },
+        {
+          "distance": 3,
+          "first_id": "ru-2396",
+          "first_text": "Яркий сюрприз ждет в вашем собственном доме.",
+          "second_id": "ru-1924",
+          "second_text": "Легкий сюрприз ждет в вашем собственном доме."
+        },
+        {
+          "distance": 4,
+          "first_id": "ru-2537",
+          "first_text": "Маленькая радость от простого плана указывает на теплое спокойствие.",
+          "second_id": "ru-1593",
+          "second_text": "Маленькая радость от простого плана указывает на мирное удовольствие."
+        },
+        {
+          "distance": 4,
+          "first_id": "ru-2627",
+          "first_text": "Сохраняйте устойчивость; это открывает путь к спокойному уму.",
+          "second_id": "ru-2452",
+          "second_text": "Сохраняйте устойчивость; это открывает путь к спокойному сердцу."
+        },
+        {
+          "distance": 5,
+          "first_id": "ru-0969",
+          "first_text": "Новая тихая глава начинается с полезного предприятия.",
+          "second_id": "ru-0898",
+          "second_text": "Новая нежная глава начинается с полезного предприятия."
+        },
+        {
+          "distance": 5,
+          "first_id": "ru-1692",
+          "first_text": "Ваше теплое сердце приветствует солнечный обход.",
+          "second_id": "ru-1645",
+          "second_text": "Ваше терпеливое сердце приветствует солнечный обход."
+        },
+        {
+          "distance": 5,
+          "first_id": "ru-2363",
+          "first_text": "Маленькая радость минуты отдыха указывает на руку помощи.",
+          "second_id": "ru-1675",
+          "second_text": "Маленькая радость минуты отдыха указывает на светлый момент."
+        }
+      ],
+      "min_length": 28,
+      "max_length": 101,
+      "average_length": 53.87,
+      "failures": [],
+      "warnings": [
+        "8 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "id": {
+      "native_name": "Bahasa Indonesia",
+      "english_name": "Indonesian",
+      "file": "data/fortunes/id.json",
+      "records": 2100,
+      "unique": 2100,
+      "valid": 2100,
+      "exact_duplicates": 0,
+      "near_duplicates": 13,
+      "near_duplicate_samples": [
+        {
+          "distance": 2,
+          "first_id": "id-0762",
+          "first_text": "Sebuah halaman bersih siap untuk bab berikutnya. Sebuah awal yang beruntung mulai terbentuk.",
+          "second_id": "id-0517",
+          "second_text": "Sebuah halaman bersih siap untuk bab berikutnya. Sebuah usaha yang bermanfaat mulai terbentuk."
+        },
+        {
+          "distance": 2,
+          "first_id": "id-1648",
+          "first_text": "Hadiah yang berarti akan tiba pada waktu yang tepat. Tempat tempatmu menunggu.",
+          "second_id": "id-0020",
+          "second_text": "Hubungan berguna akan muncul pada waktu yang tepat. Hadiah yang berarti akan tiba pada waktu yang tepat."
+        },
+        {
+          "distance": 3,
+          "first_id": "id-0349",
+          "first_text": "Sebuah kesempatan beruntung sedang menuju ke arahmu. Persahabatan yang abadi akan membawa kebahagiaan.",
+          "second_id": "id-0263",
+          "second_text": "Sebuah kesempatan beruntung sedang menuju ke arahmu. Keputusan yang bijaksana akan membuatmu tenang."
+        },
+        {
+          "distance": 3,
+          "first_id": "id-0546",
+          "first_text": "Sebuah kesempatan beruntung sedang menuju ke arahmu. Sedikit keberuntungan akan membuat hari Anda lebih mudah.",
+          "second_id": "id-0263",
+          "second_text": "Sebuah kesempatan beruntung sedang menuju ke arahmu. Keputusan yang bijaksana akan membuatmu tenang."
+        },
+        {
+          "distance": 3,
+          "first_id": "id-1135",
+          "first_text": "Berkah bersama akan membuat hari Anda lebih cerah. Pertanyaan yang berani akan membawa jawaban yang jujur.",
+          "second_id": "id-0197",
+          "second_text": "Berkah bersama akan membuat hari Anda lebih cerah. Pertanyaan berani akan mengarah pada jawaban yang berguna."
+        },
+        {
+          "distance": 4,
+          "first_id": "id-0188",
+          "first_text": "Berhenti puas akan mengembalikan energi Anda. Tempat baru akan membawa perspektif baru.",
+          "second_id": "id-0127",
+          "second_text": "Berhenti puas akan mengembalikan energi Anda. Teman baru akan membawa perspektif baru."
+        },
+        {
+          "distance": 4,
+          "first_id": "id-1038",
+          "first_text": "Langkah pertama yang kuat akan membuka jalan. Tantangan yang menyenangkan akan mengajarkan sesuatu yang berguna.",
+          "second_id": "id-0317",
+          "second_text": "Teman baru akan membawa perspektif baru. Tantangan yang menyenangkan akan mengajarkan sesuatu yang berguna."
+        },
+        {
+          "distance": 4,
+          "first_id": "id-1270",
+          "first_text": "Sebuah kejutan gembira sedang dalam perjalanan. Tempat baru akan membawa perspektif baru.",
+          "second_id": "id-0465",
+          "second_text": "Sebuah kejutan gembira sedang dalam perjalanan. Teman baru akan membawa perspektif baru."
+        },
+        {
+          "distance": 4,
+          "first_id": "id-1745",
+          "first_text": "Sebuah jalur baru menunggu untuk dijelajahi. Sebuah kisah yang layak diceritakan sedang terbentuk.",
+          "second_id": "id-0439",
+          "second_text": "Awal baru menunggumu. Sebuah kisah yang layak diceritakan sedang terbentuk."
+        },
+        {
+          "distance": 4,
+          "first_id": "id-2016",
+          "first_text": "Hadiah yang berarti akan tiba pada waktu yang tepat. Langkah berani akan memajukanmu ke depan.",
+          "second_id": "id-0020",
+          "second_text": "Hubungan berguna akan muncul pada waktu yang tepat. Hadiah yang berarti akan tiba pada waktu yang tepat."
+        },
+        {
+          "distance": 5,
+          "first_id": "id-1137",
+          "first_text": "Langkah pertama yang kuat akan membuka jalan. Pandangan yang lebih luas akan membantu Anda memilih dengan baik.",
+          "second_id": "id-0863",
+          "second_text": "Pandangan yang lebih luas akan membantu Anda memilih dengan baik. Jalan baru terbuka pada saat yang tepat."
+        },
+        {
+          "distance": 5,
+          "first_id": "id-1370",
+          "first_text": "Sebuah lingkaran perawatan tumbuh di sekitar Anda. Pilihan yang berani akan mengarah pada pertumbuhan.",
+          "second_id": "id-0029",
+          "second_text": "Sebuah lingkaran perawatan tumbuh di sekitar Anda. Panen yang murah hati akan mengikuti kerja kerasmu yang sabar."
+        },
+        {
+          "distance": 5,
+          "first_id": "id-1370",
+          "first_text": "Sebuah lingkaran perawatan tumbuh di sekitar Anda. Pilihan yang berani akan mengarah pada pertumbuhan.",
+          "second_id": "id-1151",
+          "second_text": "Hadiah yang berarti akan tiba pada waktu yang tepat. Sebuah lingkaran perawatan tumbuh di sekitar Anda."
+        }
+      ],
+      "min_length": 51,
+      "max_length": 149,
+      "average_length": 99.08,
+      "failures": [],
+      "warnings": [
+        "13 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "ur": {
+      "native_name": "اردو",
+      "english_name": "Urdu",
+      "file": "data/fortunes/ur.json",
+      "records": 2638,
+      "unique": 2638,
+      "valid": 2638,
+      "exact_duplicates": 0,
+      "near_duplicates": 5,
+      "near_duplicate_samples": [
+        {
+          "distance": 2,
+          "first_id": "ur-1651",
+          "first_text": "اچھی چیزیں ایک خوشگوار اجتماع کے ارد گرد جمع ہوتی ہیں.",
+          "second_id": "ur-0556",
+          "second_text": "اچھی چیزیں ایک خوشگوار ری یونین کے ارد گرد جمع ہوتی ہیں."
+        },
+        {
+          "distance": 5,
+          "first_id": "ur-1701",
+          "first_text": "ایک فراخ دلانہ اشارہ ایک خوشگوار دریافت لائے گا۔",
+          "second_id": "ur-0147",
+          "second_text": "ایک فراخ دلانہ اشارہ ایک خوشگوار حیرت لائے گا۔"
+        },
+        {
+          "distance": 5,
+          "first_id": "ur-2054",
+          "first_text": "آپ کی مستقل کوشش کا جذبہ گھر میں ایک نئے راستے کا احساس دلاتا ہے۔",
+          "second_id": "ur-2041",
+          "second_text": "آپ کی ہمت کا جذبہ گھر میں ایک نئے راستے کا احساس دلاتا ہے۔"
+        },
+        {
+          "distance": 5,
+          "first_id": "ur-2054",
+          "first_text": "آپ کی مستقل کوشش کا جذبہ گھر میں ایک نئے راستے کا احساس دلاتا ہے۔",
+          "second_id": "ur-0261",
+          "second_text": "آپ کی مستقل کوشش کا جذبہ گھر میں ایک نرم نئے باب کا احساس دلاتا ہے۔"
+        },
+        {
+          "distance": 5,
+          "first_id": "ur-2071",
+          "first_text": "آپ سخاوت کے ساتھ ایک خوشگوار حیرت کی طرف بڑھ رہے ہیں۔",
+          "second_id": "ur-1622",
+          "second_text": "آپ ہمت کے ساتھ ایک خوشگوار حیرت کی طرف بڑھ رہے ہیں۔"
+        }
+      ],
+      "min_length": 29,
+      "max_length": 95,
+      "average_length": 51.49,
+      "failures": [],
+      "warnings": [
+        "5 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "de": {
+      "native_name": "Deutsch",
+      "english_name": "German",
+      "file": "data/fortunes/de.json",
+      "records": 2100,
+      "unique": 2100,
+      "valid": 2100,
+      "exact_duplicates": 0,
+      "near_duplicates": 8,
+      "near_duplicate_samples": [
+        {
+          "distance": 1,
+          "first_id": "de-1216",
+          "first_text": "Eine neue Kraft wächst in dir. Eine freudige Versammlung wird dich näher zu anderen bringen.",
+          "second_id": "de-0579",
+          "second_text": "Die stille Kraft wächst in dir. Eine freudige Versammlung wird dich näher zu anderen bringen."
+        },
+        {
+          "distance": 5,
+          "first_id": "de-0853",
+          "first_text": "Eine nützliche Verbindung wird zur richtigen Zeit erscheinen. Ein neuer Weg öffnet sich.",
+          "second_id": "de-0124",
+          "second_text": "Eine nützliche Lektion wird zur richtigen Zeit kommen. Ein neuer Weg öffnet sich."
+        },
+        {
+          "distance": 5,
+          "first_id": "de-1117",
+          "first_text": "Eine unvergessliche Begegnung wird Ihre Woche bereichern. Ein glücklicher Unfall führt zu etwas Gutes.",
+          "second_id": "de-0079",
+          "second_text": "Eine unvergessliche Begegnung wird Ihre Woche bereichern. Ein mutiger Schritt wird dich voranbringen."
+        },
+        {
+          "distance": 5,
+          "first_id": "de-1538",
+          "first_text": "Eine nützliche Verbindung wird zur richtigen Zeit erscheinen. Ein guter Zeitpunkt wird Sie an einem unerwarteten Ort treffen.",
+          "second_id": "de-1447",
+          "second_text": "Eine nützliche Lektion wird zur richtigen Zeit kommen. Ein guter Zeitpunkt wird Sie an einem unerwarteten Ort treffen."
+        },
+        {
+          "distance": 5,
+          "first_id": "de-1681",
+          "first_text": "Ein glänzender Moment wird dich zum Lächeln bringen. Ein vertrauenswürdiger Begleiter wird an Ihrer Seite stehen.",
+          "second_id": "de-1124",
+          "second_text": "Ein vertrauenswürdiger Begleiter wird an Ihrer Seite stehen. Eine freudige Versammlung wird dich näher zu anderen bringen."
+        },
+        {
+          "distance": 5,
+          "first_id": "de-1805",
+          "first_text": "Eine mutige Frage führt zu einer nützlichen Antwort. Eine unvergessliche Begegnung wird Ihre Woche bereichern.",
+          "second_id": "de-1354",
+          "second_text": "Eine unvergessliche Begegnung wird Ihre Woche bereichern. Ein Geschenk von Zeit wird mehr bedeuten, als du erwartest."
+        },
+        {
+          "distance": 5,
+          "first_id": "de-1825",
+          "first_text": "Eine freudige Wiedervereinigung kommt bald. Eine neue Fähigkeit öffnet eine nützliche Tür.",
+          "second_id": "de-1140",
+          "second_text": "Eine freudige Wiedervereinigung kommt bald. Eine neue Kraft wächst in dir."
+        },
+        {
+          "distance": 5,
+          "first_id": "de-2014",
+          "first_text": "Ein Moment Mut wird deinen Tag verändern. Eine stärkere Gemeinschaft nimmt Gestalt an.",
+          "second_id": "de-0415",
+          "second_text": "Ein Moment Geben bringt Freude. Eine stärkere Gemeinschaft nimmt Gestalt an."
+        }
+      ],
+      "min_length": 60,
+      "max_length": 138,
+      "average_length": 97.96,
+      "failures": [],
+      "warnings": [
+        "8 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "ja": {
+      "native_name": "日本語",
+      "english_name": "Japanese",
+      "file": "data/fortunes/ja.json",
+      "records": 2100,
+      "unique": 2100,
+      "valid": 2100,
+      "exact_duplicates": 0,
+      "near_duplicates": 0,
+      "near_duplicate_samples": [],
+      "min_length": 18,
+      "max_length": 53,
+      "average_length": 35.5,
+      "failures": [],
+      "warnings": [],
+      "ok": true
+    },
+    "pcm": {
+      "native_name": "Nigerian Pidgin",
+      "english_name": "Nigerian Pidgin",
+      "file": "data/fortunes/pcm.json",
+      "records": 2640,
+      "unique": 2640,
+      "valid": 2640,
+      "exact_duplicates": 0,
+      "near_duplicates": 8,
+      "near_duplicate_samples": [
+        {
+          "distance": 3,
+          "first_id": "pcm-2622",
+          "first_text": "You get permission to welcome peaceful morning.",
+          "second_id": "pcm-2586",
+          "second_text": "You get permission to welcome peaceful moment."
+        },
+        {
+          "distance": 4,
+          "first_id": "pcm-1878",
+          "first_text": "Your kindness go come back as stronger foundation.",
+          "second_id": "pcm-0735",
+          "second_text": "Your kindness go come back as stronger voice."
+        },
+        {
+          "distance": 4,
+          "first_id": "pcm-1997",
+          "first_text": "The curiosity wey you get go attract new place to discover.",
+          "second_id": "pcm-0649",
+          "second_text": "The curiosity wey you get go attract place to belong."
+        },
+        {
+          "distance": 4,
+          "first_id": "pcm-2190",
+          "first_text": "One sweet choice go make room for fresh path.",
+          "second_id": "pcm-0726",
+          "second_text": "One sweet choice go make room for fresh view."
+        },
+        {
+          "distance": 4,
+          "first_id": "pcm-2555",
+          "first_text": "One sweet choice go make room for peaceful morning.",
+          "second_id": "pcm-2427",
+          "second_text": "One sweet choice go make room for peaceful moment."
+        },
+        {
+          "distance": 5,
+          "first_id": "pcm-2017",
+          "first_text": "Make open mind guide you enter open map.",
+          "second_id": "pcm-0744",
+          "second_text": "Make open mind guide you enter new understanding."
+        },
+        {
+          "distance": 5,
+          "first_id": "pcm-2358",
+          "first_text": "Good news dey follow moment of giving.",
+          "second_id": "pcm-0928",
+          "second_text": "Good news dey follow moment of plenty."
+        },
+        {
+          "distance": 5,
+          "first_id": "pcm-2476",
+          "first_text": "This season dey reward your gentleness with quiet mind.",
+          "second_id": "pcm-2226",
+          "second_text": "This season dey reward your gentleness with helping hand."
+        }
+      ],
+      "min_length": 27,
+      "max_length": 73,
+      "average_length": 47.79,
+      "failures": [],
+      "warnings": [
+        "8 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "mr": {
+      "native_name": "मराठी",
+      "english_name": "Marathi",
+      "file": "data/fortunes/mr.json",
+      "records": 2100,
+      "unique": 2100,
+      "valid": 2100,
+      "exact_duplicates": 0,
+      "near_duplicates": 4,
+      "near_duplicate_samples": [
+        {
+          "distance": 4,
+          "first_id": "mr-1370",
+          "first_text": "एक आनंदी आश्चर्याची गोष्ट येत आहे. योग्य वेळी विचारलेला प्रश्न नवीन मार्ग उघडेल.",
+          "second_id": "mr-0865",
+          "second_text": "योग्य वेळी विचारलेला प्रश्न नवीन मार्ग उघडेल. दयाळूपणाची लाट नवीन व्यक्तीपर्यंत पोहोचेल."
+        },
+        {
+          "distance": 4,
+          "first_id": "mr-1750",
+          "first_text": "अधिक सखोल समजून घेतल्यास जुन्या चिंतेची जागा घेतली जाईल. एक शूर पाऊल तुम्हाला पुढे नेईल.",
+          "second_id": "mr-1225",
+          "second_text": "अधिक सखोल समजून घेतल्यास जुन्या चिंतेची जागा घेतली जाईल. एक शांत दृढनिश्चय तुम्हाला पार पाडेल."
+        },
+        {
+          "distance": 5,
+          "first_id": "mr-0877",
+          "first_text": "पुढे एक नवीन मार्ग उघडत आहे. थोड्या वेळाने एक स्पष्ट मार्ग दिसून येईल.",
+          "second_id": "mr-0874",
+          "second_text": "एक सार्थक धडा जवळ आला आहे. थोड्या वेळाने एक स्पष्ट मार्ग दिसून येईल."
+        },
+        {
+          "distance": 5,
+          "first_id": "mr-1985",
+          "first_text": "अधिक सखोल समजून घेतल्यास जुन्या चिंतेची जागा घेतली जाईल. जेव्हा तुम्हाला त्याची गरज असेल तेव्हा एक स्पष्ट अंतर्दृष्टी येईल.",
+          "second_id": "mr-0588",
+          "second_text": "अधिक सखोल समजून घेतल्यास जुन्या चिंतेची जागा घेतली जाईल. जेव्हा तुम्हाला गरज असेल तेव्हा मदत करणारा हात येईल."
+        }
+      ],
+      "min_length": 45,
+      "max_length": 130,
+      "average_length": 79.74,
+      "failures": [],
+      "warnings": [
+        "4 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "te": {
+      "native_name": "తెలుగు",
+      "english_name": "Telugu",
+      "file": "data/fortunes/te.json",
+      "records": 2100,
+      "unique": 2100,
+      "valid": 2100,
+      "exact_duplicates": 0,
+      "near_duplicates": 8,
+      "near_duplicate_samples": [
+        {
+          "distance": 4,
+          "first_id": "te-0768",
+          "first_text": "శ్రద్ధగల సహకారం ఒక వ్యత్యాసాన్ని చేస్తుంది. మీ జీవితంలో సున్నితమైన పునరుద్ధరణ మొదలవుతుంది.",
+          "second_id": "te-0006",
+          "second_text": "ఒక ఉదారమైన గుండె మీ కలుస్తుంది. మీ జీవితంలో సున్నితమైన పునరుద్ధరణ మొదలవుతుంది."
+        },
+        {
+          "distance": 4,
+          "first_id": "te-1803",
+          "first_text": "సమయానుసారమైన ప్రశ్న కొత్త మార్గాన్ని తెరుస్తుంది. ఒక రకమైన రిటర్న్ మార్గంలో ఉంది.",
+          "second_id": "te-0826",
+          "second_text": "నిశ్శబ్ద శక్తి మీ లోపల పెరుగుతోంది. సమయానుసారమైన ప్రశ్న కొత్త మార్గాన్ని తెరుస్తుంది."
+        },
+        {
+          "distance": 5,
+          "first_id": "te-0222",
+          "first_text": "మీ చుట్టూ ఒక వెచ్చని సంబంధం పెరుగుతోంది. ఒక క్షణం సమృద్ధి మీరు శ్వాస స్థలం ఇస్తుంది.",
+          "second_id": "te-0022",
+          "second_text": "ఒక క్షణం సమృద్ధి మీరు శ్వాస స్థలం ఇస్తుంది. ఒక అదృష్ట అవకాశం మీ మార్గంలో ఉంది."
+        },
+        {
+          "distance": 5,
+          "first_id": "te-0534",
+          "first_text": "ఒక కొత్త కల స్వాగతించడానికి సిద్ధంగా ఉంది. ఒక నిశ్శబ్ద మనస్సు రోజు తేలికైన అనుభూతి చేస్తుంది.",
+          "second_id": "te-0049",
+          "second_text": "ఒక కొత్త కల స్వాగతించడానికి సిద్ధంగా ఉంది. ఒక కొత్త లయ మీ రోజులు తేలికైన అనుభూతి చేస్తుంది."
+        },
+        {
+          "distance": 5,
+          "first_id": "te-0671",
+          "first_text": "ఒక అదృష్ట ప్రారంభం రూపాన్ని తీసుకుంటుంది. ఒక కొత్త స్థలం ఒక కొత్త దృక్పథం తెస్తుంది.",
+          "second_id": "te-0218",
+          "second_text": "ఒక అదృష్ట ప్రారంభం రూపాన్ని తీసుకుంటుంది. ఒక కొత్త స్నేహితుడు ఒక కొత్త దృక్పథం తెస్తుంది."
+        },
+        {
+          "distance": 5,
+          "first_id": "te-0826",
+          "first_text": "నిశ్శబ్ద శక్తి మీ లోపల పెరుగుతోంది. సమయానుసారమైన ప్రశ్న కొత్త మార్గాన్ని తెరుస్తుంది.",
+          "second_id": "te-0670",
+          "second_text": "ఒక స్థిరమైన ఆత్మ మీరు అప్ పెరుగుతాయి సహాయం చేస్తుంది. సమయానుసారమైన ప్రశ్న కొత్త మార్గాన్ని తెరుస్తుంది."
+        },
+        {
+          "distance": 5,
+          "first_id": "te-0995",
+          "first_text": "ఒక సున్నితమైన క్షణం మీ హృదయాన్ని ఇంట్లోనే అనుభూతి చెందుతుంది. ఒక క్షణం ఇవ్వడం మీకు ఆనందాన్ని తెస్తుంది.",
+          "second_id": "te-0863",
+          "second_text": "ఒక ధైర్యమైన తిరిగి కొత్త విశ్వాసం తెస్తుంది. ఒక సున్నితమైన క్షణం మీ హృదయాన్ని ఇంట్లోనే అనుభూతి చెందుతుంది."
+        },
+        {
+          "distance": 5,
+          "first_id": "te-1783",
+          "first_text": "సమయాన్ని తెలివిగా ఉపయోగించడం సంతృప్తికరమైన ఫలితాన్ని ఇస్తుంది. రెండవ అవకాశం రాబోతోంది.",
+          "second_id": "te-1458",
+          "second_text": "సమయాన్ని తెలివిగా ఉపయోగించడం సంతృప్తికరమైన ఫలితాన్ని ఇస్తుంది. త్వరలో సంతోషకరమైన సమావేశం రాబోతోంది."
+        }
+      ],
+      "min_length": 48,
+      "max_length": 147,
+      "average_length": 91.28,
+      "failures": [],
+      "warnings": [
+        "8 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "tr": {
+      "native_name": "Türkçe",
+      "english_name": "Turkish",
+      "file": "data/fortunes/tr.json",
+      "records": 2100,
+      "unique": 2100,
+      "valid": 2100,
+      "exact_duplicates": 0,
+      "near_duplicates": 3,
+      "near_duplicate_samples": [
+        {
+          "distance": 3,
+          "first_id": "tr-1537",
+          "first_text": "Yeni bir ritm günlerinizi daha hafif hale getirecek. Umarım yakında sizi bulur.",
+          "second_id": "tr-1178",
+          "second_text": "Yeni bir ritm günlerinizi daha hafif hale getirecek. Hayatında hafif bir yenilenme başlıyor."
+        },
+        {
+          "distance": 4,
+          "first_id": "tr-1925",
+          "first_text": "Yeni bir yer yeni bir bakış açısı getirecek. Paylaşılan bir kahkaha haftanı ısıntıracak.",
+          "second_id": "tr-1223",
+          "second_text": "Yeni bir arkadaş yeni bir bakış açısı getirecek. Paylaşılan bir kahkaha haftanı ısıntıracak."
+        },
+        {
+          "distance": 5,
+          "first_id": "tr-1642",
+          "first_text": "İyi bir dönüş geliyor. Yakınlarda hoş bir sürpriz bekliyor.",
+          "second_id": "tr-1437",
+          "second_text": "İçinde sakin bir merkez bekliyor. Yakınlarda hoş bir sürpriz bekliyor."
+        }
+      ],
+      "min_length": 48,
+      "max_length": 138,
+      "average_length": 83.77,
+      "failures": [],
+      "warnings": [
+        "3 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "ta": {
+      "native_name": "தமிழ்",
+      "english_name": "Tamil",
+      "file": "data/fortunes/ta.json",
+      "records": 2100,
+      "unique": 2100,
+      "valid": 2100,
+      "exact_duplicates": 0,
+      "near_duplicates": 3,
+      "near_duplicate_samples": [
+        {
+          "distance": 4,
+          "first_id": "ta-0560",
+          "first_text": "ஒரு உறவினர் ஆவி நீங்கள் நினைப்பதை விட நெருக்கமாக உள்ளது. ஒரு நல்ல முடிவு ஒரு புதிய வாய்ப்பை உருவாக்கும்.",
+          "second_id": "ta-0257",
+          "second_text": "ஒரு சிறந்த வாய்ப்பு நீங்கள் நினைப்பதை விட நெருக்கமாக உள்ளது. ஒரு நல்ல முடிவு ஒரு புதிய வாய்ப்பை உருவாக்கும்."
+        },
+        {
+          "distance": 4,
+          "first_id": "ta-0995",
+          "first_text": "ஒரு பரந்த பார்வை உங்களுக்கு நல்ல முடிவை எடுக்க உதவும். வழியில் ஒரு ஒளி தோன்றும்.",
+          "second_id": "ta-0001",
+          "second_text": "ஒரு அதிர்ஷ்ட வாய்ப்பு உங்கள் வழியில் உள்ளது. ஒரு பரந்த பார்வை உங்களுக்கு நல்ல முடிவை எடுக்க உதவும்."
+        },
+        {
+          "distance": 5,
+          "first_id": "ta-2075",
+          "first_text": "உங்கள் அடுத்த அத்தியாயத்திற்கு ஒரு சுத்தமான பக்கம் தயாராக உள்ளது. ஒரு அன்பான நடையானது உங்களை வழிநடத்தும்.",
+          "second_id": "ta-0517",
+          "second_text": "ஒரு அதிர்ஷ்ட வாய்ப்பு உங்கள் வழியில் உள்ளது. உங்கள் அடுத்த அத்தியாயத்திற்கு ஒரு சுத்தமான பக்கம் தயாராக உள்ளது."
+        }
+      ],
+      "min_length": 56,
+      "max_length": 141,
+      "average_length": 98.59,
+      "failures": [],
+      "warnings": [
+        "3 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "vi": {
+      "native_name": "Tiếng Việt",
+      "english_name": "Vietnamese",
+      "file": "data/fortunes/vi.json",
+      "records": 2100,
+      "unique": 2100,
+      "valid": 2100,
+      "exact_duplicates": 0,
+      "near_duplicates": 4,
+      "near_duplicate_samples": [
+        {
+          "distance": 5,
+          "first_id": "vi-1165",
+          "first_text": "Một cơ hội may mắn đang đến với anh. Một sự thay đổi của số phận đang có lợi cho anh.",
+          "second_id": "vi-0198",
+          "second_text": "Một sự thay đổi của số phận đang có lợi cho anh. Một khám phá thú vị sẽ làm sáng tỏ thói quen của bạn."
+        },
+        {
+          "distance": 5,
+          "first_id": "vi-1426",
+          "first_text": "Sự lựa chọn can đảm sẽ dẫn đến sự phát triển. Một con đường mới đang chờ được khám phá.",
+          "second_id": "vi-1116",
+          "second_text": "Sự lựa chọn can đảm sẽ dẫn đến sự phát triển. Một con đường có tầm nhìn đang chờ anh."
+        },
+        {
+          "distance": 5,
+          "first_id": "vi-1441",
+          "first_text": "Một câu hỏi dũng cảm sẽ dẫn đến một câu trả lời hữu ích. Một con đường mới đang mở ra.",
+          "second_id": "vi-0732",
+          "second_text": "Một con đường có tầm nhìn đang chờ anh. Một câu hỏi dũng cảm sẽ dẫn đến một câu trả lời hữu ích."
+        },
+        {
+          "distance": 5,
+          "first_id": "vi-2061",
+          "first_text": "Một hơi thở rõ ràng sẽ giữ vững trái tim của bạn. Một câu hỏi không sợ hãi sẽ mang lại một câu trả lời trung thực.",
+          "second_id": "vi-1136",
+          "second_text": "Một trái tim vững chắc sẽ mang bạn qua. Một câu hỏi không sợ hãi sẽ mang lại một câu trả lời trung thực."
+        }
+      ],
+      "min_length": 55,
+      "max_length": 144,
+      "average_length": 96.68,
+      "failures": [],
+      "warnings": [
+        "4 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "ko": {
+      "native_name": "한국어",
+      "english_name": "Korean",
+      "file": "data/fortunes/ko.json",
+      "records": 2100,
+      "unique": 2100,
+      "valid": 2100,
+      "exact_duplicates": 0,
+      "near_duplicates": 1,
+      "near_duplicate_samples": [
+        {
+          "distance": 4,
+          "first_id": "ko-0708",
+          "first_text": "평화로운 순간이 곧 당신을 찾을 것입니다. 이야기 할 가치가 있는 이야기가 형성되고 있습니다.",
+          "second_id": "ko-0211",
+          "second_text": "놀라운 순간이 곧 당신을 찾을 것입니다. 이야기 할 가치가 있는 이야기가 형성되고 있습니다."
+        }
+      ],
+      "min_length": 30,
+      "max_length": 84,
+      "average_length": 50.01,
+      "failures": [],
+      "warnings": [
+        "1 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "it": {
+      "native_name": "Italiano",
+      "english_name": "Italian",
+      "file": "data/fortunes/it.json",
+      "records": 2100,
+      "unique": 2100,
+      "valid": 2100,
+      "exact_duplicates": 0,
+      "near_duplicates": 2,
+      "near_duplicate_samples": [
+        {
+          "distance": 4,
+          "first_id": "it-1800",
+          "first_text": "Un luogo morbido dove riposare ti aiuterà a ricominciare. Un'esplorazione audace ricompenserà la tua curiosità.",
+          "second_id": "it-0188",
+          "second_text": "Un sogno audace è pronto ad essere esplorato. Un'esplorazione audace ricompenserà la tua curiosità."
+        },
+        {
+          "distance": 5,
+          "first_id": "it-1572",
+          "first_text": "Un respiro chiaro ti rafforzerà il cuore. Una storia che vale la pena raccontare sta prendendo forma.",
+          "second_id": "it-0740",
+          "second_text": "Un respiro chiaro ti rafforzerà il cuore. Un buon inizio sta prendendo forma."
+        }
+      ],
+      "min_length": 63,
+      "max_length": 131,
+      "average_length": 93.71,
+      "failures": [],
+      "warnings": [
+        "2 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "th": {
+      "native_name": "ไทย",
+      "english_name": "Thai",
+      "file": "data/fortunes/th.json",
+      "records": 2100,
+      "unique": 2100,
+      "valid": 2100,
+      "exact_duplicates": 0,
+      "near_duplicates": 0,
+      "near_duplicate_samples": [],
+      "min_length": 41,
+      "max_length": 131,
+      "average_length": 77.8,
+      "failures": [],
+      "warnings": [],
+      "ok": true
+    },
+    "fa": {
+      "native_name": "فارسی",
+      "english_name": "Persian",
+      "file": "data/fortunes/fa.json",
+      "records": 2100,
+      "unique": 2100,
+      "valid": 2100,
+      "exact_duplicates": 0,
+      "near_duplicates": 0,
+      "near_duplicate_samples": [],
+      "min_length": 48,
+      "max_length": 119,
+      "average_length": 76.31,
+      "failures": [],
+      "warnings": [],
+      "ok": true
+    },
+    "sw": {
+      "native_name": "Kiswahili",
+      "english_name": "Swahili",
+      "file": "data/fortunes/sw.json",
+      "records": 2100,
+      "unique": 2100,
+      "valid": 2100,
+      "exact_duplicates": 0,
+      "near_duplicates": 1,
+      "near_duplicate_samples": [
+        {
+          "distance": 5,
+          "first_id": "sw-0889",
+          "first_text": "Moyo thabiti utakubeba. Uwezekano mzuri uko karibu kuliko unavyofikiri.",
+          "second_id": "sw-0428",
+          "second_text": "Moyo thabiti utakuongoza mbele. Uwezekano mzuri uko karibu kuliko unavyofikiri."
+        }
+      ],
+      "min_length": 47,
+      "max_length": 133,
+      "average_length": 84.87,
+      "failures": [],
+      "warnings": [
+        "1 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "ha": {
+      "native_name": "Hausa",
+      "english_name": "Hausa",
+      "file": "data/fortunes/ha.json",
+      "records": 2100,
+      "unique": 2100,
+      "valid": 2100,
+      "exact_duplicates": 0,
+      "near_duplicates": 14,
+      "near_duplicate_samples": [
+        {
+          "distance": 4,
+          "first_id": "ha-0931",
+          "first_text": "Wani abu mai kyau zai sa ka yi farin ciki sosai. Idan kana da dangantaka mai kyau da mutane, za ka tuna cewa kana da muhimmanci.",
+          "second_id": "ha-0512",
+          "second_text": "Wani haɗari mai farin ciki zai haifar da wani abu mai kyau. Idan kana da dangantaka mai kyau da mutane, za ka tuna cewa kana da muhimmanci."
+        },
+        {
+          "distance": 4,
+          "first_id": "ha-0944",
+          "first_text": "Idan kana da dangantaka mai kyau da mutane, za ka tuna cewa kana da muhimmanci. Idan ka yi hutu da kyau, za ka sake samun ƙarfinka.",
+          "second_id": "ha-0931",
+          "second_text": "Wani abu mai kyau zai sa ka yi farin ciki sosai. Idan kana da dangantaka mai kyau da mutane, za ka tuna cewa kana da muhimmanci."
+        },
+        {
+          "distance": 4,
+          "first_id": "ha-0965",
+          "first_text": "Idan kana da dangantaka mai kyau da mutane, za ka tuna cewa kana da muhimmanci. Muna da sabon bege.",
+          "second_id": "ha-0210",
+          "second_text": "Idan kana da dangantaka mai kyau da mutane, za ka tuna cewa kana da muhimmanci. Mataki na farko mai ƙarfi zai buɗe hanya."
+        },
+        {
+          "distance": 4,
+          "first_id": "ha-1006",
+          "first_text": "Wata dama mai sa'a tana zuwa gare ka. Idan kana da dangantaka mai kyau da mutane, za ka tuna cewa kana da muhimmanci.",
+          "second_id": "ha-0077",
+          "second_text": "Idan kana da dangantaka mai kyau da mutane, za ka tuna cewa kana da muhimmanci. Kana da dangantaka mai kyau da Jehobah."
+        },
+        {
+          "distance": 4,
+          "first_id": "ha-1766",
+          "first_text": "Idan kana da dangantaka mai kyau da mutane, za ka tuna cewa kana da muhimmanci. Za ka samu saƙo daga zuciyarka a lokacin da kake bukatarsa.",
+          "second_id": "ha-0931",
+          "second_text": "Wani abu mai kyau zai sa ka yi farin ciki sosai. Idan kana da dangantaka mai kyau da mutane, za ka tuna cewa kana da muhimmanci."
+        },
+        {
+          "distance": 5,
+          "first_id": "ha-0653",
+          "first_text": "Idan kana da ƙarfin hali, hakan zai taimaka maka ka tashi. Idan kana da dangantaka mai kyau da mutane, za ka tuna cewa kana da muhimmanci.",
+          "second_id": "ha-0546",
+          "second_text": "Idan kana da dangantaka mai kyau da mutane, za ka tuna cewa kana da muhimmanci. Ana gina tushe mai ƙarfi."
+        },
+        {
+          "distance": 5,
+          "first_id": "ha-0742",
+          "first_text": "Ba da daɗewa ba za ka sami dalilin da zai sa ka kasance da bege. Abin mamaki mai ban sha'awa yana zuwa.",
+          "second_id": "ha-0085",
+          "second_text": "Ba da daɗewa ba za ka sami dalilin da zai sa ka kasance da bege. Abin mamaki mai ban sha'awa yana jiranmu a kusa."
+        },
+        {
+          "distance": 5,
+          "first_id": "ha-0965",
+          "first_text": "Idan kana da dangantaka mai kyau da mutane, za ka tuna cewa kana da muhimmanci. Muna da sabon bege.",
+          "second_id": "ha-0797",
+          "second_text": "Idan kana da dangantaka mai kyau da mutane, za ka tuna cewa kana da muhimmanci. Kana da tabbaci sosai a cikinka."
+        },
+        {
+          "distance": 5,
+          "first_id": "ha-1318",
+          "first_text": "Wani ɗan farin ciki zai same ka a yau. Idan kana da dangantaka mai kyau da mutane, za ka tuna cewa kana da muhimmanci.",
+          "second_id": "ha-0931",
+          "second_text": "Wani abu mai kyau zai sa ka yi farin ciki sosai. Idan kana da dangantaka mai kyau da mutane, za ka tuna cewa kana da muhimmanci."
+        },
+        {
+          "distance": 5,
+          "first_id": "ha-1407",
+          "first_text": "Idan kana da dangantaka mai kyau da mutane, za ka tuna cewa kana da muhimmanci. Idan kana da ra'ayi mai zurfi, hakan zai taimaka maka ka yi zaɓi mai kyau.",
+          "second_id": "ha-0965",
+          "second_text": "Idan kana da dangantaka mai kyau da mutane, za ka tuna cewa kana da muhimmanci. Muna da sabon bege."
+        },
+        {
+          "distance": 5,
+          "first_id": "ha-1407",
+          "first_text": "Idan kana da dangantaka mai kyau da mutane, za ka tuna cewa kana da muhimmanci. Idan kana da ra'ayi mai zurfi, hakan zai taimaka maka ka yi zaɓi mai kyau.",
+          "second_id": "ha-0077",
+          "second_text": "Idan kana da dangantaka mai kyau da mutane, za ka tuna cewa kana da muhimmanci. Kana da dangantaka mai kyau da Jehobah."
+        },
+        {
+          "distance": 5,
+          "first_id": "ha-1565",
+          "first_text": "Idan kana da dangantaka mai kyau da mutane, za ka tuna cewa kana da muhimmanci. Albarka mai kyau tana zuwa gare ka.",
+          "second_id": "ha-0077",
+          "second_text": "Idan kana da dangantaka mai kyau da mutane, za ka tuna cewa kana da muhimmanci. Kana da dangantaka mai kyau da Jehobah."
+        },
+        {
+          "distance": 5,
+          "first_id": "ha-1738",
+          "first_text": "Idan ka yi hutu a hankali, za ka sami kwanciyar hankali. Idan ka yi hutu da kyau, za ka sake samun ƙarfinka.",
+          "second_id": "ha-0858",
+          "second_text": "Idan ka yi hutu a hankali, za ka sami kwanciyar hankali. Shan numfashi mai kyau zai ƙarfafa zuciyarka."
+        },
+        {
+          "distance": 5,
+          "first_id": "ha-1871",
+          "first_text": "An soma warkar da ruhunmu. Abin mamaki mai ban al'ajabi zai ƙarfafa zuciyarka.",
+          "second_id": "ha-1042",
+          "second_text": "Albarka mai kyau tana zuwa gare ka. Abin mamaki mai ban al'ajabi zai ƙarfafa zuciyarka."
+        }
+      ],
+      "min_length": 45,
+      "max_length": 154,
+      "average_length": 91.51,
+      "failures": [],
+      "warnings": [
+        "14 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "yo": {
+      "native_name": "Yorùbá",
+      "english_name": "Yoruba",
+      "file": "data/fortunes/yo.json",
+      "records": 2100,
+      "unique": 2100,
+      "valid": 2100,
+      "exact_duplicates": 0,
+      "near_duplicates": 2,
+      "near_duplicate_samples": [
+        {
+          "distance": 4,
+          "first_id": "yo-1530",
+          "first_text": "Ìwádìí tó o bá ṣe láìfọ̀rọ̀ sábẹ́ ahọ́n á jẹ́ kó o mọ ohun tó ò ń fẹ́ mọ̀. Tó o bá ń ṣe bẹ́ẹ̀, wàá mọ ohun tó ṣe pàtàkì jù.",
+          "second_id": "yo-0855",
+          "second_text": "Ọ̀nà tuntun kan ń ṣí sílẹ̀. Ìwádìí tó o bá ṣe láìfọ̀rọ̀ sábẹ́ ahọ́n á jẹ́ kó o mọ ohun tó ò ń fẹ́ mọ̀."
+        },
+        {
+          "distance": 5,
+          "first_id": "yo-1530",
+          "first_text": "Ìwádìí tó o bá ṣe láìfọ̀rọ̀ sábẹ́ ahọ́n á jẹ́ kó o mọ ohun tó ò ń fẹ́ mọ̀. Tó o bá ń ṣe bẹ́ẹ̀, wàá mọ ohun tó ṣe pàtàkì jù.",
+          "second_id": "yo-0357",
+          "second_text": "Ó máa ń dùn mọ́ni gan-an tá a bá ń ṣeré ìdárayá. Ìwádìí tó o bá ṣe láìfọ̀rọ̀ sábẹ́ ahọ́n á jẹ́ kó o mọ ohun tó ò ń fẹ́ mọ̀."
+        }
+      ],
+      "min_length": 41,
+      "max_length": 169,
+      "average_length": 93.01,
+      "failures": [],
+      "warnings": [
+        "2 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "nl": {
+      "native_name": "Nederlands",
+      "english_name": "Dutch",
+      "file": "data/fortunes/nl.json",
+      "records": 2100,
+      "unique": 2100,
+      "valid": 2100,
+      "exact_duplicates": 0,
+      "near_duplicates": 2,
+      "near_duplicate_samples": [
+        {
+          "distance": 2,
+          "first_id": "nl-2086",
+          "first_text": "Een genereus gebaar zal je terugkomen. Een nieuwe vriend brengt een nieuw perspectief.",
+          "second_id": "nl-1925",
+          "second_text": "Een genereus gebaar zal je terugkomen. Een nieuwe plek brengt een nieuw perspectief."
+        },
+        {
+          "distance": 3,
+          "first_id": "nl-2087",
+          "first_text": "Een onvergetelijke ontmoeting zal je week verrijken. Een nieuwe vriend brengt een nieuw perspectief.",
+          "second_id": "nl-1778",
+          "second_text": "Een onvergetelijke ontmoeting zal je week verrijken. Een nieuwe plek brengt een nieuw perspectief."
+        }
+      ],
+      "min_length": 53,
+      "max_length": 146,
+      "average_length": 91.35,
+      "failures": [],
+      "warnings": [
+        "2 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "pl": {
+      "native_name": "Polski",
+      "english_name": "Polish",
+      "file": "data/fortunes/pl.json",
+      "records": 2100,
+      "unique": 2100,
+      "valid": 2100,
+      "exact_duplicates": 0,
+      "near_duplicates": 4,
+      "near_duplicate_samples": [
+        {
+          "distance": 4,
+          "first_id": "pl-1757",
+          "first_text": "Małe szczęście ułatwi ci dzień. Mądre wykorzystanie czasu przyniesie satysfakcjonujące wyniki.",
+          "second_id": "pl-0997",
+          "second_text": "Mądre wykorzystanie czasu przyniesie satysfakcjonujące wyniki. Nowe miejsce przyniesie świeżą perspektywę."
+        },
+        {
+          "distance": 5,
+          "first_id": "pl-0485",
+          "first_text": "Nowy przyjaciel przyniesie nowe spojrzenie. Świetna szansa jest bliżej niż myślisz.",
+          "second_id": "pl-0160",
+          "second_text": "Przyjacielski duch jest bliżej niż myślisz. Nowy przyjaciel przyniesie nowe spojrzenie."
+        },
+        {
+          "distance": 5,
+          "first_id": "pl-0987",
+          "first_text": "Jasne wgląd przyjdzie, gdy go potrzebujesz. Mądre wykorzystanie czasu przyniesie satysfakcjonujące wyniki.",
+          "second_id": "pl-0175",
+          "second_text": "Mądre wykorzystanie czasu przyniesie satysfakcjonujące wyniki. Przyjdzie ci zasłużona nagroda."
+        },
+        {
+          "distance": 5,
+          "first_id": "pl-1819",
+          "first_text": "Zabawne wyzwanie uczy cię czegoś przydatnego. Niewielka przyjemność znajdziesz dzisiaj.",
+          "second_id": "pl-0586",
+          "second_text": "Przyjemne odkrycie poprawi twoją rutynę. Zabawne wyzwanie uczy cię czegoś przydatnego."
+        }
+      ],
+      "min_length": 55,
+      "max_length": 133,
+      "average_length": 81.87,
+      "failures": [],
+      "warnings": [
+        "4 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "fil": {
+      "native_name": "Filipino",
+      "english_name": "Filipino",
+      "file": "data/fortunes/fil.json",
+      "records": 2100,
+      "unique": 2100,
+      "valid": 2100,
+      "exact_duplicates": 0,
+      "near_duplicates": 19,
+      "near_duplicate_samples": [
+        {
+          "distance": 3,
+          "first_id": "fil-1307",
+          "first_text": "Ang isang hindi malilimutan na pakikipagtagpo ay magpaparami sa iyong linggo. Ang isang friendly na pulong ay magbibigay ng isang welcome na pagbabago.",
+          "second_id": "fil-0606",
+          "second_text": "Ang isang hindi malilimutan na pakikipagtagpo ay magpaparami sa iyong linggo. Nagsimula sa iyong buhay ang isang mabagal na pagbabago."
+        },
+        {
+          "distance": 3,
+          "first_id": "fil-2059",
+          "first_text": "Magtatuto ka ng isang kapaki-pakinabang na bagay sa isang mainam na hamon. Ang matalinong paggamit ng panahon ay magbubunga ng kasiya-siya na resulta.",
+          "second_id": "fil-0949",
+          "second_text": "Ang matalinong paggamit ng panahon ay magbubunga ng kasiya-siya na resulta. Ang isang malakas na unang hakbang ay magbubukas ng daan."
+        },
+        {
+          "distance": 4,
+          "first_id": "fil-0699",
+          "first_text": "Ang isang mabuting desisyon ay magbibigay ng bagong pagkakataon. Ang isang sandali na nagkakahalaga ng panlasa ay naghihintay sa iyo.",
+          "second_id": "fil-0642",
+          "second_text": "Ang isang lumalagong pagkakataon ay nararapat. Ang isang sandali na nagkakahalaga ng panlasa ay naghihintay sa iyo."
+        },
+        {
+          "distance": 4,
+          "first_id": "fil-1614",
+          "first_text": "Ang muling pagtatayo ng pasyente ay humahantong sa isang pangmatagalang bagay. Ang isang mas malinaw na layunin ay nagsisimulang lumiliwanag.",
+          "second_id": "fil-0001",
+          "second_text": "Ang kaloob ng oras ay magbibigay ng higit pa kaysa sa inaasahan mo. Ang muling pagtatayo ng pasyente ay humahantong sa isang pangmatagalang bagay."
+        },
+        {
+          "distance": 4,
+          "first_id": "fil-1847",
+          "first_text": "Ang isang dahilan upang mag-asa ay makahanap sa iyo sa lalong madaling panahon. Ang isang matalinong desisyon ay magbibigay sa iyo ng kapayapaan.",
+          "second_id": "fil-1768",
+          "second_text": "Ang isang tamang tanong ay magbubukas ng isang bagong daan. Ang isang dahilan upang mag-asa ay makahanap sa iyo sa lalong madaling panahon."
+        },
+        {
+          "distance": 4,
+          "first_id": "fil-2093",
+          "first_text": "Ang isang bagong kaibigan ay magbibigay ng isang bagong pananaw. Ang isang dahilan upang mag-asa ay makahanap sa iyo sa lalong madaling panahon.",
+          "second_id": "fil-1768",
+          "second_text": "Ang isang tamang tanong ay magbubukas ng isang bagong daan. Ang isang dahilan upang mag-asa ay makahanap sa iyo sa lalong madaling panahon."
+        },
+        {
+          "distance": 5,
+          "first_id": "fil-1074",
+          "first_text": "Magkakaroon ka ng isang malinaong sandali sa lalong madaling panahon. Ang isang tamang tanong ay magbubukas ng isang bagong daan.",
+          "second_id": "fil-0919",
+          "second_text": "Magkakaroon ka ng isang malinaong sandali sa lalong madaling panahon. Ang isang bagong landas ay nagbubukas sa tamang sandali."
+        },
+        {
+          "distance": 5,
+          "first_id": "fil-1299",
+          "first_text": "Magkakaroon ka ng isang malinaong sandali sa lalong madaling panahon. Ang isang maliit na pakikitungo ng kapalaran ay magiging mas madali ang iyong araw.",
+          "second_id": "fil-0800",
+          "second_text": "Nagsimula ang isang produktibong panahon. Ang isang maliit na pakikitungo ng kapalaran ay magiging mas madali ang iyong araw."
+        },
+        {
+          "distance": 5,
+          "first_id": "fil-1413",
+          "first_text": "Ang isang bagong horizon ay magpapalawak ng iyong mundo. May isang magandang pagkakataon na darating sa iyo.",
+          "second_id": "fil-0168",
+          "second_text": "Ang isang bagong horizon ay magpapalawak ng iyong mundo. Ang isang maliwanag na ideya ay darating sa isang tahimik na sandali."
+        },
+        {
+          "distance": 5,
+          "first_id": "fil-1423",
+          "first_text": "Ang isang matapang na pagpipilian ay humahantong sa paglago. Ang matalinong paggamit ng panahon ay magbubunga ng kasiya-siya na resulta.",
+          "second_id": "fil-1281",
+          "second_text": "Ang matalinong paggamit ng panahon ay magbubunga ng kasiya-siya na resulta. Isang magagandang pagbabalik ay nasa daan."
+        },
+        {
+          "distance": 5,
+          "first_id": "fil-1445",
+          "first_text": "Ang muling pagtatayo ng pasyente ay humahantong sa isang pangmatagalang bagay. Ang araw-araw na kagalakan ay naghihintay upang makita.",
+          "second_id": "fil-1326",
+          "second_text": "Ang muling pagtatayo ng pasyente ay humahantong sa isang pangmatagalang bagay. Ang isang bagong landas ay naghihintay upang ma-explore."
+        },
+        {
+          "distance": 5,
+          "first_id": "fil-1505",
+          "first_text": "Ang isang mapagkakatiwalaang tinig ay handa na magsalita. Ang isang matapang na simula ay magbibigay ng isang welcome na pagbabago.",
+          "second_id": "fil-1010",
+          "second_text": "Ang isang matapang na simula ay magbibigay ng isang welcome na pagbabago. Ang isang mas malakas na pamayanan ay kumakatawan."
+        },
+        {
+          "distance": 5,
+          "first_id": "fil-1633",
+          "first_text": "Ang isang hindi malilimutan na pakikipagtagpo ay magpaparami sa iyong linggo. Ang isang bagong kaibigan ay magbibigay ng isang bagong pananaw.",
+          "second_id": "fil-0606",
+          "second_text": "Ang isang hindi malilimutan na pakikipagtagpo ay magpaparami sa iyong linggo. Nagsimula sa iyong buhay ang isang mabagal na pagbabago."
+        },
+        {
+          "distance": 5,
+          "first_id": "fil-1667",
+          "first_text": "May isang magandang pagkakataon na darating sa iyo. Ang isang matapang na simula ay magbibigay ng isang welcome na pagbabago.",
+          "second_id": "fil-0408",
+          "second_text": "Ang isang friendly na pulong ay magbibigay ng isang welcome na pagbabago. Ang isang maliwanag na ideya ay darating sa isang tahimik na sandali."
+        },
+        {
+          "distance": 5,
+          "first_id": "fil-1721",
+          "first_text": "Ang isang kontento na pahinga ay babalik ang iyong lakas. Nagsimula ang isang produktibong panahon.",
+          "second_id": "fil-0598",
+          "second_text": "Ang isang malikhaing hilig ay maglalagay sa iyong susunod na hakbang. Ang isang kontento na pahinga ay babalik ang iyong lakas."
+        },
+        {
+          "distance": 5,
+          "first_id": "fil-1760",
+          "first_text": "Isang magagandang pagbabalik ay nasa daan. Ang isang matalinong pawis ay tutulong sa iyo na makita ang daan.",
+          "second_id": "fil-1249",
+          "second_text": "May isang magandang pagkakataon na darating sa iyo. Ang isang matalinong pawis ay tutulong sa iyo na makita ang daan."
+        },
+        {
+          "distance": 5,
+          "first_id": "fil-1953",
+          "first_text": "Ang isang maliwanag na hindi kilalang ay handa upang matugunan. Ang isang maliit na pakikitungo ng kapalaran ay magiging mas madali ang iyong araw.",
+          "second_id": "fil-0800",
+          "second_text": "Nagsimula ang isang produktibong panahon. Ang isang maliit na pakikitungo ng kapalaran ay magiging mas madali ang iyong araw."
+        },
+        {
+          "distance": 5,
+          "first_id": "fil-1986",
+          "first_text": "Ang isang bagong kasanayan ay magbubukas ng isang kapaki-pakinabang na pinto. Ang isang mapagkakatiwalaang tinig ay handa na magsalita.",
+          "second_id": "fil-0079",
+          "second_text": "Ang isang bagong kasanayan ay magbubukas ng isang kapaki-pakinabang na pinto. Ang mas malakas na tinig ay handa na marinig."
+        },
+        {
+          "distance": 5,
+          "first_id": "fil-2087",
+          "first_text": "Ang isang bagong landas ay naghihintay upang ma-explore. Ang pagbabahagi ng tawa ay magpapainit sa iyong linggo.",
+          "second_id": "fil-0934",
+          "second_text": "Ang isang bagong landas ay naghihintay upang ma-explore. Ang isang matapang na hakbang ay magpapauna sa iyo."
+        }
+      ],
+      "min_length": 81,
+      "max_length": 168,
+      "average_length": 121.8,
+      "failures": [],
+      "warnings": [
+        "19 near-duplicate pairs flagged for editorial review"
+      ],
+      "ok": true
+    },
+    "he": {
+      "native_name": "עברית",
+      "english_name": "Hebrew",
+      "file": "data/fortunes/he.json",
+      "records": 2100,
+      "unique": 2100,
+      "valid": 2100,
+      "exact_duplicates": 0,
+      "near_duplicates": 0,
+      "near_duplicate_samples": [],
+      "min_length": 34,
+      "max_length": 88,
+      "average_length": 55.76,
+      "failures": [],
+      "warnings": [],
+      "ok": true
+    }
+  },
+  "totals": {
+    "records": 68911,
+    "unique": 68911,
+    "failures": 0,
+    "warnings": 25,
+    "near_duplicates": 161
+  },
+  "ok": true
+}
